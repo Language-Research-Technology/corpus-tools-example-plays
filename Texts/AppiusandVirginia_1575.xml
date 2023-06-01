@@ -1,0 +1,1361 @@
+<!DOCTYPE TEI.2 SYSTEM "teilite.dtd">
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A machine-readable version of Appius and Virginia, by R. B.
+</title>
+<respStmt>
+<resp>compiled by</resp>
+<name>Alexis Antonia</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>Version 1</edition>
+</editionStmt>
+<publicationStmt>
+    <publisher> Imprinted at London, by William How, for Richard Iohnes. 1575</publisher>
+<date>1575</date>
+<authority>D. H. Craig, Newcastle</authority>
+</publicationStmt>
+<sourceDesc>
+<p>Based on STC1059, checked against the page images of the EEBO version
+ Malone Society Reprint 24, prepared by Ronald B. Mckerrow, 1911.   
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+<p></p>
+</editorialDecl>
+<p>
+The characters are identified by IDREF pointing to
+information in the following declarations.
+<name id="A">Apius</name>
+<name id="B">Virginius</name>
+<name id="C">Virginia</name>
+<name id="D">Mater</name>
+<name id="E">Mansipulus</name>
+<name id="F">Mansipula</name>
+<name id="G">Claudius</name>
+<name id="H">Haphazard</name>
+<name id="I">Rumour</name>
+<name id="J">Justice</name>
+<name id="K">Subservus</name>
+<name id="L">Conscience</name>
+<name id="M">Comfort</name>
+<name id="N">Reward</name>
+<name id="O">Fame</name>
+<name id="P">Prologue and Epilogue</name>
+<name id="Q">Memory</name>
+<name id="X">combined voice</name>
+</p>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<p>
+The languages (other than English) which occur in
+the text are identified by IDREF which point to the
+following.
+</p>
+    <language id="Latin">Latin</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<front></front>
+<body>
+<sp who="P"><speaker>The Prologue</speaker>
+ <l><foreign lang="Latin">Qui cupis <reg orig="&aelig;thereas">aethereas</reg> <reg orig="&amp;">et</reg> summas scandere sedes</foreign> </l>
+<l><foreign lang="Latin">Vim simul ac fraudem discute chare tibi.</foreign> </l>
+<l><foreign lang="Latin">Fraus hic nulla iuuat, no fortia facta iuuabut, </foreign> </l>
+<l><foreign lang="Latin">Sola Dei tua te trahat, terse fides. </foreign> </l>
+<l><foreign lang="Latin">Qui placet in terris intact alludis instar, </foreign> </l>
+<l><foreign lang="Latin">Viuere Virginiam nitore virgo sequi, </foreign> </l>
+<l><foreign lang="Latin">Quos tulit <reg orig="&amp;">et</reg> luctus, discas gaudia magna</foreign> </l>
+<l><foreign lang="Latin">Vitdum parc scinder fila parent. </foreign> </l>
+<l><foreign lang="Latin">Huc ades virgo, paritere moritura sepulchro, </foreign> </l>
+<l><foreign lang="Latin">Sic ait, <reg orig="&amp;">and</reg> faciem pallida morte mutat. </foreign> </l>
+<l><seg type="homograph" subtype="relative">who</seg> doth desire the trump of fame, <seg type="homograph" subtype="infinitive">to</seg> sound <reg orig="vnto"> unto </reg> the Skies,</l>
+<l>Or <reg orig="els">else</reg> <seg type="homograph" subtype="relative">who</seg> <reg orig="seekes">seeks</reg> the holy place, where mighty <reg orig="Ioue">Jove</reg> he lies,</l>
+<l>He must not <seg type="homograph" subtype="preposition">by</seg> <reg orig="deceitfull">deceitful</reg> mind, nor yet <seg type="homograph" subtype="preposition">by</seg> puissant strength,</l>
+<l>But <seg type="homograph" subtype="preposition">by</seg> the faith and sacred <reg orig="lyfe">life</reg>, he must it win at length,</l>
+<l>And what she be <seg type="homograph" subtype="relative">that</seg> virgins <reg orig="lyfe">life</reg>, <seg type="homograph" subtype="preposition">on</seg> earth <reg orig="wold"> would </reg> gladly <reg orig="leade">lead</reg>,</l>
+<l>The <reg orig="fluds">floods</reg> <seg type="homograph" subtype="relative">that</seg> Virginia did fall, I wish <seg type="homograph" subtype="personalPronoun">her</seg> <reg orig="reade">read</reg>,</l>
+<l><seg type="homograph" subtype="adjective">her</seg> <reg orig="doller">dolour</reg> and <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> <reg orig="dolefull">doleful</reg> <reg orig="losse">loss</reg>, and yet <seg type="homograph" subtype="adjective">her</seg> <reg orig="ioyes">joys</reg> at death,</l>
+<l>Come <reg orig="Uirgins">Virgins</reg> pure <seg type="homograph" subtype="preposition">to</seg> <reg orig="graue">grave</reg> with <reg orig="mee">me</reg>, quoth she with latest breath,</l>
+<l>You Lordings all <seg type="homograph" subtype="relative">that</seg> present be, this <reg orig="Tragidie">Tragedy</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="heare">hear</reg>,</l>
+<l>Note well what <reg orig="zeale">zeal</reg> and <reg orig="loue">love</reg>, <reg orig="heerein">herein</reg> doth well <reg orig="appeare">appear</reg>,</l>
+<l>And Ladies you <seg type="homograph" subtype="relative">that</seg> linked are, <seg type="homograph" subtype="preposition">in</seg> <reg orig="wedlocke">wedlock</reg> <reg orig="bandes">bands</reg> <reg orig="for euer"> forever </reg>,</l>
+<l>Do imitate the life you see, whose fame <seg type="homograph" subtype="verb">will</seg> perish <reg orig="neuer"> never </reg>,</l>
+<l>But <reg orig="Uirgins">Virgins</reg> you, <reg orig="oh">o</reg> Ladies <reg orig="faire">fair</reg>, <seg type="homograph" subtype="preposition">for</seg> honour of your name.</l>
+<l><reg orig="doo">do</reg> lead the life apparent <reg orig="heere">here</reg>, <seg type="homograph" subtype="infinitive">to</seg> win <reg orig="immortall">immortal</reg> fame,</l>
+<l>Let not the blinded God of <reg orig="loue">love</reg>, as Poets <reg orig="tearme">term</reg> him <seg type="homograph" subtype="adverbManner">so</seg>,</l>
+<l>Nor Venus with <seg type="homograph" subtype="adjective">her</seg> venery, nor <reg orig="Lechors">Lecher's</reg> cause of <reg orig="wo">woe</reg></l>
+<l>Your <reg orig="Uirgins">Virgin's</reg> name <seg type="homograph" subtype="infinitive">to</seg> spot or file: <reg orig="deare">dear</reg> dames <reg orig="obserue">observe</reg> the <seg type="homograph" subtype="noun">like</seg>,</l>
+<l><seg type="homograph" subtype="relative">that</seg> <reg orig="faire">fair</reg> Verginia did <reg orig="obserue">observe</reg>, <seg type="homograph" subtype="relative">who</seg> rather wish the knife,</l>
+<l>Of fathers hand <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> life <seg type="homograph" subtype="infinitive">to</seg> <reg orig="ende">end</reg>, <reg orig="then"> than </reg> spot <seg type="homograph" subtype="adjective">her</seg> <reg orig="chastety">chastity</reg>:</l>
+<l>As she did <reg orig="waile">wail</reg>, <reg orig="waile">wail</reg> you <seg type="homograph" subtype="adjective">her</seg> want you maids of <reg orig="courtesie">courtesy</reg>.</l>
+<l>If any <seg type="homograph" subtype="preposition">by</seg> example <reg orig="heere">here</reg>, would shun <seg type="homograph" subtype="demonstrative">that</seg> great <reg orig="anoy">annoy</reg>,</l>
+<l><seg type="homograph" subtype="truePlural">our</seg> <reg orig="Authour">Author</reg> would <reg orig="reioyce">rejoice</reg> <seg type="homograph" subtype="preposition">in</seg> <reg orig="hart">heart</reg>, and <seg type="homograph" subtype="truePlural">we</seg> would leap <seg type="homograph" subtype="preposition">for</seg> <reg orig="ioy">joy</reg>,</l>
+<l>Would Gods <seg type="homograph" subtype="conjunction">that</seg> <seg type="homograph" subtype="truePlural">our</seg> <reg orig="indeuer">endeavour</reg> may, as well <seg type="homograph" subtype="infinitive">to</seg> please your <reg orig="eares">ears</reg>,</l>
+<l>As is <seg type="homograph" subtype="truePlural">our</seg> <reg orig="Auctors">Author's</reg> meaning <reg orig="heere">here</reg>, then were <seg type="homograph" subtype="truePlural">we</seg> <reg orig="voyde">void</reg> of <reg orig="feares">fears</reg>:</l>
+<l>But <reg orig="paciently">patiently</reg> <reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> wish you <reg orig="beare">bear</reg> with this <seg type="homograph" subtype="truePlural">our</seg> first attempt.</l>
+<l><seg type="homograph" subtype="relative">which</seg> surely <seg type="homograph" subtype="verb">will</seg> <seg type="homograph" subtype="infinitive">to</seg> do <seg type="homograph" subtype="truePlural">our</seg> best, then <reg orig="yeeld">yield</reg> <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> <seg type="homograph" subtype="adjective">no</seg> contempt,</l>
+<l>And as you please <seg type="homograph" subtype="preposition">in</seg> <reg orig="pacient">patient</reg> wise, <seg type="homograph" subtype="truePlural">our</seg> first <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="receiue">receive</reg>,</l>
+<l>Ere long a better shall you win, if god do <reg orig="graunt">grant</reg> <reg orig="vs"> <seg type="homograph" subtype="truePlural">us</seg> </reg> <reg orig="leaue">leave</reg>.</l></sp>
+<stage>FINIS.</stage>
+<stage>Main text </stage>
+<stage>Enter Virginius.</stage>
+<sp who="B">
+<l>Before the time <seg type="homograph" subtype="relative">that</seg> fortunes lot, <reg orig="dyd">did</reg> <reg orig="shew">show</reg> <reg orig="ech">each</reg> fate his <reg orig="dome">doom</reg>,</l>
+<l>Or <reg orig="Byrde">Bird</reg>, or Beast, or fish, or <reg orig="Foule">Fowl</reg>, or Earth had taken <reg orig="rome">room</reg>:</l>
+<l>The Gods they did decree <seg type="homograph" subtype="infinitive">to</seg> frame, the thing is ended now,</l>
+<l>The <reg orig="Heauens">Heavens</reg>, and the Planets eke, and <reg orig="moyst">moist</reg> from <reg orig="ayre">air</reg> <seg type="homograph" subtype="infinitive">to</seg> bow.</l>
+<l>Then framed they <reg orig="y e">the</reg> man of mould <reg orig="&amp;">and</reg> clay, 
+<reg orig="&amp;">and</reg> <reg orig="gaue">gave</reg> him time <seg type="homograph" subtype="infinitive">to</seg> <reg orig="raign">reign</reg>,</l>
+<l>As seemed best their sacred minds, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="runne">run</reg> and <reg orig="turne">turn</reg> <reg orig="againe">again</reg>:</l>
+<l>They framed also after this, out of his tender side,</l>
+<l>A <reg orig="peece">piece</reg> of much <reg orig="formositie">formosity</reg>, with him <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> abide:</l>
+<l>From <reg orig="infansie">infancy</reg> <seg type="homograph" subtype="preposition">to</seg> lusty you, and <seg type="homograph" subtype="adverbDegree">so</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="raigne">reign</reg> awhile.</l>
+<l>And well <seg type="homograph" subtype="infinitive">to</seg> <reg orig="liue">live</reg>, <reg orig="tyl">till</reg> Etas he <reg orig="vnwares">unawares</reg>, do him <reg orig="begyle">beguile</reg>.</l>
+<l>And sith <seg type="homograph" subtype="infinitive">to</seg> see these <reg orig="giftes">gifts</reg> of them, <seg type="homograph" subtype="preposition">on</seg> grounded <reg orig="caue">cave</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="vew">view</reg>,</l>
+<l>Not <reg orig="daintyly">daintily</reg> <seg type="homograph" subtype="infinitive">to</seg> deck them <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg>, <seg type="homograph" subtype="relative">which</seg> after they may <reg orig="rew">rue</reg>:</l>
+<l><reg orig="Wherfore">Wherefore</reg> I thank the Gods <reg orig="aboue">above</reg>, <seg type="homograph" subtype="relative">that</seg> <reg orig="yeeld">yield</reg> <seg type="homograph" subtype="preposition">to</seg> <reg orig="mee">me</reg> such fate,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> <reg orig="lincke">link</reg> <seg type="homograph" subtype="preposition">to</seg> <reg orig="mee">me</reg> <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="iust">just</reg> a spouse, and eke <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="louing">loving</reg> mate.</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <seg type="homograph" subtype="personalPronoun">her</seg> I <reg orig="haue">have</reg> a virgin pure, an <reg orig="ympe">imp</reg> of <reg orig="heauenly">heavenly</reg> race,</l>
+<l>Both sober, <reg orig="meeke">meek</reg>, and modest too, and <reg orig="vertuous">virtuous</reg> <seg type="homograph" subtype="preposition">in</seg> <reg orig="lyke"> <seg type="homograph" subtype="adjective">like</seg> </reg> case:</l>
+<l><seg type="homograph" subtype="preposition">to</seg> Temple <seg type="homograph" subtype="verb">will</seg> I wend <reg orig="therfore">therefore</reg>, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="yeeld">yield</reg> the Gods their praise,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="conjunction">that</seg> they <reg orig="haue">have</reg> thus <reg orig="luckely">luckily</reg>, <reg orig="anexed">annexed</reg> with my <reg orig="daies">days</reg>.</l>
+<l>But stay, behold the <reg orig="peerelesse">peerless</reg> sparks <reg orig="wherof">whereof</reg> my tongue <reg orig="dyd">did</reg> <reg orig="talke">talk</reg>,</l>
+<l><reg orig="Approch">Approach</reg> <seg type="homograph" subtype="preposition">in</seg> presence of my sight, <seg type="homograph" subtype="preposition">to</seg> church I <reg orig="deeme">deem</reg> they walk,</l>
+<l>But stay I <reg orig="wyll"><seg type="homograph" subtype="verb">will</seg></reg>, and shroud me secretly a while,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> see what <reg orig="witte">wit</reg> or <reg orig="counsell">counsel</reg> <reg orig="graue">grave</reg>, 
+    proceedeth from their <reg orig="stile">style</reg>.</l></sp>
+<stage>Heere entreth Mater and Virginia </stage>
+<sp who="D">
+<l>The <reg orig="perte">pert</reg> and pricking prime of youth, ought <reg orig="chastisment">chastisement</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="haue">have</reg>,</l>
+<l>But thou <reg orig="deare">dear</reg> daughter <reg orig="needest">needst</reg> not, <reg orig="thy self">thyself</reg> doth <reg orig="shew">show</reg> thee <reg orig="graue">grave</reg>:</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> se how Phoebus with his <reg orig="beames">beams</reg>, hath youth <seg type="homograph" subtype="adverbDegree">so</seg> much infected,</l>
+<l>It doth me woe <seg type="homograph" subtype="infinitive">to</seg> see them <reg orig="craue">crave</reg> the thing should be detected.</l>
+<l>I draw <seg type="homograph" subtype="preposition">to</seg> <reg orig="graue">grave</reg>, and naught can <reg orig="leaue">leave</reg> of thee <seg type="homograph" subtype="infinitive">to</seg> be desired,</l>
+<l>As much as duty <seg type="homograph" subtype="preposition">to</seg> thy <reg orig="deare">dear</reg>, as reason hath required:</l>
+<l>Thy <reg orig="sufferent">sufferant</reg> Lord and <reg orig="frindly">friendly</reg> <reg orig="feare">fear</reg>, Virginius father thine,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> <reg orig="nourse">nurse</reg> as doth become a <reg orig="childe">child</reg>, when <reg orig="boanes">bones</reg> are buried mine.</l></sp>
+<sp who="B"><speaker>Virginius,</speaker>
+<l>Refel your <reg orig="minde">mind</reg> of <reg orig="mournig">mourning</reg> plaints, <reg orig="deare">dear</reg> mother rest your <reg orig="minde">mind</reg></l>
+<l><seg type="homograph" subtype="conjunction">for</seg> though <seg type="homograph" subtype="demonstrative">that</seg> duty dainty were, dame nature <seg type="homograph" subtype="verb">will</seg> me <reg orig="binde">bind</reg>,</l>
+<l><seg type="homograph" subtype="adverbDegree">so</seg> much <seg type="homograph" subtype="infinitive">to</seg> do, and further force, of Gods <seg type="homograph" subtype="relative">that</seg> rule the Skies,</l>
+<l>The <reg orig="Glope">Globe</reg> and eke the Element, they would me <reg orig="els">else</reg> <reg orig="dispies">despise</reg>.</l></sp>
+<sp who="D"><speaker>Mater.</speaker>
+<l>Then if the Gods <reg orig="haue">have</reg> <reg orig="graunted">granted</reg> thee, such grace <seg type="homograph" subtype="infinitive">to</seg> <reg orig="loue">love</reg> thy <reg orig="syer">sire</reg>,</l>
+<l>When time shall choose thee out a make be constant I <reg orig="requier">require</reg>:</l>
+<l><reg orig="loue">love</reg>, <reg orig="liue">live</reg>, and <reg orig="lyke"><seg type="homograph" subtype="verb">like</seg></reg> 
+him well, before you <reg orig="graunt">grant</reg> him grace or faith,</l>
+<l><seg type="homograph" subtype="adverbManner">so</seg> shall your <reg orig="loue">love</reg> continue long, experience thus he saith.</l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l>I <reg orig="graunt">grant</reg> <reg orig="deare">dear</reg> Dame I <reg orig="doo">do</reg> agree,</l>
+<l>When time shall <seg type="homograph" subtype="adverbManner">so</seg> <reg orig="prouide">provide</reg>:</l>
+<l>But tender youth and <reg orig="infansie">infancy</reg>,</l>
+<l>Doth rather wish me bide,</l>
+<l>What should I lose Dianas <reg orig="gifte">gift</reg>,</l>
+<l>And eke the spring <seg type="homograph" subtype="infinitive">to</seg> shun:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <seg type="homograph" subtype="relative">which</seg> Acteon <reg orig="fateally">fatally</reg>,</l>
+<l>His <reg orig="finall">final</reg> race did run:</l>
+<l>Should I as <reg orig="abiect">abject</reg> be esteemed,</l>
+<l>Throughout Pernassus hill,</l>
+<l>Or should my <reg orig="Uirgins">Virgin's</reg> name be <reg orig="filde">filled</reg>,</l>
+<l>It were <reg orig="to"> too </reg> great a <reg orig="skyll">skill</reg>:</l>
+<l>But yet it is <reg orig="vnspotted">unspotted</reg> <reg orig="loe">lo</reg>,</l>
+<l>Right well I <reg orig="doo">do</reg> <reg orig="conceaue">conceive</reg>,</l>
+<l>When <reg orig="wedlocke">wedlock</reg> doth require the same,</l>
+<l>With parents <reg orig="loue">love</reg> and <reg orig="leaue">leave</reg>:</l>
+<l>Yet obstinate I <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> not be,</l>
+<l>But willing <seg type="homograph" subtype="verb">will</seg> me <reg orig="yeeld">yield</reg>:</l>
+<l>When you <reg orig="commaund">command</reg> and not before</l>
+<l>Then <reg orig="duety">duty</reg> shall me <reg orig="sheeld">shield</reg>.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Ah Gods <seg type="homograph" subtype="relative">that</seg> rule and <reg orig="raine">rain</reg>, <seg type="homograph" subtype="preposition">in</seg> <reg orig="heauens">heavens</reg>, <seg type="homograph" subtype="preposition">in</seg> seas, <seg type="homograph" subtype="preposition">in</seg> <reg orig="flods">floods</reg> and lands,</l>
+<l>Two couple such I surely <reg orig="deeme">deem</reg>, you <reg orig="neuer">never</reg> made with hands,</l>
+<l>A Gods why <reg orig="doo">do</reg> ye not compel <reg orig="eche"> each </reg> 
+Dame the <reg orig="lyke"><seg type="homograph" subtype="noun">like</seg></reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="showe">show</reg>?</l>
+<l>And <reg orig="euery">every</reg> <reg orig="Impe">Imp</reg> of <seg type="homograph" subtype="personalPronoun">her</seg> <reg orig="againe"> again </reg>, <seg type="homograph" subtype="adjective">her</seg> duty thus <seg type="homograph" subtype="infinitive">to</seg> know,</l>
+<l>I cannot stay my <reg orig="tounge">tongue</reg> from <reg orig="talke">talk</reg>, I <reg orig="needes">needs</reg> must call my <reg orig="deare">dear</reg>,</l>
+<l><reg orig="oh">o</reg> spouse <reg orig="wel">well</reg> met <reg orig="&amp;">and</reg> 
+Daughter <seg type="homograph" subtype="preposition">to</seg>, what <reg orig="newes">news</reg> how do you <reg orig="cheare">cheer</reg>?</l></sp>
+<sp who="D"><speaker>Mater.</speaker>
+<l>O <reg orig="deare">dear</reg> Virginius <reg orig="Ioy">Joy</reg> <seg type="homograph" subtype="preposition">to</seg> me, <reg orig="oh"> o </reg> <reg orig="pearelesse">peerless</reg> spouse and mate,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> health I praise the Gods I am and <reg orig="ioifull">joyful</reg> <seg type="homograph" subtype="preposition">for</seg> thy state,</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Virginia my daughter <reg orig="deare">dear</reg></l>
+<l>How standeth all with thee?</l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l><seg type="homograph" subtype="adjective">like</seg> <reg orig="happie">happy</reg> state as mother <reg orig="tolde">told</reg>,</l>
+<l><seg type="homograph" subtype="adjective">like</seg> <reg orig="ioyfull">joyful</reg> sight <seg type="homograph" subtype="preposition">to</seg> <reg orig="mee">me</reg>.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods wife I <reg orig="ioy">joy</reg> me, <seg type="homograph" subtype="relative">that</seg> <reg orig="haue">have</reg> such a treasure,</l>
+<l>Such <reg orig="Gemme">Gem</reg> and such <reg orig="Iuell">Jewel</reg>, surmounting all measure:</l>
+<l>Such a happy spouse, such a fortunate dame,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> <seg type="homograph" subtype="adjective">no</seg> blot or <reg orig="staine">stain</reg>, can <reg orig="impayre">impair</reg> <seg type="homograph" subtype="adjective">her</seg> fame,</l>
+<l>Against such an <reg orig="Impe">Imp</reg>, and <reg orig="graffe">graft</reg> of my tree,</l>
+<l>As <reg orig="cleare">clear</reg> doth surmount all others <seg type="homograph" subtype="relative">that</seg> <reg orig="bee">be</reg>.</l></sp>
+<sp who="D"><speaker>Mater.</speaker>
+<l>Nay rather <reg orig="deare">dear</reg> spouse how much is my case,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> be now <reg orig="aduaunced">advanced</reg> <seg type="homograph" subtype="preposition">by</seg> such happy grace:</l>
+<l>Doth <reg orig="dayly">daily</reg> distill, my husband <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="louing">loving</reg>,</l>
+<l><reg orig="Graunting">Granting</reg> and <reg orig="geuing">giving</reg> <seg type="homograph" subtype="preposition">to</seg> all thing <reg orig="behouing">behoving</reg>,</l>
+<l><reg orig="Ioying">Joying</reg> <seg type="homograph" subtype="preposition">in</seg> me, and <seg type="homograph" subtype="preposition">in</seg> the <reg orig="fruicte">fruit</reg> of my <reg orig="wombe">womb</reg>.</l>
+<l><seg type="homograph" subtype="relative">who</seg> would not <reg orig="requit">requite</reg> it, the Gods <reg orig="yeelde">yield</reg> their <reg orig="dome">doom</reg></l>
+<l>And if it be I, the Gods <reg orig="doo">do</reg> destroy <reg orig="mee">me</reg>,</l>
+<l>Rather <reg orig="then"> than </reg> <reg orig="sinne">sin</reg>, <seg type="homograph" subtype="adverbDegree">so</seg> sore should annoy me.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l><reg orig="oh">o</reg> wife <reg orig="refell">refel</reg> thy wishing <seg type="homograph" subtype="preposition">for</seg> woe,</l>
+<l>My <reg orig="My selfe">Myself</reg> thy <reg orig="faute">fault</reg> <reg orig="rightwell">right well</reg> do know:</l>
+<l>And rather I wish my <reg orig="selfe">self</reg> <seg type="homograph" subtype="infinitive">to</seg> be <reg orig="slaine">slain</reg>,</l>
+<l><reg orig="Then">Than </reg> thou or thy daughter ought <reg orig="wo">woe</reg> should <reg orig="sustaine">sustain</reg>.</l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l><reg orig="oh">o</reg> Father my comfort, <reg orig="oh">o</reg> Mother my <reg orig="ioy">joy</reg>,</l>
+<l><reg orig="oh">o</reg> <reg orig="deare">dear</reg>, and O <reg orig="sufferaigne">sovereign</reg>, do cease <seg type="homograph" subtype="infinitive">to</seg> employ</l>
+<l>Such <reg orig="dolorus">dolorous</reg> talking, where dangers are none,</l>
+<l>Where <reg orig="Ioyes">Joys</reg> are attendant, what needeth this <reg orig="mone">moan</reg>,</l>
+<l>You matron, you spouse, you Nurse, and you wife,</l>
+<l>You comfort, you only the some of his <reg orig="lyfe">life</reg>:</l>
+<l>You <reg orig="housband">husband</reg>, you <reg orig="harte">heart</reg>, you <reg orig="ioye">joy</reg>, and you pleasure,</l>
+<l>You King, and you <reg orig="Keyser">Kaiser</reg>, <seg type="homograph" subtype="preposition">to</seg> <seg type="homograph" subtype="adjective">her</seg> only treasure,</l>
+<l>You Father, you Mother, my <reg orig="lyfe">life</reg> doth <reg orig="sustaine">sustain</reg>,</l>
+<l>I babe and I <reg orig="blisse">bliss</reg>, your health am <reg orig="againe">again</reg>,</l>
+<l><reg orig="Forbeare">Forbear</reg> then your <reg orig="dolor">dolour</reg>, let mirth be frequented</l>
+<l>Let <reg orig="sorow">sorrow</reg> <reg orig="departe">depart</reg>, and be not attempted.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l><reg orig="oh">o</reg> wife, <reg orig="oh">o</reg> spouse, I am <reg orig="contente">content</reg>.</l></sp>
+<sp who="D"><speaker>Mater.</speaker>
+<l><reg orig="oh">o</reg> Husband.</l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l><reg orig="oh">o</reg> Father <reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> <reg orig="doo">do</reg> consent.</l></sp>
+<stage>Sing heere.</stage>
+<stage>All singe this.</stage>
+<sp who="X">
+<l>The trustiest treasure <seg type="homograph" subtype="preposition">in</seg> earth earth as <reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> see,</l>
+<l>Is man, wife and children <seg type="homograph" subtype="preposition">in</seg> one <seg type="homograph" subtype="infinitive">to</seg> agree,</l>
+<l>Then friendly, and kindly, let measure be mixed</l>
+<l>With reason, <seg type="homograph" subtype="preposition">in</seg> season, where friendship is fixed.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>When nature nursed first of all, <reg orig="yong">young</reg> Alexander learned,</l>
+<l>Of <seg type="homograph" subtype="relative">who</seg> the Poets <reg orig="mencion">mention</reg> make, <seg type="homograph" subtype="preposition">in</seg> <reg orig="iudgement">judgment</reg> <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="deserned">discerned</reg>,</l>
+<l><reg orig="oh">o</reg> what did want <seg type="homograph" subtype="relative">that</seg> <reg orig="loue">love</reg> procured his 
+vital end well <reg orig="neare">near</reg>,</l>
+<l>This is the hope where parents <reg orig="loue">love</reg>, their children 
+do not <reg orig="feare">fear</reg>,</l></sp>
+<stage>All sing this.</stage>
+<sp who="X">
+<l>The trustiest treasure <seg type="homograph" subtype="preposition">in</seg> earth as <reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> see,</l>
+<l>Is man wife and children <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="D"><speaker>Mater.</speaker>
+<l>When time King Nisus would not let, his daughter <seg type="homograph" subtype="infinitive">to</seg> be taught,</l>
+<l>Of any one correcting hand <seg type="homograph" subtype="infinitive">to</seg> <reg orig="nurtue">nurture</reg> <seg type="homograph" subtype="infinitive">to</seg> be brought:</l>
+<l>She void of duty cut his <reg orig="lockes">locks</reg>, and golden tresses <reg orig="cleare">clear</reg>,</l>
+<l>Whereby his <reg orig="realme">realm</reg> was <reg orig="ouerrun">overrun</reg>, and she was <reg orig="payd">paid</reg> <seg type="homograph" subtype="adjective">her</seg> <reg orig="hier">hire</reg>,</l></sp>
+<stage>All sing this.</stage>
+<sp who="X">
+<l>The trustiest treasure <seg type="homograph" subtype="preposition">in</seg> earth as <seg type="homograph" subtype="truePlural">we</seg> see,</l>
+<l>Is man wife and children. <reg orig="&amp;c">etc</reg></l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l>When Dedalus from <reg orig="Creete">Crete</reg> did <reg orig="flie">fly</reg>,</l>
+<l>With Icarus his <reg orig="ioy">joy</reg>:</l>
+<l>He naught regarding fathers words,</l>
+<l>Did <reg orig="seeke">seek</reg> his <reg orig="owne">own</reg> <reg orig="anoy">annoy</reg>:</l>
+<l>He mounted <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg> into the skies,</l>
+<l><reg orig="Wherat">Whereat</reg> the Gods did <reg orig="frowne">frown</reg>,</l>
+<l>And Phoebus sore his <reg orig="winges">wings</reg> did <reg orig="frie">fry</reg>,</l>
+<l>And <reg orig="hedlonge">headlong</reg> <reg orig="flins">flings</reg> him <reg orig="downe">down</reg>.</l></sp>
+<stage>All singe this.</stage>
+<sp who="X">
+<l>The trustiest treasure <seg type="homograph" subtype="preposition">in</seg> earth as <seg type="homograph" subtype="truePlural">we</seg> see.</l>
+<l>Is man wife and children <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Then sith <seg type="homograph" subtype="demonstrative">that</seg> <reg orig="persualitie">partiality</reg>, doth partly <reg orig="discorde">discord</reg> <reg orig="moue">move</reg>,</l>
+<l>And hatred often times doth <reg orig="creepe">creep</reg> where <reg orig="ouermuch">overmuch</reg> 
+<reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> <reg orig="loue">love</reg>:</l>
+<l>And if <seg type="homograph" subtype="truePlural">we</seg> <reg orig="loue">love</reg> <seg type="homograph" subtype="adjective">no</seg> whit at all, the faming trump <seg type="homograph" subtype="verb">will</seg> sound,</l>
+<l>Come wife, come spouse, come daughter <reg orig="deare">dear</reg>, 
+let measure <reg orig="beare">bear</reg> <reg orig="y e">the</reg> ground.</l></sp>
+<stage>All singe this.</stage>
+<sp who="X">
+<l>The trustiest treasure <seg type="homograph" subtype="preposition">in</seg> earth as <seg type="homograph" subtype="truePlural">we</seg> see</l>
+<l>Is man wife and children <seg type="homograph" subtype="preposition">in</seg> one <seg type="homograph" subtype="infinitive">to</seg> agree,</l>
+<l>Then friendly, and kindly, let measure be mixed,</l>
+<stage>Exit.</stage>
+
+<l>With reason, <seg type="homograph" subtype="preposition">in</seg> season, where <reg orig="frindship">friendship</reg> is fixed.</l></sp>
+<stage>Here entreth Haphazard the Uice.</stage>
+<sp who="H">
+<l>Very well sir, very well sir, it <reg orig="shalbe">shall be</reg> <reg orig="doone">done</reg>,</l>
+<l>As fast as <reg orig="euer">ever</reg> I can prepare,</l>
+<l><seg type="homograph" subtype="relative">who</seg> <reg orig="dippes">dips</reg> with the <reg orig="Diuel">Devil</reg>, he had <reg orig="neede">need</reg> <reg orig="haue">have</reg> a long <reg orig="spoone">spoon</reg>,</l>
+<l>Or <reg orig="els">else</reg> full <reg orig="smale">small</reg> <seg type="homograph" subtype="verb">will</seg> be his fare:</l>
+<l>Yet a proper <reg orig="Gentileman">Gentleman</reg> I am of <reg orig="truthe">truth</reg></l>
+<l>Yea <seg type="homograph" subtype="demonstrative">that</seg> may <reg orig="yee">ye</reg> see <seg type="homograph" subtype="preposition">by</seg> my long side <reg orig="gowne">gown</reg>.</l>
+<l>Yea but what am I, a <reg orig="Scholer">Scholar</reg>, or a <reg orig="scholemaister">schoolmaster</reg>, or <reg orig="els"> else </reg> some youth.</l>
+<l>A <reg orig="Lawier">Lawyer</reg>, a studient or <reg orig="els">else</reg> a <reg orig="countrie">country</reg> <reg orig="cloune">clown</reg></l>
+<l>A <reg orig="Brumman">Broom-man</reg>, a <reg orig="Baskit">Basket</reg> maker, or a Baker of Pies,</l>
+<l>A flesh or a Fishmonger, or a sower of lies:</l>
+<l>A Louse or a louser, a <reg orig="Leeke">Leek</reg> or a <reg orig="Larke">Lark</reg>:</l>
+<l>A Dreamer a <reg orig="Drommell">Drumble</reg>, a fire or a <reg orig="sparke">spark</reg>:</l>
+<l>A <reg orig="Caitife">Caitiff</reg>, a <reg orig="Cutthrote">Cutthroat</reg>, a <reg orig="creper">creeper</reg> <seg type="homograph" subtype="preposition">in</seg> corners,</l>
+<l>A <reg orig="herbraine">hare-brain</reg>, a hangman, or a grafter of horners:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods, I know not how best <seg type="homograph" subtype="infinitive">to</seg> <reg orig="deuise">devise</reg>,</l>
+<l>My name or my property, well <seg type="homograph" subtype="infinitive">to</seg> disguise:</l>
+<l>A <reg orig="Marchaunte">Merchant</reg>, a May poole, a man or a <reg orig="mackrell">mackerel</reg>:</l>
+<l>A Crab or a <reg orig="Creuise">Crevis</reg>, a Crane or a <reg orig="cockerell">cockerel</reg>:</l>
+<l>Most of all these my nature doth <reg orig="inioy">enjoy</reg>,</l>
+<l><reg orig="Somtime">Sometime</reg> I <reg orig="aduaunce">advance</reg> them, <reg orig="somtime">sometime</reg> I destroy,</l>
+<l>A <reg orig="mayde">maid</reg> or a <reg orig="Mussell">Mussel</reg> <reg orig="Bote">Boat</reg>, a wife or a <reg orig="wilde">wild</reg> <reg orig="ducke">duck</reg>,</l>
+<l>As <reg orig="bolde">bold</reg> as <reg orig="blinde">blind</reg> <reg orig="bayerd">bayard</reg>, as wise as a wood <reg orig="cocke">cock</reg>.</l>
+<l>As fine as <reg orig="phippence">fivepence</reg>, as <reg orig="proude">proud</reg> as a <reg orig="Pecocke">Peacock</reg>,</l>
+<l>As stout as a <reg orig="Stockefish">Stock fish</reg>, as <reg orig="meeke">meek</reg> as a <reg orig="mecocke">meacock</reg>,</l>
+<l>As <reg orig="bigge">big</reg> as a <reg orig="begger">beggar</reg>, as fat as a <reg orig="foole">fool</reg>,</l>
+<l>As true as a Tinker, as <reg orig="riche">rich</reg> as an <reg orig="Owle">Owl</reg>,</l>
+<l>With hey <reg orig="tricke">trick</reg>, how <reg orig="trowle">troll</reg>, trey trip, and trey trace,</l>
+<l><reg orig="Trowle hazard">Troll-hazard</reg> <seg type="homograph" subtype="preposition">in</seg> a vengeance I beshrew his <reg orig="knaues">knave's</reg> face</l>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="tro">trow</reg>, and <reg orig="trowle hazard">troll-hazard</reg>, <reg orig="keepe">keep</reg> such a range</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> <reg orig="poore">poor</reg> haphazard, was <reg orig="neuer">never</reg> <seg type="homograph" subtype="adverbDegree">so</seg> strange,</l>
+<l>But yet Haphazard, be of good <reg orig="cheere">cheer</reg>,</l>
+<l><reg orig="goe">go</reg> play and repast thee man, be <reg orig="mery">merry</reg> <seg type="homograph" subtype="preposition">to</seg> <reg orig="yeere">year</reg>:</l>
+<l>Though <reg orig="vittaile">victual</reg> be dainty and hard <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> get.</l>
+<l>Yet perhaps a number <seg type="homograph" subtype="verb">will</seg> die of the <reg orig="swet">sweat</reg>,</l>
+<l>Though it be <seg type="homograph" subtype="preposition">in</seg> hazard, yet <reg orig="happely">happily</reg> I may,</l>
+<l>Though <reg orig="mony">money</reg> be lacking, yet one day go gay.</l></sp>
+<stage>Enter Mansipulus.</stage>
+<sp who="E">
+<l>When Maud, with a <reg orig="pestelence">pestilence</reg>, what <reg orig="makst">makest</reg> thou <seg type="homograph" subtype="adjective">no</seg> <reg orig="hast">haste</reg>?</l>
+<l>Of Baybery <reg orig="insence">incense</reg> belike thou <reg orig="wouldest">wouldst</reg> <reg orig="tast">taste</reg>,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods I <reg orig="haue">have</reg> stayed a full great while,</l>
+<l>My <reg orig="lorde">lord</reg> he is <reg orig="neare">near</reg> hand <seg type="homograph" subtype="preposition">by</seg> this at the Church stile,</l>
+<l>And <reg orig="al">all</reg> <seg type="homograph" subtype="preposition">for</seg> Maud mumble <reg orig="turde">turd</reg>, <seg type="homograph" subtype="demonstrative">that</seg> <reg orig="mampodding">mangpodding</reg> madge</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods if she hie not, <reg orig="ile">I <seg type="homograph" subtype="verb">will</seg></reg> <reg orig="geue">give</reg> <seg type="homograph" subtype="personalPronoun">her</seg> my badge.</l></sp>
+<stage>Mansipula.</stage>
+<sp who="F">
+<l>What drake nosed <reg orig="driuell">drivel</reg>, begin you <seg type="homograph" subtype="infinitive">to</seg> <reg orig="floute">flout</reg>.</l>
+<l><reg orig="ile">I <seg type="homograph" subtype="verb">will</seg></reg> <reg orig="frie">fry</reg> you <seg type="homograph" subtype="preposition">in</seg> a <reg orig="fagot">faggot</reg> <reg orig="sticke">stick</reg>, <seg type="homograph" subtype="preposition">by</seg> <reg orig="cocke">cock</reg> goodman <reg orig="loute">lout</reg></l>
+<l>You boaster you bragger, you brawling <reg orig="knaue">knave</reg>:</l>
+<l><reg orig="ile">I <seg type="homograph" subtype="verb">will</seg></reg> pay thee thy <reg orig="fortypence">forty pence</reg>, thou brawling <reg orig="slaue">slave</reg>:</l>
+<l>My Ladies great <reg orig="busines">business</reg> belike is at <reg orig="ende">end</reg>,</l>
+<l>When you goodman <reg orig="dawcocke">dawcock</reg>, lust <seg type="homograph" subtype="preposition">for</seg> <seg type="homograph" subtype="infinitive">to</seg> wend,</l>
+<l>You, <reg orig="codshed">codshead</reg> you <reg orig="crackerope">crack-rope</reg>, you chattering <reg orig="pye">pie</reg>,</l>
+<l><reg orig="haue">have</reg> with ye, <reg orig="haue">have</reg> at ye, your <reg orig="manhode">manhood</reg> <seg type="homograph" subtype="infinitive">to</seg> try.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>What <reg orig="holde">hold</reg> your hands masters, what? fie <seg type="homograph" subtype="preposition">for</seg> shame fie,</l>
+<l>What culling? what lulling? what <reg orig="stur">stir</reg> <reg orig="haue">have</reg> <reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> here?</l>
+<l>What tugging? what lugging? what pugging <seg type="homograph" subtype="preposition">by</seg> the <reg orig="eare">ear</reg>,</l>
+<l>What part and be <reg orig="freinds">friends</reg>, and <reg orig="ende">end</reg> all this strife,</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>Nay rather I <reg orig="wishe">wish</reg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg>, the end of my knife:</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l><reg orig="Drawe">Draw</reg> it, <reg orig="geue">give</reg> <reg orig="mee">me</reg> it, I <seg type="homograph" subtype="verb">will</seg> it <reg orig="receaue">receive</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">so</seg> <seg type="homograph" subtype="conjunction">that</seg> <seg type="homograph" subtype="preposition">for</seg> <seg type="homograph" subtype="infinitive">to</seg> place it, I might <reg orig="haue">have</reg> good <reg orig="leaue">leave</reg>,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods: but <seg type="homograph" subtype="preposition">for</seg> losing my land, <reg orig="lyfe">life</reg>, and <reg orig="liuing">living</reg>,</l>
+<l>It should be <seg type="homograph" subtype="adverbManner">so</seg> placed, he should <reg orig="haue">have</reg> ill <reg orig="thriuinge">thriving</reg>:</l></sp>
+<sp who="E"><speaker>Mansipilus.</speaker>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods how <reg orig="vngraciously">ungraciously</reg> the <reg orig="vicksen">vixen</reg> she chatteth,</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l>And he <reg orig="euen">even</reg> as <reg orig="knauishly">knavishly</reg>, my answer he patteth,</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Here is naught <reg orig="els">else</reg>, but railing of words out of reason,</l>
+<l>Now tugging, now <reg orig="tatling">tattling</reg>, now <reg orig="musling">muzzling</reg> <seg type="homograph" subtype="preposition">in</seg> season,</l>
+<l><seg type="homograph" subtype="preposition">for</seg> shame be contented and <reg orig="leaue">leave</reg> of this brawling,</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>Content, <seg type="homograph" subtype="conjunction">for</seg> I shall repent it, <seg type="homograph" subtype="preposition">for</seg> this my <reg orig="tonge">tongue</reg> <reg orig="wralling">wrawling</reg>:</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l>Thou <reg orig="knaue">knave</reg>, but <seg type="homograph" subtype="preposition">for</seg> thee, ere this time of day,</l>
+<l>My Ladies <reg orig="faire">fair</reg> Pue, had been strawed full gay:</l>
+<l>With Primroses, <reg orig="Couslips">Cowslips</reg>, and <reg orig="Uiolets">Violets</reg> <reg orig="sweete">sweet</reg>:</l>
+<l>With Mints, and with Marigolds, and Margerum <reg orig="meete">meet</reg>,</l>
+<l><seg type="homograph" subtype="relative">which</seg> now <reg orig="lyeth">lieth</reg> <reg orig="vncleanly">uncleanly</reg> and all long of thee,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> a shame <reg orig="recompence">recompense</reg> thee, <seg type="homograph" subtype="preposition">for</seg> <reg orig="hindring">hindering</reg> <reg orig="mee"> me </reg>,</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>Ah <reg orig="pretie">pretty</reg> <reg orig="pranck">prank</reg> parnel, the <reg orig="Coushen">Cushion</reg> and <reg orig="Booke">Book</reg>,</l>
+<l>Whereon he <reg orig="shoulde">should</reg> <reg orig="reade">read</reg> and <reg orig="kneele">kneel</reg>, are present here <reg orig="looke">look</reg>:</l>
+<l>My <reg orig="Lorde">Lord</reg> when he seeth <reg orig="mee">me</reg>, he <seg type="homograph" subtype="verb">will</seg> cast such an eye,</l>
+<l>As pinch <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> my <reg orig="hart">heart</reg> <reg orig="neare">near</reg> ready <seg type="homograph" subtype="infinitive">to</seg> die:</l>
+<l>And thus wise, and thus wise, his hand <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> be walking</l>
+<l>With thou precious <reg orig="knaue">knave</reg>, away get thee packing</l></sp>
+<stage>Here let hym fight.</stage>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay then <seg type="homograph" subtype="preposition">by</seg> the <reg orig="masse">mass</reg>, <reg orig="its">it is</reg> time <seg type="homograph" subtype="infinitive">to</seg> be knacking,</l>
+<l><seg type="homograph" subtype="adjective">no</seg> words at all but <seg type="homograph" subtype="preposition">to</seg> me he is <reg orig="poynting">pointing</reg>:</l>
+<l>Nay <reg orig="haue">have</reg> at you <reg orig="againe">again</reg>, 
+you shall <reg orig="haue">have</reg> your <reg orig="annoynting">anointing</reg>,</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l>Body of me, hold <reg orig="yf">if</reg> ye can,</l>
+<l>What <seg type="homograph" subtype="verb">will</seg> you kill such a proper man?</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay sure I <reg orig="haue">have</reg> done when women do <reg orig="speake">speak</reg>,</l>
+<l>Why would the <reg orig="knaue">knave</reg> my <reg orig="pacience">patience</reg> <seg type="homograph" subtype="adverbManner">so</seg> <reg orig="breake">break</reg>?</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>Well I must <reg orig="begon">begone</reg>, there is <seg type="homograph" subtype="adjective">no</seg> remedy</l>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="feare">fear</reg> my <reg orig="tayle">tail</reg> makes buttons, <seg type="homograph" subtype="preposition">by</seg> mine honesty.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="reuerence">reverence</reg> <seg type="homograph" subtype="preposition">on</seg> your face, your nose and your chin:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods <reg orig="haue">have</reg> ye hard such an <reg orig="vnmannerly">unmannerly</reg> <reg orig="villin">villain</reg>.</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l>I <reg orig="neuer">never</reg> heard one <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="rancke">rank</reg> of <reg orig="rudnesse">rudeness</reg>,</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l><seg type="homograph" subtype="preposition">in</seg> faith it is but <seg type="homograph" subtype="preposition">for</seg> <reg orig="lacke">lack</reg> of <reg orig="lewdnesse">lewdness</reg>:</l>
+<l>But here I <reg orig="burne">burn</reg> day light, while thus I am talking</l>
+<l>Away come Mansipula let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> be walking,</l></sp>
+<sp who="F"><speaker>Mansipula </speaker>
+<l>Contented Mansipulus <reg orig="haue">have</reg> with thee with <reg orig="speede">speed</reg>,</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay stay yet my <reg orig="freendes">friends</reg> I am not <reg orig="agreede">agreed</reg>.</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l><reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> dare not <reg orig="tary">tarry</reg>, <seg type="homograph" subtype="preposition">by</seg> God <reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> <reg orig="sweare">swear</reg>.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay tarry take comfort with you <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="beare">bear</reg>,</l>
+<l>It is but <seg type="homograph" subtype="preposition">in</seg> hazard and <reg orig="yf">if</reg> you be <reg orig="mist">missed</reg>,</l>
+<l>And <seg type="homograph" subtype="conjunction">so</seg> it may happen you <reg orig="feele">feel</reg> not his fist:</l>
+<l>Perhaps he is <reg orig="stayde">stayed</reg> <seg type="homograph" subtype="preposition">by</seg> <reg orig="talke">talk</reg> with some friend</l>
+<l>It is but <seg type="homograph" subtype="preposition">in</seg> <reg orig="hazarde">hazard</reg>, then sing or you wend</l>
+<l>Let hope be your helper, your care <seg type="homograph" subtype="infinitive">to</seg> defend.</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l><seg type="homograph" subtype="preposition">by</seg> hap or <seg type="homograph" subtype="preposition">by</seg> hazard, <seg type="homograph" subtype="truePlural">we</seg> <reg orig="singe">sing</reg> or <seg type="homograph" subtype="truePlural">we</seg> <reg orig="crie">cry</reg>,</l>
+<l>Then <reg orig="singe">sing</reg> let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> say <seg type="homograph" subtype="adverbManner">so</seg>, let <reg orig="sorow">sorrow</reg> go <seg type="homograph" subtype="adverb">by</seg>.</l></sp>
+<sp who="E"><speaker>Mansipula.</speaker>
+<l><seg type="homograph" subtype="truePlural">we</seg> can be but beaten <seg type="homograph" subtype="demonstrative">that</seg> is the worst,</l></sp>
+<stage>Enter Subseruus.</stage>
+<sp who="K">
+<l>What how Mansipulus thou <reg orig="knaue">knave</reg> art thou <reg orig="curst">cursed</reg>?</l>
+<l>My <reg orig="lorde">lord</reg> standeth talking and I gape <seg type="homograph" subtype="preposition">for</seg> thee,</l>
+<l>Come away with a wannion, <reg orig="runne">run</reg> <reg orig="hast">haste</reg> and hie,</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>Nay <reg orig="herken">hearken</reg> Subseruus stay I pray thee,</l>
+<l>Let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> <reg orig="haue">have</reg> a song 
+and then <reg orig="haue">have</reg> with thee:</l></sp>
+<sp who="K"><speaker>Subseruus.</speaker>
+<l>Content if thou hie thee.</l></sp>
+<stage>Sing heere all.</stage>
+<sp who="X">
+<l>Hope <seg type="homograph" subtype="adverbManner">so</seg>, and hap <seg type="homograph" subtype="adverbManner">so</seg>, <seg type="homograph" subtype="preposition">in</seg> hazard of <reg orig="thretninge">threatening</reg>,</l>
+<l>The worst <seg type="homograph" subtype="relative">that</seg> can hap lo, <seg type="homograph" subtype="preposition">in</seg> end is but beating.</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>What if my <reg orig="Lordinge">Lording</reg>, <reg orig="doo">do</reg> <reg orig="chaunce">chance</reg> <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="misse">miss</reg> me,</l>
+<l>The worst <seg type="homograph" subtype="relative">that</seg> can happen, is <reg orig="Cudgell">Cudgel</reg> <seg type="homograph" subtype="verb">will</seg> <reg orig="kisse">kiss</reg> <reg orig="mee">me</reg>,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> such <reg orig="kinde">kind</reg> of <reg orig="sweetnes">sweetness</reg>, I <reg orig="sweare">swear</reg> <seg type="homograph" subtype="preposition">by</seg> Gods mother,</l>
+<l>It <seg type="homograph" subtype="verb">will</seg> please me better, it were <seg type="homograph" subtype="preposition">on</seg> some other,</l>
+<l>With <reg orig="thwicke">thwick</reg> thwack, with thump thump,</l>
+<l>With bobbing and bum,</l>
+<l><seg type="homograph" subtype="truePlural">our</seg> <reg orig="syde">side</reg> saddle shoulders <reg orig="shal">shall</reg> <reg orig="sheilde">shield</reg> <seg type="homograph" subtype="relative">that</seg> doth come?</l>
+<l>Hope <seg type="homograph" subtype="adverbManner">so</seg>, and hap <seg type="homograph" subtype="adverbManner">so</seg>, <seg type="homograph" subtype="preposition">in</seg> <reg orig="hazarde">hazard</reg>. <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l>If case <seg type="homograph" subtype="conjunction">that</seg> my Lady, do threaten my case,</l>
+<l><seg type="homograph" subtype="adjective">no</seg> cause <seg type="homograph" subtype="preposition">to</seg> contrary, but <reg orig="beare">bear</reg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg> a space,</l>
+<l><reg orig="Untill"> Until </reg> she draw home lo, where <seg type="homograph" subtype="adverbManner">so</seg> she <seg type="homograph" subtype="verb">will</seg> <reg orig="vse">use</reg> me,</l>
+<l>As <reg orig="Docters">Doctors</reg> doth doubt it, how I should excuse me,</l>
+<l>With <reg orig="thwicke">thwick</reg> thwack, with thump thump,</l>
+<l>With bobbing and bum,</l>
+<l><seg type="homograph" subtype="truePlural">our</seg> side saddle shoulders <reg orig="shal">shall</reg> <reg orig="sheilde">shield</reg> <seg type="homograph" subtype="relative">that</seg> doth come</l>
+<l>Hope <seg type="homograph" subtype="adverbManner">so</seg>, and hap <seg type="homograph" subtype="adverbManner">so</seg>, <seg type="homograph" subtype="preposition">in</seg> hazard <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="K"><speaker>Subseruus.</speaker>
+<l>What if your company cause me <reg orig="haue">have</reg> <reg orig="woo">woe</reg>,</l>
+<l>I <reg orig="minde">mind</reg> not <reg orig="companyons">companions</reg> <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="soone">soon</reg> <seg type="homograph" subtype="infinitive">to</seg> forgo:</l>
+<l>Let hope <reg orig="holde">hold</reg> the Helmet, till brunt it be past,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="bloes">blows</reg> are but <reg orig="buffits">buffets</reg> and words but a blast,</l>
+<l>With thwick thwack, with thump thump,</l>
+<l>with bobbing and bum,</l>
+<l><seg type="homograph" subtype="truePlural">our</seg> side saddle shoulders <reg orig="shal">shall</reg> <reg orig="sheild">shield</reg> <seg type="homograph" subtype="relative">that</seg> doth come,</l>
+<l>Hope <seg type="homograph" subtype="adverbManner">so</seg>, and hap <seg type="homograph" subtype="adverbManner">so</seg>, <seg type="homograph" subtype="preposition">in</seg> hazard <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Then let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> be <reg orig="mery">merry</reg>, it is but <seg type="homograph" subtype="preposition">by</seg> hap,</l>
+<l>A hazardly <reg orig="chaunce">chance</reg> may <reg orig="harbor">harbour</reg> a clap,</l>
+<l><reg orig="Bestur">Bestir</reg> ye, be <reg orig="mery">merry</reg>, be glad and be <reg orig="ioying">joying</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="bloes">blows</reg> are but <reg orig="buffits">buffets</reg> and <reg orig="smale">small</reg> time annoying,</l>
+<l>With thwick thwack, with thump thump,</l>
+<l>with bobbing and bum,</l>
+<l><seg type="homograph" subtype="truePlural">our</seg> side saddle shoulders <reg orig="shal">shall</reg> <reg orig="sheild">shield</reg> <seg type="homograph" subtype="relative">that</seg> doth come.</l>
+<l>Hope <seg type="homograph" subtype="adverbManner">so</seg>, and hap <seg type="homograph" subtype="adverbManner">so</seg>, <seg type="homograph" subtype="preposition">in</seg> hazard <reg orig="&amp;c.">etc.</reg></l></sp>
+<stage>The end of the song.</stage>
+<stage>All speaketh this.</stage>
+<sp who="X">
+<l>Haphazard farewell, the Gods do <reg orig="thanke">thank</reg> thee.</l></sp>
+<stage>Exiunt.</stage>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l><reg orig="Farwell">Farewell</reg> my friends, <reg orig="farwell">farewell</reg> <reg orig="goe">go</reg> <reg orig="prancke">prank</reg> <reg orig="yee">ye</reg>:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods Haphazard these men <reg orig="haue">have</reg> tried thee,</l>
+<l><seg type="homograph" subtype="interrogative">who</seg> <reg orig="sayd">said</reg> thou wast <seg type="homograph" subtype="adjective">no</seg> man, sure he belied thee,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <reg orig="Ioue">Jove</reg> master <reg orig="Marchant">Merchant</reg> <seg type="homograph" subtype="preposition">by</seg> sea or <seg type="homograph" subtype="preposition">by</seg> land,</l>
+<l>Would get but <reg orig="smale">small</reg> argent, if I did not stand,</l>
+<l>His very good master, I may say <seg type="homograph" subtype="preposition">to</seg> you,</l>
+<l>When he hazards <seg type="homograph" subtype="preposition">in</seg> hope, what hap <seg type="homograph" subtype="verb">will</seg> <reg orig="insue">ensue</reg>:</l>
+<l><seg type="homograph" subtype="preposition">in</seg> court I am <seg type="homograph" subtype="adjective">no</seg> man, <seg type="homograph" subtype="preposition">by</seg> <reg orig="cocke">cock</reg> sir ye lie,</l>
+<l>A <reg orig="Plowman">Ploughman</reg> perhaps or ere <seg type="homograph" subtype="conjunction">that</seg> he die,</l>
+<l>May hap be a Gentleman, a Courtier or <reg orig="Captaine">Captain</reg>,</l>
+<l>And hap may <seg type="homograph" subtype="adverbManner">so</seg> hazard, he may <reg orig="goe a begging"> go a-begging </reg>:</l>
+<l>Perhap <seg type="homograph" subtype="conjunction">that</seg> a Gentleman, <reg orig="heyre">heir</reg> <seg type="homograph" subtype="preposition">to</seg> great land,</l>
+<l><seg type="homograph" subtype="relative">which</seg> selleth his <reg orig="liuing">living</reg>, <seg type="homograph" subtype="preposition">for</seg> <reg orig="mony">money</reg> <seg type="homograph" subtype="preposition">in</seg> hand,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> hazard it is the <reg orig="bying">buying</reg> of more,</l>
+<l>Perhaps he may ride when spent is the store:</l>
+<l>Hap may <seg type="homograph" subtype="adverbManner">so</seg> hazard the <reg orig="Moone">Moon</reg> may <seg type="homograph" subtype="adverbManner">so</seg> <reg orig="chaunge">change</reg>.</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> men may be masters, and <reg orig="wiues">wives</reg> <seg type="homograph" subtype="verb">will</seg> not <reg orig="raunge">range</reg>:</l>
+<l>But <seg type="homograph" subtype="preposition">in</seg> hazard it is <seg type="homograph" subtype="preposition">in</seg> many a grange.</l>
+<l>Lest <reg orig="wiues">wives</reg> were the <reg orig="Codpeece">Codpiece</reg>, and <reg orig="maydens">maidens</reg> coy strange:</l>
+<l>As <reg orig="Pecockes">Peacocks</reg> sit perking, <seg type="homograph" subtype="preposition">by</seg> <reg orig="chaunce">chance</reg> <seg type="homograph" subtype="preposition">in</seg> the <reg orig="plomtree">plum tree</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">so</seg> <reg orig="maides">maids</reg> would be masters, <seg type="homograph" subtype="preposition">by</seg> the guise of this <reg orig="countrey">country</reg></l>
+<l>Haphazard <reg orig="eche"> each </reg> state full well <seg type="homograph" subtype="relative">that</seg> he <reg orig="markes">marks</reg>,</l>
+<l>If hap the <reg orig="skie">sky</reg> fall, <seg type="homograph" subtype="truePlural">we</seg> hap may <reg orig="haue">have</reg> <reg orig="Larkes">Larks</reg>:</l>
+<l>Well, fare ye well now, <seg type="homograph" subtype="preposition">for</seg> better or worse,</l>
+<l>Put hands <seg type="homograph" subtype="preposition">to</seg> your pockets, <reg orig="haue">have</reg> <reg orig="minde">mind</reg> <seg type="homograph" subtype="preposition">to</seg> your purse.</l></sp>
+<stage>Exit.</stage>
+<stage>Enter Iudge Apius.</stage>
+<sp who="A">
+<l>The <reg orig="forowed">furrowed</reg> face of Fortunes force, my pinching <reg orig="paine">pain</reg> doth <reg orig="moue">move</reg></l>
+<l>I <reg orig="setled">settled</reg> ruler of my <reg orig="realme">realm</reg> <reg orig="inforced">enforced</reg> am <seg type="homograph" subtype="infinitive">to</seg> <reg orig="loue"> love </reg>:</l>
+<l><reg orig="Iudge">Judge</reg> Apius I the <reg orig="princelest">princeliest</reg> <reg orig="Iudge">Judge</reg>, <seg type="homograph" subtype="relative">that</seg> <reg orig="raigneth">reigneth</reg> <reg orig="vnder"> under </reg> <reg orig="sonne">sun</reg>,</l>
+<l>And <reg orig="haue">have</reg> <reg orig="bene">been</reg> <seg type="homograph" subtype="adverbDegree">so</seg> esteemed long, but now my force is done:</l>
+<l>I rule <seg type="homograph" subtype="adjective">no</seg> more, but ruled am, I do not <reg orig="Iudge">Judge</reg>, but am <reg orig="Iudged">Judged</reg>,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <reg orig="beuty">beauty</reg> of Virginia my <reg orig="wisdome">wisdom</reg> all is trudged,</l>
+<l><reg orig="oh">o</reg> <reg orig="perelesse">peerless</reg> Dame, <reg orig="oh">o</reg> passing <reg orig="peece">piece</reg>, <reg orig="oh">o</reg> face of such a <reg orig="fature">feature</reg>.</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> <reg orig="neuer">never</reg> erst with <reg orig="bewty">beauty</reg> such, matched was <seg type="homograph" subtype="preposition">by</seg> nature:</l>
+<l><reg orig="oh">o</reg> fond Apelles <reg orig="pratling">prattling</reg> <reg orig="foole">fool</reg>, why boastest thou <seg type="homograph" subtype="adverbDegree">so</seg> much?</l>
+<l>The <reg orig="famost">famousest</reg> <reg orig="peece">piece</reg> thou <reg orig="madst">madest</reg> <seg type="homograph" subtype="preposition">in</seg> Greece whose <reg orig="linients">lineaments</reg> were such</l>
+<l>Or why didst thou <reg orig="deceued">deceived</reg> man, <seg type="homograph" subtype="preposition">for</seg> <reg orig="beuty">beauty</reg> of thy <reg orig="worke">work</reg>?</l>
+<l><seg type="homograph" subtype="preposition">in</seg> such a sort with fond desire, where <seg type="homograph" subtype="adjective">no</seg> <reg orig="kinde">kind</reg> <reg orig="lyfe">life</reg> <reg orig="dyd"> did </reg> <reg orig="lurke">lurk</reg>,</l>
+<l>With raging fits thou <reg orig="foole">fool</reg> ran mad, <reg orig="oh">o</reg> fond Pigmalion</l>
+<l>Yet sure if <seg type="homograph" subtype="conjunction">that</seg> thou sawest my <reg orig="deare">dear</reg>, the <seg type="homograph" subtype="noun">like</seg> <reg orig="y u">you</reg> couldst make none,</l>
+<l>Then what may I, <reg orig="oh">o</reg> Gods <reg orig="aboue">above</reg>, bend <reg orig="downe">down</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="heare">hear</reg> my <reg orig="crie">cry</reg>,</l>
+<l>As once he did <seg type="homograph" subtype="preposition">to</seg> Salmasis <seg type="homograph" subtype="preposition">in</seg> Pond hard Lyzia <seg type="homograph" subtype="adverb">by</seg>:</l>
+<l><reg orig="oh">o</reg> <seg type="homograph" subtype="conjunction">that</seg> Virginia were <seg type="homograph" subtype="preposition">in</seg> case as <reg orig="somtime">sometime</reg> Salmasis</l>
+<l>And <seg type="homograph" subtype="preposition">in</seg> Hermafroditus <reg orig="steede">steed</reg>, <reg orig="my selfe">myself</reg> might <reg orig="seeke">seek</reg> my <reg orig="blisse">bliss</reg>,</l>
+<l>Ah Gods, would I <reg orig="vnfolde">unfold</reg> <seg type="homograph" subtype="adjective">her</seg> <reg orig="armes">arms</reg>, complecting of my <reg orig="necke">neck</reg>?</l>
+<l>Or would I hurt <seg type="homograph" subtype="adjective">her</seg> nimble hand, or <reg orig="yeelde">yield</reg> <seg type="homograph" subtype="personalPronoun">her</seg> such a <reg orig="checke">check</reg>?</l>
+<l>Would I gainsay <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> tender <reg orig="skinne">skin</reg>, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="baath">bathe</reg> where I do <reg orig="washe">wash</reg>?</l>
+<l>Or <reg orig="els">else</reg> refuse <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> soft <reg orig="sweete">sweet</reg> <reg orig="lippes">lips</reg>, <seg type="homograph" subtype="infinitive">to</seg> touch my naked <reg orig="fleshe">flesh</reg>?</l>
+<l>Nay, <reg orig="oh">o</reg> the Gods do know my <reg orig="minde">mind</reg>, I rather would <reg orig="requier">require</reg>,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> sue, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="serue">serve</reg>, <seg type="homograph" subtype="infinitive">to</seg> crouch, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="kneele">kneel</reg>, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="craue">crave</reg> <seg type="homograph" subtype="preposition">for</seg> my <reg orig="desier">desire</reg>.</l>
+<l>But out ye Gods, ye <reg orig="bende">bend</reg> your <reg orig="browes">brows</reg>, and <reg orig="frowne">frown</reg> <seg type="homograph" subtype="infinitive">to</seg> see me fare,</l>
+<l>Ye do not force my fickle fate, ye do not way my care,</l>
+<l>Unrighteous, and <reg orig="vnequall">unequal</reg> Gods, <reg orig="vniust">unjust</reg>, and eke <reg orig="vnsure">unsure</reg>,</l>
+<l>Woe worth the time ye made me <reg orig="liue">live</reg>, <seg type="homograph" subtype="infinitive">to</seg> see this <reg orig="haplesse">hapless</reg> <reg orig="houre">hour</reg>:</l>
+<l><reg orig="Dyd"> Did </reg> Iphis hang <reg orig="himselfe">himself</reg> <seg type="homograph" subtype="preposition">for</seg> <reg orig="loue">love</reg>, of Lady not <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="faire"> fair </reg>?</l>
+<l>Or <reg orig="els">else</reg> did <reg orig="Ioue">Jove</reg> the <reg orig="cloudie">cloudy</reg> <reg orig="mistes">mists</reg>, bend <reg orig="downe">down</reg> from lightsome <reg orig="ayre">air</reg>:</l>
+<l>Or as the Poets <reg orig="mencion">mention</reg> make, of Inachs daughter <reg orig="meeke">meek</reg>,</l>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="loue dyd"> love did </reg> <reg orig="dyd">did</reg> he <seg type="homograph" subtype="infinitive">to</seg> make a <reg orig="Cowe">Cow</reg>, whom Inach long <reg orig="dyd"> did </reg> <reg orig="seeke">seek</reg>:</l>
+<l>Is <reg orig="loue">love</reg> <seg type="homograph" subtype="adverbDegree">so</seg> great, <seg type="homograph" subtype="infinitive">to</seg> cause the <reg orig="quicke">quick</reg>, <seg type="homograph" subtype="infinitive">to</seg> enter into Hell,</l>
+<l>As stout Orpheus did attempt, as histories do tell?</l>
+<l>Then what is it <seg type="homograph" subtype="relative">that</seg> <reg orig="loue">love</reg> cannot? why <reg orig="loue dyd"> love did </reg> <reg orig="dyd">did</reg> <reg orig="pearce">pierce</reg> the skies:</l>
+<l>Why Pheb. and famous <reg orig="Marcury">Mercury</reg> with <reg orig="loue">love</reg> had blinded <reg orig="eies">eyes</reg>?</l>
+<l>But I a <reg orig="Iudge">Judge</reg> of grounded <reg orig="yeeres">years</reg>, shall <reg orig="reape">reap</reg> <seg type="homograph" subtype="preposition">to</seg> me such name,</l>
+<l>As shall <reg orig="resounde">resound</reg> dishonour great, with Trump of <reg orig="carelesse">careless</reg> fame:</l>
+<l><reg orig="oh">o</reg> <seg type="homograph" subtype="conjunction">that</seg> my <reg orig="yeeres">years</reg> were <reg orig="youthfull">youthful</reg> yet, or <seg type="homograph" subtype="conjunction">that</seg> I were <reg orig="vnwedded">unwedded</reg>.</l></sp>
+<stage>Here entreth Haphazard.</stage>
+<sp who="H">
+<l>Why cease sir Knight, <seg type="homograph" subtype="conjunction">for</seg> why perhaps, of you she <reg orig="shalbe"> shall be </reg> bedded:</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="folow">follow</reg> my <reg orig="counsell">counsel</reg>, <seg type="homograph" subtype="adverbManner">so</seg> may you me please,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> of <reg orig="carefull">careful</reg> resurging, your <reg orig="hart">heart</reg> shall <reg orig="haue">have</reg> ease.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l><reg orig="oh">o</reg> <reg orig="thundring">thundering</reg> Gods <seg type="homograph" subtype="relative">that</seg> threaten <reg orig="yre">ire</reg>,</l>
+<l>and Plague <seg type="homograph" subtype="preposition">for</seg> <reg orig="eche"> each </reg> offence:</l>
+<l><reg orig="Your selues"> Yourselves </reg> I <reg orig="deeme">deem</reg> would <reg orig="counsell">counsel</reg> <reg orig="craue">crave</reg>,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> this <seg type="homograph" subtype="adverbDegree">so</seg> fit pretence:</l>
+<l>And eke your nimble stretched <reg orig="armes">arms</reg>,</l>
+<l>with great rewards would <reg orig="flie">fly</reg>,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> purchase <reg orig="faire">fair</reg> Virginia</l>
+<l><seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="deare">dear</reg> a wight <seg type="homograph" subtype="preposition">to</seg> me:</l>
+<l>And friend, I <reg orig="sweare">swear</reg> <seg type="homograph" subtype="preposition">by</seg> <reg orig="Iubiter">Jupiter</reg></l>
+<l>and eke <seg type="homograph" subtype="preposition">by</seg> <reg orig="Iunos">Juno's</reg> <reg orig="seate">seat</reg>:</l>
+<l>And eke <seg type="homograph" subtype="preposition">by</seg> all the <reg orig="misteries">mysteries</reg>,</l>
+<l>where <seg type="homograph" subtype="adverb">on</seg> thou canst <reg orig="intreate">entreat</reg>:</l>
+<l>Thou shalt <reg orig="possesse">possess</reg> and <reg orig="haue">have</reg>,</l>
+<l>I <seg type="homograph" subtype="verb">will</seg> thee <reg orig="graunt">grant</reg> and <reg orig="geue">give</reg>,</l>
+<l>The greatest part of all my <reg orig="Realme">Realm</reg>,</l>
+<l><seg type="homograph" subtype="preposition">for</seg> aye thee <seg type="homograph" subtype="infinitive">to</seg> <reg orig="releeue">relieve</reg>.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Well then, this is my <reg orig="counsell">counsel</reg>, thus standeth the case,</l>
+<l>Perhaps such a <reg orig="fetche">fetch</reg>, as may please your grace:</l>
+<l>There is <seg type="homograph" subtype="adjective">no</seg> more <reg orig="wayes">ways</reg>, but hap or hap not,</l>
+<l>Either hap, or <reg orig="els">else</reg> <reg orig="haplesse">hapless</reg>, <seg type="homograph" subtype="infinitive">to</seg> knit <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg> the knot:</l>
+<l>And if you <seg type="homograph" subtype="verb">will</seg> hazard, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="venter">venture</reg> what <reg orig="falles">falls</reg>,</l>
+<l>Perhaps, <seg type="homograph" subtype="conjunction">that</seg> Haphazard <seg type="homograph" subtype="verb">will</seg> end <reg orig="al">all</reg> your <reg orig="thralles">thralls</reg>.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>I <reg orig="meane">mean</reg> <seg type="homograph" subtype="adverbManner">so</seg>, I <seg type="homograph" subtype="verb">will</seg> <seg type="homograph" subtype="adverbManner">so</seg>, if thou do <reg orig="perswade">persuade</reg> me,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> hap or <seg type="homograph" subtype="infinitive">to</seg> hazard, what thing shall <reg orig="enuade">invade</reg> me:</l>
+<l>I King, and I <reg orig="Keyser">Kaiser</reg>, I rule and <reg orig="ouerwhealme">overwhelm</reg>:</l>
+<l>I do what it please me, with <seg type="homograph" subtype="adverb">in</seg> this my <reg orig="realme">realm</reg>:</l>
+<l><reg orig="Wherfore">Wherefore</reg> <seg type="homograph" subtype="preposition">in</seg> thy <reg orig="iudgement">judgment</reg>, see <seg type="homograph" subtype="conjunction">that</seg> thou do enter,</l>
+<l>Hap life or hap death, I surely <seg type="homograph" subtype="verb">will</seg> <reg orig="venter">venture</reg>.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Then this, and <seg type="homograph" subtype="preposition">in</seg> this <reg orig="sorte">sort</reg>, standeth the matter,</l>
+<l>What <reg orig="neede">need</reg> many <reg orig="wordes">words</reg>, <reg orig="vnlesse"> unless </reg> I should flatter,</l>
+<l>Full many there be, <seg type="homograph" subtype="verb">will</seg> <reg orig="hazarde">hazard</reg> their life,</l>
+<l><reg orig="Happely">Happily</reg> <seg type="homograph" subtype="infinitive">to</seg> ease your grace of all your strife,</l>
+<l>Of this <reg orig="kinde">kind</reg> of <reg orig="conspirasie">conspiracy</reg> now let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> common,</l>
+<l>Some man, Virginius before you must summon,</l>
+<l>And say <seg type="homograph" subtype="conjunction">that</seg> Virginia is none of his Daughter.</l>
+<l>But <seg type="homograph" subtype="conjunction">that</seg> Virginius <seg type="homograph" subtype="preposition">by</seg> night away raught <seg type="homograph" subtype="personalPronoun">her</seg>:</l>
+<l>Then charge you the father his Daughter <seg type="homograph" subtype="infinitive">to</seg> <reg orig="bringe">bring</reg>,</l>
+<l>Then do you <reg orig="detayne">detain</reg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg>, till <reg orig="proued">proved</reg> be the thing:</l>
+<l><seg type="homograph" subtype="relative">which</seg> well you may win <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg>, she present <seg type="homograph" subtype="preposition">in</seg> house,</l>
+<l>It is but <reg orig="Haphazarde">Haphazard</reg>, a man or a mouse</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>I <reg orig="finde">find</reg> it, I <reg orig="minde">mind</reg> it, I <reg orig="sweare">swear</reg> <seg type="homograph" subtype="conjunction">that</seg> I <seg type="homograph" subtype="verb">will</seg>,</l>
+<l>Though shame, or defame, do happen <seg type="homograph" subtype="adjective">no</seg> skill,</l>
+<l>But out I am wounded, how am I <reg orig="deuided">divided</reg>?</l>
+<l>Two states of my life, from me are now glided,</l>
+<stage>Here let him make as thogh he went out and let Consince and Iustice come out of him, 
+and let Consiece hold in his hande a Lamp burning and let Iustice haue a sworde and hold it before Apius brest.</stage>
+
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="Consience">Conscience</reg> he pricketh me <reg orig="contempned">condemned</reg>,</l>
+<l>And <reg orig="Iustice">Justice</reg> saith, <reg orig="Iudgement">Judgment</reg> <reg orig="wold">would</reg> <reg orig="haue"> have </reg> me condemned:</l>
+<l><reg orig="Consience">Conscience</reg> saith <reg orig="crueltye">cruelty</reg> sure <seg type="homograph" subtype="verb">will</seg> detest me:</l>
+<l>And <reg orig="Iustice">Justice</reg> saith, death <seg type="homograph" subtype="preposition">in</seg> <reg orig="thende"> the end </reg> <seg type="homograph" subtype="verb">will</seg> molest me,</l>
+<l>And both <seg type="homograph" subtype="preposition">in</seg> one sodden <reg orig="me thinkes">methinks</reg> they do <reg orig="crie">cry</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> <reg orig="fier">fire</reg> <reg orig="eternall">eternal</reg>, my <reg orig="soule">soul</reg> shall destroy.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Why these are but thoughts man? why fie <seg type="homograph" subtype="preposition">for</seg> shame fie</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="Consience">Conscience</reg> was <reg orig="carelesse">careless</reg>, and <reg orig="sayling">sailing</reg> <seg type="homograph" subtype="preposition">by</seg> seas,</l>
+<l>Was drowned <seg type="homograph" subtype="preposition">in</seg> a basket and had a disease,</l>
+<l>Sore <reg orig="mooued">moved</reg> <seg type="homograph" subtype="preposition">for</seg> <reg orig="pitye">pity</reg>, when he would <reg orig="graunt">grant</reg> none,</l>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="beyng">being</reg> hard <reg orig="harted">hearted</reg>, was turned <seg type="homograph" subtype="preposition">to</seg> a stone:</l>
+<l>And <reg orig="sayling">sailing</reg> <seg type="homograph" subtype="preposition">by</seg> Sandwitche he <reg orig="sunke">sunk</reg> <seg type="homograph" subtype="preposition">for</seg> his sin,</l>
+<l>Then care not <seg type="homograph" subtype="preposition">for</seg> <reg orig="consience">conscience</reg>, the worth of a pin:</l>
+<l>And <reg orig="Iudgement">Judgment</reg> <reg orig="iudge">judge</reg> <reg orig="Iustice">Justice</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="haue">have</reg> a reward,</l>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="iudging">judging</reg> still <reg orig="iustly">justly</reg>, but all is now <reg orig="marde">marred</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="giftes">gifts</reg> they are <reg orig="geuen">given</reg>, <reg orig="wher">where</reg> <reg orig="Iudgement">Judgment</reg> is none,</l>
+<l>Thus <reg orig="Iudgement">Judgment</reg> and <reg orig="Iustice">Justice</reg> <reg orig="awronge">a wrong</reg> way hath gone:</l>
+<l>Then care not <seg type="homograph" subtype="preposition">for</seg> <reg orig="Consience">Conscience</reg> the worth of a fable,</l>
+<l><reg orig="Iustice">Justice</reg> is <seg type="homograph" subtype="adjective">no</seg> man, nor <reg orig="nought">naught</reg> <seg type="homograph" subtype="infinitive">to</seg> do able.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>And <reg orig="saiest">sayst</reg> thou <seg type="homograph" subtype="adverbManner">so</seg> my <reg orig="sured">assured</reg> <reg orig="freende">friend</reg>, then hap as hap shall hit,</l>
+<l>Let <reg orig="Consience">Conscience</reg> grope, <reg orig="&amp;">and</reg> <reg orig="iudgement">judgment</reg> <reg orig="craue">crave</reg>, I <reg orig="wil"><seg type="homograph" subtype="verb">will</seg></reg> not shrink one whit</l>
+<l>I <reg orig="well"> <seg type="homograph" subtype="verb">will</seg> </reg> <reg orig="perseuer">persevere</reg> <seg type="homograph" subtype="preposition">in</seg> my thought, I <seg type="homograph" subtype="verb">will</seg> deflower <reg orig="hir"> <seg type="homograph" subtype="adjective">her</seg> </reg> youth,</l>
+<l>I <seg type="homograph" subtype="verb">will</seg> not sure <reg orig="reuerted">reverted</reg> be, my <reg orig="hart">heart</reg> shall <reg orig="haue">have</reg> <seg type="homograph" subtype="adjective">no</seg> ruth,</l>
+<l>Come <seg type="homograph" subtype="adverb">on</seg> <reg orig="proceede">proceed</reg> and <reg orig="wayte">wait</reg> <seg type="homograph" subtype="preposition">on</seg> me, I <seg type="homograph" subtype="verb">will</seg> hap woe or wealth,</l>
+<l>Hap blunt, hap sharp, hap life, hap death, though Haphazard be of health</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>At hand quoth <reg orig="picke">pick</reg> purse) here <reg orig="redy">ready</reg> am I,</l>
+<l>See well <seg type="homograph" subtype="preposition">to</seg> the Cut Purse, be ruled <seg type="homograph" subtype="preposition">by</seg> me.</l></sp>
+<stage>Exit. Go out here.</stage>
+<sp who="L"><speaker>Conscience.</speaker>
+<l>O <reg orig="cleare">clear</reg> <reg orig="vnspotted">unspotted</reg> <reg orig="giftes">gifts</reg> of <reg orig="Ioue">Jove</reg></l>
+<l>How haps thou art refused?</l>
+<l><reg orig="oh">o</reg> Conscience <reg orig="cleare">clear</reg>, what <reg orig="cruell">cruel</reg> <reg orig="minde">mind</reg></l>
+<l>Thy truth hath thus misused?</l>
+<l>I spotted am <seg type="homograph" subtype="preposition">by</seg> <reg orig="wilfull">wilful</reg> <seg type="homograph" subtype="noun">will</seg>,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <reg orig="lawles">lawless</reg> <reg orig="loue">love</reg> and <reg orig="luste">lust</reg></l>
+<l><seg type="homograph" subtype="preposition">by</seg> <reg orig="dreadfull">dreadful</reg> <reg orig="daunger">danger</reg> of the life.</l>
+<l><seg type="homograph" subtype="preposition">by</seg> faith <seg type="homograph" subtype="relative">that</seg> is <reg orig="vniust">unjust</reg>.</l></sp>
+<sp who="J"><speaker>Iustice.</speaker>
+<l>Ah gift of <reg orig="Ioue">Jove</reg> ah Fortunes face,</l>
+<l>Ah state of <reg orig="steddy">steady</reg> life:</l>
+<l>I <reg orig="Iustice">Justice</reg> am and Prince of <reg orig="peeres">peers</reg>,</l>
+<l>The end of <reg orig="Lawes">Laws</reg> and strife:</l>
+<l>A guider of the common <reg orig="weale">weal</reg>,</l>
+<l>A <reg orig="gwerdon">guerdon</reg> <seg type="homograph" subtype="preposition">to</seg> the <reg orig="poore">poor</reg>:</l>
+<l>And yet hath filthy lust <reg orig="supprest">suppressed</reg>,</l>
+<l>My <reg orig="vertues">virtues</reg> <seg type="homograph" subtype="preposition">in</seg> one <reg orig="houre">hour</reg>,</l>
+<l>Well well this is the most <seg type="homograph" subtype="infinitive">to</seg> trust,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> <reg orig="ende">end</reg> <seg type="homograph" subtype="truePlural">we</seg> shall <reg orig="espire">aspire</reg>:</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> see the end of these <seg type="homograph" subtype="truePlural">our</seg> foes</l>
+<l>With sword and eke with fire.</l></sp>
+<sp who="L"><speaker>Conscience.</speaker>
+<l><reg orig="oh">o</reg> help ye Gods, <seg type="homograph" subtype="truePlural">we</seg> members require.</l></sp>
+<stage>Exit.</stage>
+<stage>Enter Haphazard.</stage>
+<sp who="H">
+<l>When <reg orig="gayne">gain</reg> is <seg type="homograph" subtype="adjective">no</seg> <reg orig="gransier">grandsire</reg>,</l>
+<l>And <reg orig="gaudes">gauds</reg> naught set <seg type="homograph" subtype="adverb">by</seg>:</l>
+<l>Nor Puddings, nor Pie <reg orig="meate">meat</reg>,</l>
+<l><reg orig="Poore">Poor</reg> <reg orig="knaues">knaves</reg> <seg type="homograph" subtype="verb">will</seg> come <reg orig="nie">nigh</reg>:</l>
+<l>Then hap and Haphazard</l>
+<l>Shall <reg orig="haue">have</reg> a new cote:</l>
+<l>And <seg type="homograph" subtype="adverbManner">so</seg> it may happen.</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> cut <reg orig="couetousnesse">covetousness</reg> <reg orig="throte">throat</reg>:</l>
+<l>Yea then shall <reg orig="Iudge">Judge</reg> Apius</l>
+<l>Virginia <reg orig="obtayne">obtain</reg>:</l>
+<l>And Geese shall <reg orig="cracke">crack</reg> Mussels,</l>
+<l>Perhaps <seg type="homograph" subtype="preposition">in</seg> the <reg orig="rayne">rain</reg>:</l>
+<l><reg orig="Lerkes">Larks</reg> <reg orig="shalbe">shall be</reg> <reg orig="Leuerets">Leverets</reg>,</l>
+<l>And skip <seg type="homograph" subtype="fossil">to</seg> and fro:</l>
+<l>And <reg orig="chourles">churls</reg> <reg orig="shalbe">shall be</reg> codsheads,</l>
+<l>Perhaps and also:</l>
+<l>But peace <seg type="homograph" subtype="preposition">for</seg> <reg orig="mans">man's</reg> body,</l>
+<l>Haphazard be mum,</l>
+<l>Fie <reg orig="pratlyng">prattling</reg> noddy,</l>
+<l><reg orig="Iudge">Judge</reg> Apius is come.</l></sp>
+<stage>Here entreth Iudge Apius and Claudius </stage>
+<sp who="A">
+<l>The furies fell of <reg orig="Lymbo">Limbo</reg> Lake,</l>
+<l>my Princely <reg orig="daies">days</reg> <reg orig="doo">do</reg> <reg orig="shorte">short</reg>:</l>
+<l>All <reg orig="drownde">drowned</reg> <seg type="homograph" subtype="preposition">in</seg> deadly woes I <reg orig="liue">live</reg>,</l>
+<l><seg type="homograph" subtype="relative">that</seg> once <reg orig="dyd"> did </reg> <reg orig="ioy">joy</reg> <seg type="homograph" subtype="preposition">in</seg> sport,</l>
+<l>I <reg orig="liue">live</reg> and languish <seg type="homograph" subtype="preposition">in</seg> my <reg orig="lyfe">life</reg>,</l>
+<l>as doth the wounded <reg orig="deare">dear</reg>:</l>
+<l>I thirst, I <reg orig="craue">crave</reg>, I call and <reg orig="crie">cry</reg>,</l>
+<l>and yet am naught the <reg orig="neare">near</reg>:</l>
+<l>And yet I <reg orig="haue">have</reg> <seg type="homograph" subtype="relative">that</seg> me <seg type="homograph" subtype="adverbDegree">so</seg> match,</l>
+<l>within <reg orig="tho">though</reg> <reg orig="Realme">Realm</reg> of mine:</l>
+<l>But Tantalus amids my care,</l>
+<l>I hunger <reg orig="sterue">starve</reg> and pine:</l>
+<l>As Sissifus I <reg orig="roule">roll</reg> the stone,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> <reg orig="vaine">vain</reg> <seg type="homograph" subtype="preposition">to</seg> top of Hill:</l>
+<l><seg type="homograph" subtype="relative">that</seg> <reg orig="euermore">evermore</reg> <reg orig="vncertainly">uncertainly</reg>,</l>
+<l><reg orig="reuoluing">revolving</reg> slideth still:</l>
+<l><reg orig="oh">o</reg>, as if <seg type="homograph" subtype="preposition">to</seg> <seg type="homograph" subtype="personalPronoun">her</seg> it were <seg type="homograph" subtype="preposition">to</seg> me,</l>
+<l>what labours would I <reg orig="flie">fly</reg>?</l>
+<l>What raging seas would I not <reg orig="plow">plough</reg>,</l>
+<l><seg type="homograph" subtype="preposition">to</seg> <seg type="homograph" subtype="adjective">her</seg> <reg orig="commoditie">commodity</reg>?</l>
+<l>But out alas I doubt it sore,</l>
+<l>lest <reg orig="drousy">drowsy</reg> Morpheus</l>
+<l>His <reg orig="slumbry">slumbery</reg> <reg orig="kingdomes">kingdoms</reg> <reg orig="graunted">granted</reg> hath,</l>
+<l>with <reg orig="Dewes">Dews</reg> and <reg orig="bewtious">beauteous</reg>:</l>
+<l><reg orig="oh">o</reg> Gods <reg orig="aboue">above</reg> <seg type="homograph" subtype="relative">that</seg> rule the Skies,</l>
+<l>ye Babes <seg type="homograph" subtype="relative">that</seg> <reg orig="bragge">brag</reg> <seg type="homograph" subtype="preposition">in</seg> <reg orig="blisse">bliss</reg>:</l>
+<l>Ye Goddesses, ye Graces you,</l>
+<l>what burning brunt is this?</l>
+<l>Bend <reg orig="downe">down</reg> your Ire, destroy me <reg orig="quicke">quick</reg>:</l>
+<l>or <reg orig="els">else</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="graunt">grant</reg> me grace,</l>
+<l><seg type="homograph" subtype="adjective">no</seg> more but <seg type="homograph" subtype="conjunction">that</seg> my burning <reg orig="breste">breast</reg>,</l>
+<l>Virginia may <reg orig="imbace">embrace</reg>:</l>
+<l>If case your <reg orig="eares">ears</reg> be dead and <reg orig="deafe">deaf</reg>,</l>
+<l>the <reg orig="Feende">Fiend</reg> and sprites <reg orig="beloe">below</reg>:</l>
+<l>You <reg orig="carelesse">careless</reg> carls of Limbo Lake,</l>
+<l>your forced <reg orig="mightes">mights</reg> <reg orig="doo">do</reg> shoe.</l>
+<l>Thou <reg orig="Caitife">Caitiff</reg> <reg orig="kinge">king</reg> of darksome den,</l>
+<l>thou Pluto <reg orig="plaged">plagued</reg> <reg orig="knaue">knave</reg>:</l>
+<l>Send forth thy sacred <reg orig="vengeaunce">vengeance</reg> straight,</l>
+<l>consume them <seg type="homograph" subtype="preposition">to</seg> the <reg orig="graue">grave</reg>:</l>
+<l><seg type="homograph" subtype="relative">that</seg> <seg type="homograph" subtype="verb">will</seg> not <reg orig="aide">aid</reg> my case,</l></sp>
+<sp who="G"><speaker>Claudius.</speaker>
+<l>Content and if it <seg type="homograph" subtype="verb">like</seg> your grace,</l>
+<l>I <seg type="homograph" subtype="verb">will</seg> attempt the <reg orig="deede">deed</reg>:</l>
+<l>I <reg orig="sommon">summon</reg> <seg type="homograph" subtype="verb">will</seg> Virginius</l>
+<l>before your seat with <reg orig="speede">speed</reg>,</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Do <seg type="homograph" subtype="adverbManner">so</seg>, my <reg orig="Lorde">Lord</reg> be you not <reg orig="afrayde">afraid</reg>,</l>
+<l>And <seg type="homograph" subtype="conjunction">so</seg> you may happen <seg type="homograph" subtype="infinitive">to</seg> Hazard the <reg orig="mayde">maid</reg>:</l>
+<l>It is but <seg type="homograph" subtype="preposition">in</seg> Hazard and may come <seg type="homograph" subtype="preposition">by</seg> hap,</l>
+<l>Win <seg type="homograph" subtype="personalPronoun">her</seg>, or lose <seg type="homograph" subtype="personalPronoun">her</seg>, <reg orig="trie">try</reg> you the trap.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods, I consent <seg type="homograph" subtype="preposition">to</seg> thee Claudius now</l>
+<l>Prepare <reg orig="the"> thee </reg> <seg type="homograph" subtype="preposition">in</seg> haste Virginius <reg orig="vnto">unto</reg>,</l>
+<l>Charge him, <reg orig="commaund">command</reg> him, <reg orig="vpon"><seg type="homograph" subtype="preposition">upon</seg></reg> his <reg orig="alegeance">allegiance</reg></l>
+<l>With all <reg orig="kinde">kind</reg> of <reg orig="speede">speed</reg>, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="yeelde">yield</reg> his <reg orig="obeysance">obeisance</reg>,</l>
+<l>Before my <reg orig="seate">seat</reg> <seg type="homograph" subtype="preposition">in</seg> my <reg orig="consistary">consistory</reg></l>
+<l><reg orig="Subpene">Subpoena</reg> of <reg orig="lande">land</reg>, life and <reg orig="treasurie">treasury</reg>.</l>
+<stage>Here let Claudius go out with Haphazard.</stage>
+
+<l><seg type="homograph" subtype="exclamation">no</seg> let, <seg type="homograph" subtype="exclamation">no</seg> stay, nor <reg orig="ought">aught</reg> <reg orig="perturbraunce">perturberance</reg>,</l>
+<l>Shall cause me <seg type="homograph" subtype="infinitive">to</seg> omit the <reg orig="furtheraunce">furtherance</reg>,</l>
+<l>Of this my <reg orig="waighty">weighty</reg> charge:</l></sp>
+<stage>Exit.</stage>
+<sp who="A"><speaker>Apius.</speaker>
+<l>Well now I range at large my <seg type="homograph" subtype="noun">will</seg> <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="expresse">express</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> <reg orig="looke">look</reg> how Torquin, Lucres <reg orig="faire">fair</reg>, <seg type="homograph" subtype="preposition">by</seg> force did once <reg orig="oppresse">oppress</reg>,</l>
+<l><reg orig="euen">even</reg> <seg type="homograph" subtype="adverbManner">so</seg> <seg type="homograph" subtype="verb">will</seg> I Virginia <reg orig="vse">use</reg>:</l></sp>
+<stage>Here let Consience speake within.</stage>
+<sp who="L">
+<l><reg orig="Iudge">Judge</reg> Apius prince, <reg orig="oh">o</reg> stay refuse,</l>
+<l>Be ruled <seg type="homograph" subtype="preposition">by</seg> thy <reg orig="friende">friend</reg>:</l>
+<l>What <reg orig="bloudy">bloody</reg> death with open shame,</l>
+<l>Did Torquin <reg orig="gaine">gain</reg> <seg type="homograph" subtype="preposition">in</seg> <reg orig="ende">end</reg>?</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>Whence doth this pinching <reg orig="sounde">sound</reg> <reg orig="desende">descend</reg>?</l></sp>
+<sp who="L"><speaker>Conscience.</speaker>
+<l>From <reg orig="contrit">contrite</reg> Conscience pricked <seg type="homograph" subtype="adverb">on</seg>,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> member of thy <reg orig="lyfe">life</reg>,</l>
+<l>Enforced <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> cry and call,</l>
+<l>And all <seg type="homograph" subtype="infinitive">to</seg> end <seg type="homograph" subtype="truePlural">our</seg> strife.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>What art thou then declare be <reg orig="breefe">brief</reg>?</l></sp>
+<sp who="L"><speaker>Consience.</speaker>
+<l>Not flesh nor filthy lust I am:</l>
+<l>But secret <reg orig="consience">conscience</reg> I,</l>
+<l><reg orig="Compeld">Compelled</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="crie">cry</reg> with <reg orig="trimbling">trembling</reg> <reg orig="soule">soul</reg>,</l>
+<l>At point <reg orig="nere">near</reg> hand <seg type="homograph" subtype="infinitive">to</seg> die.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>Why <seg type="homograph" subtype="adjective">no</seg> disease <reg orig="dath"> doth </reg> me <reg orig="aproche">approach</reg>, <seg type="homograph" subtype="adjective">no</seg> <reg orig="griefe">grief</reg> doth make me grudge,</l>
+<l>But want of <reg orig="faire">fair</reg> Virginia whose beauty is my <reg orig="Iudge">Judge</reg>:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg> I <reg orig="liue">live</reg>, <seg type="homograph" subtype="preposition">by</seg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg> I die, <seg type="homograph" subtype="preposition">for</seg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg> I <reg orig="ioy">joy</reg> or woe,</l>
+<l><seg type="homograph" subtype="preposition">for</seg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg> my <reg orig="soule">soul</reg> doth <reg orig="sinke">sink</reg> or <reg orig="swimme">swim</reg>, <seg type="homograph" subtype="preposition">for</seg> <reg orig="hir"><seg type="homograph" subtype="personalPronoun">her</seg></reg> I <reg orig="swere">swear</reg> I <reg orig="goe">go</reg>.</l></sp>
+<sp who="L"><speaker>Conscience.</speaker>
+<l>Ah Gods, what <reg orig="wittes">wits</reg> doth <reg orig="raine">rain</reg>, and yet <seg type="homograph" subtype="preposition">to</seg> you <reg orig="vnknowen">unknown</reg>?</l>
+<l>I die the death, and <reg orig="soule">soul</reg> doth <reg orig="sinke">sink</reg>, this filthy flesh hath <reg orig="sowen">sown</reg>.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>I force it not, I <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> attempt, I stay <seg type="homograph" subtype="preposition">for</seg> Claudius <reg orig="heare">here</reg>,</l>
+<l>Yet <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> I <reg orig="goe">go</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="meete">meet</reg> with him, <seg type="homograph" subtype="infinitive">to</seg> know what <reg orig="newes">news</reg> and <reg orig="cheare">cheer</reg>.</l></sp>
+<stage>Here entreth Haphazard.</stage>
+<sp who="H">
+<l><reg orig="hast">haste</reg> <seg type="homograph" subtype="preposition">for</seg> a hangman, <seg type="homograph" subtype="preposition">in</seg> hazard of <reg orig="hempe">hemp</reg></l>
+<l><reg orig="Runne">Run</reg> <seg type="homograph" subtype="preposition">for</seg> a <reg orig="ridducke">ruddock</reg>, there is <seg type="homograph" subtype="adjective">no</seg> such <reg orig="impe">imp</reg>:</l>
+<l>Claudius is knocking, with hammer and stone,</l>
+<l>At Virginius gate, as hard as he can lay one:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods my <reg orig="maisters">masters</reg>, Haphazard is hardy,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> he <seg type="homograph" subtype="verb">will</seg> run rashly, be they <reg orig="neuer">never</reg> <seg type="homograph" subtype="adverbDegree">so</seg> many,</l>
+<l>Yea he <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> <reg orig="singe">sing</reg> <reg orig="sowsnowt">sow's snout</reg>, and <reg orig="sknap">snap</reg> with the best,</l>
+<l>But peace, <seg type="homograph" subtype="interrogative">who</seg> comes yonder, what <reg orig="Ioly">Jolly</reg> good <reg orig="gest">guest</reg>?</l>
+<stage>Here enter in with a songe.</stage>
+
+<l>When men <seg type="homograph" subtype="verb">will</seg> <reg orig="seeme">seem</reg> misdoubtfully,</l>
+<l>Without an why, <seg type="homograph" subtype="infinitive">to</seg> call and cry,</l>
+<l>And fearing with <reg orig="temerety">temerity</reg>, <reg orig="its">it is</reg> <reg orig="ieopardy">jeopardy</reg>, of <reg orig="libertie">liberty</reg>,</l>
+<l><reg orig="wee"><seg type="homograph" subtype="truePlural">we</seg></reg> wish him take <seg type="homograph" subtype="infinitive">to</seg> <reg orig="chere">cheer</reg> his <reg orig="hart">heart</reg>, Haphazard,</l>
+<l><reg orig="Boulde">Bold</reg> <reg orig="blinde">blind</reg> <reg orig="bayarde">bayard</reg>,</l>
+<l>A <reg orig="Fygge">Fig</reg> <seg type="homograph" subtype="preposition">for</seg> his <reg orig="vncourtesie">uncourtesy</reg>,</l>
+<l><seg type="homograph" subtype="relative">that</seg> <reg orig="seekes">seeks</reg> <seg type="homograph" subtype="infinitive">to</seg> shun good company.</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>What if case <seg type="homograph" subtype="demonstrative">that</seg> cruelty, should <reg orig="bussell">bustle</reg> me, and <reg orig="iussell">jostle</reg> <reg orig="mee">me</reg>,</l>
+<l>And Holywand should tickle me, <seg type="homograph" subtype="preposition">for</seg> keeping of good <reg orig="companye">company</reg>:</l>
+<l><reg orig="ile">I <seg type="homograph" subtype="verb">will</seg></reg> <reg orig="folow">follow</reg> <seg type="homograph" subtype="preposition">by</seg> my <reg orig="honestie">honesty</reg>, hap Haphazard, <reg orig="bould">bold</reg> <reg orig="blinde">blind</reg> bayard,</l>
+<l>A <reg orig="figge">fig</reg> <seg type="homograph" subtype="preposition">for</seg> his <reg orig="vncourtesie">uncourtesy</reg>, <seg type="homograph" subtype="relative">that</seg> <reg orig="seekes">seeks</reg> <seg type="homograph" subtype="infinitive">to</seg> shun good <reg orig="companie">company</reg>.</l></sp>
+<stage>All singe this.</stage>
+<sp who="X">
+<l>When men <reg orig="wyll seeme"> <seg type="homograph" subtype="verb">will</seg> seem </reg> misdoubtfully,</l>
+<l>Without an why, <seg type="homograph" subtype="infinitive">to</seg> call and <reg orig="crie">cry</reg>. <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l><reg orig="neuer">never</reg> was <seg type="homograph" subtype="demonstrative">that</seg> <reg orig="misteris">mistress</reg>, <seg type="homograph" subtype="adverbDegree">so</seg> furious nor curious,</l>
+<l>Nor yet <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> <reg orig="bloes">blows</reg> <seg type="homograph" subtype="adverbDegree">so</seg> boisterous, nor <reg orig="rosterous">roisterous</reg>, nor dolorous,</l>
+<l>But sure I would <reg orig="venterous">venturous</reg>, hap Haphazard, <reg orig="boulde">bold</reg> <reg orig="blinde">blind</reg> bayard</l>
+<l>A <reg orig="figge">fig</reg> <seg type="homograph" subtype="preposition">for</seg> his <reg orig="vncourtesie">uncourtesy</reg>, <seg type="homograph" subtype="relative">that</seg> <reg orig="seekes">seeks</reg> <seg type="homograph" subtype="infinitive">to</seg> shun good <reg orig="companie">company</reg>.</l></sp>
+<stage>All singe this.</stage>
+<sp who="X">
+<l>When men <reg orig="wyll seeme"> <seg type="homograph" subtype="verb">will</seg> seem </reg> misdoubtfully,</l>
+<l>Without an why, <seg type="homograph" subtype="infinitive">to</seg> call and <reg orig="crie">cry</reg> <reg orig="&amp;c.">etc.</reg></l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Then wend ye <seg type="homograph" subtype="adverb">on</seg> and <reg orig="folow">follow</reg> me, Mansipula, Mansipula</l>
+<l>Let <reg orig="cropyng">croping</reg> cares be cast away, come <reg orig="folow">follow</reg> me, come <reg orig="folow">follow</reg> me,</l>
+<l>Subseruus is a <reg orig="ioyly">jolly</reg> <reg orig="loute">lout</reg>, brace Haphazard <reg orig="bould">bold</reg> <reg orig="blinde">blind</reg> <reg orig="bayarde">bayard</reg>,</l>
+<l>A <reg orig="figge">fig</reg> <seg type="homograph" subtype="preposition">for</seg> his <reg orig="vncourtesie">uncourtesy</reg>, <seg type="homograph" subtype="relative">that</seg> <reg orig="seekes">seeks</reg> <seg type="homograph" subtype="infinitive">to</seg> shun good company.</l></sp>
+<stage>All sing this.</stage>
+<sp who="X">
+<l>When men <seg type="homograph" subtype="verb">will</seg> <reg orig="seeme">seem</reg> misdoubtfully,</l>
+<l>Without an why, <seg type="homograph" subtype="infinitive">to</seg> call and cry. <reg orig="&amp;c.">etc.</reg></l></sp>
+<stage>The end of the song.</stage>
+<stage>Heere Haphazard speaketh.</stage>
+<sp who="H">
+<l><reg orig="I"> Aye </reg> <seg type="homograph" subtype="preposition">by</seg> the Gods my <reg orig="maysters">masters</reg>, I <reg orig="tould">told</reg> you <reg orig="plaine">plain</reg>,</l>
+<l><seg type="homograph" subtype="relative">who</seg> <reg orig="companyes">companies</reg> with me, <seg type="homograph" subtype="verb">will</seg> desire me <reg orig="agayne"> again </reg>:</l>
+<l>But how <reg orig="dyd"> did </reg> ye <reg orig="speede">speed</reg> I pray ye <reg orig="shew">show</reg> me,</l>
+<l>Was all well agreed, did <reg orig="no body"> nobody </reg> blow ye.</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l><reg orig="Masse">Mass</reg> <reg orig="syr">sir</reg>, hap <reg orig="dyd"> did </reg> <seg type="homograph" subtype="adverbManner">so</seg> happen, <seg type="homograph" subtype="conjunction">that</seg> my <reg orig="Lorde">Lord</reg> and <reg orig="maister">master</reg>,</l>
+<l><reg orig="Staied">Stayed</reg> <seg type="homograph" subtype="preposition">in</seg> beholding and viewing the Pasture.</l>
+<l><seg type="homograph" subtype="relative">which</seg> when I <reg orig="perceiued">perceived</reg>, what excuse did I make?</l>
+<l>I came <seg type="homograph" subtype="preposition">in</seg> the <reg orig="crosse">cross</reg> way, <seg type="homograph" subtype="preposition">on</seg> the <reg orig="nerside">nearside</reg> the Forlake,</l>
+<l>Hard <seg type="homograph" subtype="preposition">by</seg> Hodges <reg orig="halfe">half</reg> <reg orig="aker">acre</reg>, at gaffers Millers stile.</l>
+<l>The next way round about, <seg type="homograph" subtype="preposition">by</seg> the space of a mile,</l>
+<l>And at Symkins side ridge, my Lord <reg orig="stoode">stood</reg> talking,</l>
+<l>And <reg orig="angerly">angrily</reg> <seg type="homograph" subtype="infinitive">to</seg> me (quoth he) <reg orig="wher">where</reg> hast thou <reg orig="ben">been</reg> walking</l>
+<l>Without any <reg orig="staggeryng">staggering</reg>, I had ready my <reg orig="lye">lie</reg>,</l>
+<l>Out at Bridgemedow, and at Benols lease (quoth I)</l>
+<l>Your fatlings are <reg orig="feding">feeding</reg> well Sir, the Gods be praised,</l>
+<l>A goodly loume of beef <seg type="homograph" subtype="preposition">on</seg> them is all <reg orig="redy">ready</reg> raised,</l>
+<l>The outsteps <seg type="homograph" subtype="preposition">on</seg> Frauncis Fabulator <seg type="homograph" subtype="relative">that</seg> was <reg orig="neuer">never</reg> my <reg orig="friende">friend</reg>,</l>
+<l>How past you Carters hay <reg orig="rocke">rock</reg>, at long <reg orig="medow">meadow</reg> <reg orig="ende">end</reg></l>
+<l>There might one (quoth he) within this few <reg orig="dayes">days</reg>,</l>
+<l>With a cast net had <reg orig="geuen">given</reg> <reg orig="iiii">four</reg> <reg orig="knaues">knaves</reg> great <reg orig="assayes">assays</reg>:</l>
+<l>Under the Hedge with a <reg orig="payre">pair</reg> of new <reg orig="Cardes">Cards</reg> both rip and fledge,</l>
+<l>Is it true quoth my <reg orig="Lorde">Lord</reg>, <seg type="homograph" subtype="verb">will</seg> this <reg orig="geare">gear</reg> <reg orig="neuer">never</reg> be <reg orig="lefte">left</reg>,</l>
+<l>This causes swearing, and staring, <reg orig="proling">prowling</reg> and <reg orig="thefte">theft</reg>:</l>
+<l>Well (quoth my <reg orig="Lorde">Lord</reg>) take <reg orig="hede">heed</reg> <reg orig="least">lest</reg> I <reg orig="finde">find</reg> it,</l>
+<l>And <seg type="homograph" subtype="conjunction">so</seg> past his way, and did <seg type="homograph" subtype="adjective">no</seg> more <reg orig="minde">mind</reg> it.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l><seg type="homograph" subtype="preposition">by</seg> the Gods <seg type="homograph" subtype="demonstrative">that</seg> was sport, ye and sport alone,</l></sp>
+<sp who="F"><speaker>Mansipula.</speaker>
+<l>Yea, but I was <seg type="homograph" subtype="preposition">in</seg> worse case <seg type="homograph" subtype="preposition">by</seg> Saint Ihon,</l>
+<l>My Lady <seg type="homograph" subtype="preposition">in</seg> Church was set full <reg orig="douout">devout</reg>,</l>
+<l>And hearing my <reg orig="comming">coming</reg> she <reg orig="tourned">turned</reg> <reg orig="aboute">about</reg>:</l>
+<l>But as <reg orig="soone">soon</reg> as I heard <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> snappishly <reg orig="sounde">sound</reg>,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> this <reg orig="sorte">sort</reg> I crouched me <reg orig="downe">down</reg> <seg type="homograph" subtype="preposition">to</seg> the <reg orig="grounde">ground</reg>,</l>
+<l>And mannerly Maude, as though I were sad,</l>
+<l>As <reg orig="soone">soon</reg> as the Pue then strawed I had,</l>
+<l>She <reg orig="gaue">gave</reg> me a <reg orig="wincke">wink</reg>, and frowardly <reg orig="frowne">frown</reg>,</l>
+<l><reg orig="Wherby">Whereby</reg> I do <reg orig="iudge">judge</reg>, she <reg orig="woulde">would</reg> <reg orig="cougell">cudgel</reg> my <reg orig="gowne">gown</reg>:</l>
+<l>Then I <reg orig="dyd"> did </reg> <reg orig="deuise">devise</reg>, a <reg orig="prety">pretty</reg> fine <reg orig="pranke">prank</reg>,</l>
+<l>A <reg orig="meane">mean</reg> whereby <seg type="homograph" subtype="infinitive">to</seg> <reg orig="picke">pick</reg> me a <reg orig="thanke">thank</reg>:</l>
+<l>Of Margery Mildon the <reg orig="maide">maid</reg> of the <reg orig="Milke">Milk</reg> house,</l>
+<l>And stainer the stutter the <reg orig="guid">guide</reg> of the store house,</l>
+<l>Then was my Ladies anger well gone,</l>
+<l>And <reg orig="wilbe"><seg type="homograph" subtype="verb">will</seg> be</reg> <seg type="homograph" subtype="adverbDegree">so</seg> still, and the <reg orig="truthe">truth</reg> be not <reg orig="knowne">known</reg>.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l><reg orig="Ber Lady">Byrlady</reg>, <reg orig="barefoote">barefoot</reg> this bakes trimly,</l></sp>
+<sp who="K"><speaker>Subseruus.</speaker>
+<l>Nay but I escaped more finely,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> I <reg orig="vnder">under</reg> this hedge one while <reg orig="dyd"> did </reg> stay,</l>
+<l>Then <seg type="homograph" subtype="preposition">in</seg> this <reg orig="bushe">bush</reg>, then <seg type="homograph" subtype="preposition">in</seg> <seg type="homograph" subtype="demonstrative">that</seg> way:</l>
+<l>Then <reg orig="slipt">slipped</reg> I behind them among all the rest,</l>
+<l>And seemed <seg type="homograph" subtype="infinitive">to</seg> common <reg orig="to"> too </reg>, of things with the best,</l>
+<l>But <seg type="homograph" subtype="adverbManner">so</seg> it did happen, <seg type="homograph" subtype="conjunction">that</seg> all things were well,</l>
+<l>But hazard it is, <reg orig="least">lest</reg> time <seg type="homograph" subtype="verb">will</seg> truth tell.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Tut, tut, <seg type="homograph" subtype="demonstrative">that</seg> was but <seg type="homograph" subtype="preposition">by</seg> hap, and if it be <seg type="homograph" subtype="adverbManner">so</seg>,</l>
+<l>Well sith it was <seg type="homograph" subtype="preposition">in</seg> hazard then let it goo,</l></sp>
+<sp who="K"><speaker>Subseruus.</speaker>
+<l>Content <seg type="homograph" subtype="preposition">by</seg> my <reg orig="honestie">honesty</reg>, then farewell all <reg orig="wo">woe</reg>,</l></sp>
+<sp who="E"><speaker>Mansipulus.</speaker>
+<l>Come out <reg orig="dogge">dog</reg>, ye <reg orig="speake">speak</reg> <reg orig="happely">happily</reg> of truth if it be <seg type="homograph" subtype="adverbManner">so</seg>,</l></sp>
+<stage>All speake.</stage>
+<sp who="X">
+<l>Now master Haphazard fare you well <seg type="homograph" subtype="preposition">for</seg> a season,</l></sp>
+<sp who="H"><speaker>Haphazard,</speaker>
+<l>Let my <reg orig="councell">council</reg> at <seg type="homograph" subtype="adjective">no</seg> time with you be geason.</l></sp>
+<stage>All speaketh.</stage>
+<sp who="X">
+<l><seg type="homograph" subtype="adjective">no</seg> <seg type="homograph" subtype="preposition">by</seg> the Gods, be sure not <seg type="homograph" subtype="adverbManner">so</seg>,</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Well sith here is <seg type="homograph" subtype="adjective">no</seg> company <reg orig="haue">have</reg> with ye <seg type="homograph" subtype="preposition">to</seg> Ierico.</l></sp>
+<stage>Exit.</stage>
+<stage>Enter Virginius.</stage>
+<sp who="B">
+<l>What <seg type="homograph" subtype="adverbManner">so</seg> the Gods they <reg orig="haue">have</reg> decreed <seg type="homograph" subtype="infinitive">to</seg> <reg orig="worke">work</reg> and do <seg type="homograph" subtype="preposition">by</seg> me?</l>
+<l>I <reg orig="meruaile">marvel</reg> why <reg orig="Iudge">Judge</reg> Apius he, such <reg orig="gretings">gratings</reg> <reg orig="lets">let <seg type="homograph" subtype="truePlural">us</seg></reg> me see:</l>
+<l>I <reg orig="serued">served</reg> <reg orig="haue">have</reg> his <reg orig="seate">seat</reg>, and state, I <reg orig="haue">have</reg> <reg orig="maintaind">maintained</reg> his <reg orig="weale">weal</reg>,</l>
+<l>I <reg orig="haue">have</reg> <reg orig="supprest">suppressed</reg> the rebels <reg orig="stoute">stout</reg>, I <reg orig="beare">bear</reg> <seg type="homograph" subtype="preposition">to</seg> him such <reg orig="zeale">zeal</reg>,</l>
+<l>And now he sends <seg type="homograph" subtype="preposition">to</seg> me such charge, <reg orig="vpon"><seg type="homograph" subtype="preposition">upon</seg></reg> my life and lands,</l>
+<l>Without demur, or further pause, or ere ought things be <reg orig="scand">scanned</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> I <seg type="homograph" subtype="preposition">in</seg> <reg orig="hast">haste</reg>, with posting <reg orig="speede">speed</reg>, <seg type="homograph" subtype="preposition">to</seg> Court I do <reg orig="repaire">repair</reg>,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> <reg orig="aunswer">answer</reg> <seg type="homograph" subtype="relative">that</seg> <reg orig="aleaged">alleged</reg> is, before his <reg orig="Iudgement">Judgment</reg> <reg orig="Chaire">Chair</reg>,</l>
+<l>Some Histories they do <reg orig="expresse">express</reg>, when such mishaps do fall,</l>
+<l>They should <reg orig="haue">have</reg> tokens many a one, I <reg orig="haue">have</reg> not one but all:</l>
+<l>My <reg orig="Iuels">Jewels</reg> <reg orig="somtime">sometime</reg> precious, do <reg orig="vade">fade</reg> and <reg orig="beare">bear</reg> <seg type="homograph" subtype="adjective">no</seg> <reg orig="hewe">hue</reg>,</l>
+<l>My <reg orig="sences">senses</reg> they do shun <reg orig="there"> their </reg> course, my lights do <reg orig="burne">burn</reg> as <reg orig="blewe">blue</reg>:</l>
+<l>My willing wights are waxed slow, <seg type="homograph" subtype="relative">that</seg> once were <reg orig="swifte">swift</reg> <seg type="homograph" subtype="preposition">in</seg> <reg orig="speede">speed</reg></l>
+<l>My <reg orig="hart">heart</reg> it throbs <seg type="homograph" subtype="preposition">in</seg> <reg orig="wonderous">wondrous</reg> sort, my nose doth often <reg orig="bleede">bleed</reg>:</l>
+<l>My <reg orig="dreadfull">dreadful</reg> <reg orig="dreames">dreams</reg> do draw my woe and <reg orig="hatefull">hateful</reg> hazard hale,</l>
+<l>These tokens be of <reg orig="euell">evil</reg> hap, this is the old <reg orig="wiues">wives'</reg> tale:</l>
+<l>But yet O thou Virginius whose hoary <reg orig="heares">hairs</reg> are <reg orig="olde">old</reg>,</l>
+<l>Didst treason <reg orig="neuer">never</reg> yet commit, of this thou <reg orig="maist">mayst</reg> be <reg orig="bould">bold</reg>:</l>
+<l><seg type="homograph" subtype="preposition">in</seg> Mars his games, <seg type="homograph" subtype="preposition">in</seg> <reg orig="marshall">martial</reg> <reg orig="feates">feats</reg>, thou wast his only <reg orig="aide">aid</reg>,</l>
+<l>The huge Carrebd his hazards thou, <seg type="homograph" subtype="preposition">for</seg> him was <reg orig="ofte">oft</reg> <reg orig="assaide">assayed</reg>:</l>
+<l>Was Sillas force <seg type="homograph" subtype="preposition">by</seg> thee oft <reg orig="shunde">shunned</reg>, or yet Adrice <reg orig="lande">land</reg>,</l>
+<l>Laceface <reg orig="childe">child</reg> <seg type="homograph" subtype="relative">that</seg> <reg orig="Minnotaur">Minotaur</reg> did cause thee <reg orig="euer"> ever </reg> <reg orig="stande">stand</reg>:</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> pleasure him, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="serue">serve</reg> thy leach, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="keepe">keep</reg> all things <reg orig="vpright">upright</reg>,</l>
+<l>Thou God <reg orig="aboue">above</reg>, then what is it, <seg type="homograph" subtype="relative">that</seg> <reg orig="yeeldeth">yieldeth</reg> me this <reg orig="spight">spite</reg>?</l>
+<l>Sith nothing <reg orig="neede">need</reg> misdoubted be, where grounded cause is none,</l>
+<l>I enter <seg type="homograph" subtype="verb">will</seg> <reg orig="Iudge">Judge</reg> Apius gate, <reg orig="reiecting">rejecting</reg> care and <reg orig="mone">moan</reg>:</l>
+<l>But stay Virginius <reg orig="loe">lo</reg>, thy Prince doth enter into place,</l>
+<l><reg orig="oh">o</reg> sufferant Lord, and <reg orig="rightfull">rightful</reg> <reg orig="Iudge">Judge</reg>, the Gods do <reg orig="saue">save</reg> thy grace,</l></sp>
+<stage>Here entreth Iudge Apius and Claudius </stage>
+<sp who="A">
+<l>With tender <reg orig="hart">heart</reg> Virginius thou welcome art <seg type="homograph" subtype="preposition">to</seg> me,</l>
+<l>I <reg orig="sory">sorry</reg> am <seg type="homograph" subtype="infinitive">to</seg> <reg orig="vtter">utter</reg> out, the things I <reg orig="here"> hear </reg> of thee:</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> Claudius a <reg orig="subiecte">subject</reg> here, a man of mickle fame,</l>
+<l>Appealeth thee before my <reg orig="Courte">Court</reg>, <seg type="homograph" subtype="preposition">in</seg> <reg orig="deede">deed</reg> of open shame:</l>
+<l>And though <seg type="homograph" subtype="preposition">in</seg> <reg orig="deede">deed</reg> I <reg orig="loue">love</reg> thee <seg type="homograph" subtype="adverbManner">so</seg>, as thy deserts <reg orig="desier">desire</reg>,</l>
+<l>Yet not <seg type="homograph" subtype="adverbManner">so</seg> but I must <reg orig="Iudgement">Judgment</reg> <reg orig="geue">give</reg>, as <reg orig="Iustice">Justice</reg> doth require.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>My Lord and reason good it is, your <reg orig="seruaunt">servant</reg> doth request,</l>
+<l><seg type="homograph" subtype="adjective">no</seg> <reg orig="parciall">partial</reg> hand <seg type="homograph" subtype="infinitive">to</seg> <reg orig="aide">aid</reg> his cause, <seg type="homograph" subtype="adjective">no</seg> <reg orig="parciall">partial</reg> <reg orig="minde">mind</reg> or <reg orig="brest">breast</reg>:</l>
+<l>If <reg orig="ought">aught</reg> I <reg orig="haue">have</reg> offended you, your <reg orig="Courte">Court</reg>, or eke your <reg orig="Crowne">Crown</reg>,</l>
+<l>From lofty top of Turret hie, <reg orig="persupetat">precipitated</reg> me <reg orig="downe">down</reg>:</l>
+<l>If treason none <seg type="homograph" subtype="preposition">by</seg> me be done, or any fault committed,</l>
+<l>Let my accusers <reg orig="beare">bear</reg> the blame, and let me be remitted.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>Good reason <seg type="homograph" subtype="preposition">to</seg> Virginius come Claudius <reg orig="shew">show</reg> thy <reg orig="minde">mind</reg>,</l>
+<l>Let <reg orig="Iustice">Justice</reg> here, if <reg orig="Iudgment">Judgment</reg> may, Virginius <reg orig="gilty">guilty</reg> <reg orig="finde">find</reg></l></sp>
+<sp who="G"><speaker>Claudius.</speaker>
+<l>Thou sufferant Lord, and <reg orig="rightfull">rightful</reg> <reg orig="Iudge">Judge</reg>, this standeth now <reg orig="y e"> the </reg> case,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> tender youth not long agone, <reg orig="nere">never</reg> <reg orig="sixtene">sixteen</reg> <reg orig="yeares">years</reg> of space,</l>
+<l>Virginius a thrall of mine, a <reg orig="childe">child</reg> and infant <reg orig="yonge">young</reg>,</l>
+<l>From me did take <seg type="homograph" subtype="preposition">by</seg> <reg orig="subtell">subtle</reg> <reg orig="meane">mean</reg>, and <reg orig="keepes">keeps</reg> <seg type="homograph" subtype="preposition">by</seg> <reg orig="arme">arm</reg> full strong</l>
+<l>And here before your grace I <reg orig="craue">crave</reg>, <seg type="homograph" subtype="conjunction">that</seg> <reg orig="Iustice">Justice</reg> be <reg orig="exstended">extended</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> I may <reg orig="haue">have</reg> my thrall <reg orig="agayne"> again </reg>, and <reg orig="faultes">faults</reg> may be amended</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Ah Gods <seg type="homograph" subtype="relative">that</seg> guide the globe <reg orig="aboue">above</reg> what forged tales I here,</l>
+<l><reg orig="oh">o</reg> <reg orig="Iudge">Judge</reg> Apius bend your <reg orig="eares">ears</reg>, while this my crime I <reg orig="cleare">clear</reg>:</l>
+<l>She is my child, and of my wife <seg type="homograph" subtype="adjective">her</seg> tender <reg orig="corpes">corpse</reg> did <reg orig="springe">spring</reg>,</l>
+<l>Let all the <reg orig="countrey">country</reg> where I dwell, <reg orig="beare">bear</reg> <reg orig="witnesse">witness</reg> of the thing.</l></sp>
+<stage>Apius and Claudius go forth, but Apius speaketh this.</stage>
+<sp who="A">
+<l>Nay <seg type="homograph" subtype="preposition">by</seg> the Gods not <seg type="homograph" subtype="adverbManner">so</seg> my friend, I do not <seg type="homograph" subtype="adverbManner">so</seg> decree,</l>
+<l>I charge thee here <seg type="homograph" subtype="preposition">in</seg> <reg orig="paine">pain</reg> of death, thou bring the <reg orig="maide">maid</reg> <seg type="homograph" subtype="preposition">to</seg> <reg orig="mee">me</reg>:</l>
+<l><seg type="homograph" subtype="preposition">in</seg> chamber close, <seg type="homograph" subtype="preposition">in</seg> prison sound, she secret shall abide,</l>
+<l>And <seg type="homograph" subtype="adjective">no</seg> <reg orig="kinde">kind</reg> of wight shall <reg orig="talke">talk</reg> with <seg type="homograph" subtype="personalPronoun">her</seg>, <reg orig="vntill">until</reg> the truth be <reg orig="tride">tried</reg>:</l>
+<l>This <reg orig="doo">do</reg> I charge, this I <reg orig="commaund">command</reg>, <seg type="homograph" subtype="preposition">in</seg> <reg orig="paine">pain</reg> of death let see,</l>
+<l>Without any let, <seg type="homograph" subtype="conjunction">that</seg> she be brought, as prisoner <reg orig="vnto"> unto </reg> me:</l></sp>
+<stage>Exit.</stage>
+<stage>Here let Virginius go about the scaffold </stage>
+<sp who="B">
+<l>Ah fickle <reg orig="faule">fall</reg>, <reg orig="vnahppy">unhappy</reg> <reg orig="dome">doom</reg>, <reg orig="oh">o</reg> most <reg orig="vncertaine">uncertain</reg> rate,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> <reg orig="euer">ever</reg> <reg orig="chaunce">chance</reg> <seg type="homograph" subtype="adverbDegree">so</seg> churlishly, <seg type="homograph" subtype="relative">that</seg> <reg orig="neuer">never</reg> <reg orig="staide">stayed</reg> <seg type="homograph" subtype="preposition">in</seg> state:</l>
+<l>What <reg orig="Iudge">Judge</reg> is this: what <reg orig="cruell">cruel</reg> wretch? what faith doth Claudius <reg orig="finde">find</reg>?</l>
+<l>The Gods do <reg orig="recompence">recompense</reg> with shame, his false and <reg orig="faithles">faithless</reg> <reg orig="minde">mind</reg>:</l>
+<l>Well home I must, <seg type="homograph" subtype="adjective">no</seg> remedy, where shall my <reg orig="soking">soaking</reg> <reg orig="teares">tears</reg>,</l>
+<l>Augment my woes, decrease my <reg orig="ioyes">joys</reg>, while death do rid my <reg orig="feares">fears</reg></l></sp>
+<stage>Here entreth Rumour.</stage>
+<sp who="I">
+<l>Come Ventus come, blow forth thy blast,</l>
+<l>Prince Eol listen well,</l>
+<l>The filthiest <reg orig="fackte">fact</reg> <seg type="homograph" subtype="relative">that</seg> <reg orig="euer">ever</reg> was,</l>
+<l>I <reg orig="Rumor">Rumour</reg> now shall tell:</l>
+<l>You gods bend <reg orig="downe">down</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="here"> hear </reg> my <reg orig="crie">cry</reg>,</l>
+<l><reg orig="reuengemente">revengement</reg> duly <reg orig="showe">show</reg>,</l>
+<l>Thy <reg orig="Rumor">Rumour</reg> <reg orig="craues">craves</reg> did Claudius lay,</l>
+<l>and bring <reg orig="Iudge">Judge</reg> Apius <reg orig="loe">lo</reg>?</l>
+<l><seg type="homograph" subtype="demonstrative">that</seg> wicked man, <seg type="homograph" subtype="demonstrative">that</seg> fleshly <reg orig="Iudge">Judge</reg>,</l>
+<l>hath <reg orig="hiered">heard</reg> Claudius</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> <reg orig="claime">claim</reg> a <reg orig="childe">child</reg>, the only <reg orig="heyre">heir</reg>,</l>
+<l>of <reg orig="olde">old</reg> Virginius</l>
+<l>A virgin pure, a <reg orig="Queene">Queen</reg> <seg type="homograph" subtype="preposition">in</seg> life,</l>
+<l>whose state may be deplored,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> why the <reg orig="Queene">Queen</reg> of chaste life,</l>
+<l>is <seg type="homograph" subtype="adverb">like</seg> <seg type="homograph" subtype="infinitive">to</seg> be <reg orig="defloured">deflowered</reg>:</l>
+<l><seg type="homograph" subtype="preposition">by</seg> false <reg orig="Iudge">Judge</reg> Apius <reg orig="cruell">cruel</reg> <reg orig="wretche">wretch</reg>,</l>
+<l><seg type="homograph" subtype="relative">who</seg> straightly hath <reg orig="commaunded">commanded</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> she <seg type="homograph" subtype="preposition">to</seg> <reg orig="keping">keeping</reg> his be brought,</l>
+<l>Prince Pluto this <reg orig="demaunded">demanded</reg>:</l>
+<l><seg type="homograph" subtype="preposition">to</seg> skies I <reg orig="flie">fly</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="blase">blaze</reg> <reg orig="abrode">abroad</reg>,</l>
+<l>the <reg orig="trompe">trump</reg> of <reg orig="depe">deep</reg> defame,</l>
+<l><reg orig="Reuenge">Revenge</reg> you Gods this <reg orig="Rumor">Rumour</reg> <reg orig="craues">craves</reg>,</l>
+<l>this <reg orig="bloud">blood</reg> and <reg orig="bloddy">bloody</reg> shame:</l>
+<l><reg orig="haue">have</reg> through the <reg orig="ayre">air</reg>, <reg orig="geue">give</reg> place you <reg orig="ayres">airs</reg>,</l>
+<l>this is my <reg orig="dutye">duty</reg> done,</l>
+<l>The Gods confound such lecherers,</l>
+<l><reg orig="loe">lo</reg> <reg orig="Rumor">Rumour</reg> this I run.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>O man, O mould, <reg orig="oh">o</reg> <reg orig="mucke">muck</reg>, O clay, O Hell, O hellish <reg orig="hounde">hound</reg>,</l>
+<l>O <reg orig="faulse">false</reg> <reg orig="Iudge">Judge</reg> Apius <reg orig="wrablinge">wrabbling</reg> wretch, is this thy treason found:</l>
+<l>Woe worth the man <seg type="homograph" subtype="relative">that</seg> <reg orig="gaue">gave</reg> the <reg orig="seede">seed</reg>, <reg orig="wherby">whereby</reg> <reg orig="y u"> you </reg> first didst spring</l>
+<l>Woe worth the <reg orig="wombe">womb</reg> <reg orig="y t"><seg type="homograph" subtype="relative">that</seg></reg> bare the babe, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="meane">mean</reg> this <reg orig="bluddy">bloody</reg> thing:</l>
+<l>Woe worth the paps <seg type="homograph" subtype="relative">that</seg> <reg orig="gaue y e"> gave the </reg> <reg orig="sucke">suck</reg>, woe worth the Fosters eke</l>
+<l>Woe worth all such as <reg orig="euer">ever</reg> did, thy health or liking <reg orig="seeke">seek</reg>:</l>
+<l><reg orig="oh">o</reg> <seg type="homograph" subtype="conjunction">that</seg> the <reg orig="graued">graved</reg> <reg orig="yeares">years</reg> of mine, were <reg orig="couered">covered</reg> <seg type="homograph" subtype="preposition">in</seg> the clay</l></sp>
+<stage>Here entreth Virginia </stage>
+<sp who="C">
+<l>Let <reg orig="pacience">patience</reg> <reg orig="deare">dear</reg> father mine, your <reg orig="rigor">rigour</reg> something stay,</l>
+<l>Why do you <reg orig="waile">wail</reg> <seg type="homograph" subtype="preposition">in</seg> such a <reg orig="sorte">sort</reg>? why do you <reg orig="weepe">weep</reg> and <reg orig="mone">moan</reg>?</l></sp>
+<sp who="B"><speaker>Virginius </speaker>
+<l><reg orig="oh">o</reg> <reg orig="doughter">daughter</reg> <reg orig="deare">dear</reg> and only <reg orig="heyre">heir</reg>, my life is <reg orig="neare">near</reg> forgone,</l>
+<l>And all <seg type="homograph" subtype="preposition">for</seg> <reg orig="loue">love</reg> of thee</l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l>A Gods how may this be?</l>
+<l><reg orig="deare">dear</reg> father do withdraw your dread, and let me know the cause,</l>
+<l><reg orig="My selfe wyll"> Myself <seg type="homograph" subtype="verb">will</seg> </reg> <reg orig="ayde">aid</reg> with <reg orig="lyfe">life</reg> or death, without demur or pause:</l>
+<l>Then tender your <reg orig="childe">child</reg>, <seg type="homograph" subtype="relative">that</seg> <reg orig="craueth">craveth</reg> this bound.</l></sp>
+<sp who="B"><speaker>Virginius </speaker>
+<l><reg orig="oh">o</reg> <reg orig="harken">hearken</reg> <reg orig="deare">dear</reg> daughter attend thou my <reg orig="sounde">sound</reg>:</l>
+<l><reg orig="Iudge">Judge</reg> Apius <reg orig="prickt">pricked</reg> forth with filthy desire:</l>
+<l>Thy person as <reg orig="Lemmon">Lemman</reg>, doth greatly require:</l>
+<l>And <seg type="homograph" subtype="adjective">no</seg> <reg orig="kinde">kind</reg> of <reg orig="intreatie">entreaty</reg>, <seg type="homograph" subtype="adjective">no</seg> <reg orig="feare">fear</reg> nor <seg type="homograph" subtype="adjective">no</seg> shame,</l>
+<l><seg type="homograph" subtype="verb">will</seg> he <reg orig="heare">hear</reg> <reg orig="aledge">allege</reg>, defending the same:</l>
+<l>And straight without staying <seg type="homograph" subtype="preposition">in</seg> <reg orig="paine">pain</reg> of my death,</l>
+<l>I must bring thee thither, <reg orig="wherfore">wherefore</reg> stop my breath,</l>
+<l>O Sisters, I search, I <reg orig="seeke">seek</reg>, and I <reg orig="craue">crave</reg>,</l>
+<l><seg type="homograph" subtype="adjective">no</seg> more at your <reg orig="handes">hands</reg>, but death <seg type="homograph" subtype="preposition">for</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="haue"> have </reg>,</l>
+<l>Rather <reg orig="then"> than </reg> see my Daughter <reg orig="deflourde">deflowered</reg>,</l>
+<l>Or <reg orig="els">else</reg> <seg type="homograph" subtype="preposition">in</seg> ill <reg orig="sorte">sort</reg>, <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="vildely">vilely</reg> <reg orig="deuourde">devoured</reg>.</l></sp>
+<sp who="C"><speaker>Virginia </speaker>
+<l><reg orig="oh">o</reg> father, <reg orig="oh">o</reg> friendship, <reg orig="oh">o</reg> fatherly <reg orig="fauour">favour</reg>,</l>
+<l>Whose <reg orig="dulset">dulcet</reg> words, <seg type="homograph" subtype="adverbDegree">so</seg> sweetly do <reg orig="sauour">savour</reg>,</l>
+<l><seg type="homograph" subtype="preposition">on</seg> knees I <reg orig="beseeche">beseech</reg> thee <seg type="homograph" subtype="infinitive">to</seg> <reg orig="graunt">grant</reg> my request,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> all things according, as <reg orig="lyketh">liketh</reg> thee best:</l>
+<l>Thou knowest, O my father, if I be once spotted,</l>
+<l>My name and my kindred, then forth <reg orig="wilbe"><seg type="homograph" subtype="verb">will</seg> be</reg> blotted:</l>
+<l>And if thou my father, should die <seg type="homograph" subtype="preposition">for</seg> my cause,</l>
+<l>The world would accompt me as <reg orig="gilty">guilty</reg> <seg type="homograph" subtype="preposition">in</seg> cause:</l>
+<l>Then rather <reg orig="deare">dear</reg> father, if it be thy pleasure,</l>
+<l><reg orig="Graunt">Grant</reg> me the death, then <reg orig="keepe">keep</reg> I my treasure?</l>
+<l>My <reg orig="Lampe">Lamp</reg>, my light, my life <reg orig="vndefiled">undefiled</reg>,</l>
+<l>And <seg type="homograph" subtype="conjunction">so</seg> may <reg orig="Iudge">Judge</reg> Apius of flesh be <reg orig="begiled">beguiled</reg>:</l>
+<l>This <reg orig="vpon"><seg type="homograph" subtype="preposition">upon</seg></reg> my knees with humble <reg orig="beheste">behest</reg>,</l>
+<l><reg orig="Graunt">Grant</reg> me O father my instant <reg orig="requeste">request</reg>.</l></sp>
+<sp who="B"><speaker>Virginius </speaker>
+<l>Then <reg orig="ryse">rise</reg> <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg> my daughter, my <reg orig="aunswere">answer</reg> <reg orig="doo">do</reg> note,</l>
+<l>From mouth of thy father, whose eyes do now <reg orig="flote">float</reg>:</l>
+<l>O daughter, <reg orig="oh">o</reg> <reg orig="deare">dear</reg>, O darling, <reg orig="oh">o</reg> dame,</l>
+<l>Dispatch me I pray thee, <reg orig="regarde">regard</reg> not my name:</l>
+<l>But yet, as thou <reg orig="saiest">sayst</reg> sith remedy none,</l>
+<l>But <reg orig="Lemmon">Lemman</reg> thou must be, if I were gone,</l>
+<l>And better it is <seg type="homograph" subtype="infinitive">to</seg> dye with good fame,</l>
+<l><reg orig="Then"> Than </reg> longer <seg type="homograph" subtype="infinitive">to</seg> <reg orig="liue">live</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="reape">reap</reg> <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> but shame:</l>
+<l>But if thou do dye, <seg type="homograph" subtype="adjective">no</seg> doubt is at all,</l>
+<l>But presently after <reg orig="my selfe">myself</reg> <reg orig="folow">follow</reg> shall,</l>
+<l>Then end without shame <seg type="homograph" subtype="adverbManner">so</seg> let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> <reg orig="perseuer">persevere</reg>,</l>
+<l>With <reg orig="trompe">trump</reg> of good fame <seg type="homograph" subtype="adverbManner">so</seg> dye shall <seg type="homograph" subtype="truePlural">we</seg> <reg orig="neuer"> never </reg>.</l></sp>
+<stage>Virginia here kneeleth.</stage>
+<sp who="C">
+<l>Then tender <reg orig="armes">arms</reg> complect the neck, <reg orig="doo">do</reg> dry thy fathers <reg orig="teares">tears</reg>,</l>
+<l>You nimble <reg orig="handes">hands</reg> <seg type="homograph" subtype="preposition">for</seg> <reg orig="wo">woe</reg> whereof, my <reg orig="louing">loving</reg> <reg orig="hart">heart</reg> it <reg orig="weares">wears</reg>:</l>
+<l><reg orig="oh">o</reg> father mine, <reg orig="refraine">refrain</reg> <seg type="homograph" subtype="adjective">no</seg> whit, your sharped knife <seg type="homograph" subtype="infinitive">to</seg> take,</l>
+<l>From <reg orig="giltles">guiltless</reg> sheath, my shame <seg type="homograph" subtype="infinitive">to</seg> <reg orig="ende">end</reg>, and body dead <seg type="homograph" subtype="infinitive">to</seg> make:</l>
+<l>Let not the <reg orig="shameles">shameless</reg> <reg orig="blouddy">bloody</reg> <reg orig="iudge">judge</reg>, defile my virgins life,</l>
+<l><reg orig="doe">do</reg> take my head and send it him, <reg orig="vpon"> <seg type="homograph" subtype="preposition">upon</seg> </reg> your <reg orig="bloudy">bloody</reg> knife:</l>
+<l>Bid him imbrue his <reg orig="bloudy">bloody</reg> <reg orig="handes">hands</reg>, <seg type="homograph" subtype="preposition">in</seg> <reg orig="giltles">guiltless</reg> <reg orig="bloud">blood</reg> of <reg orig="mee"> me </reg>:</l>
+<l>I virgin dye, he <reg orig="leacher">lecher</reg> <reg orig="liues">lives</reg>, he was my <reg orig="ende">end</reg> you see:</l>
+<l><seg type="homograph" subtype="adjective">no</seg> more <reg orig="delayes">delays</reg>, lo <reg orig="kisse">kiss</reg> me first, then stretch your strongest <reg orig="arme">arm</reg>,</l>
+<l>Do <reg orig="ryd">rid</reg> my woe, increase my <reg orig="ioy">joy</reg>, do ease your <reg orig="childe">child</reg> of <reg orig="harme">harm</reg>.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>O weary <reg orig="wittes">wits</reg> of <reg orig="wo">woe</reg>, or wealth, <reg orig="oh">o</reg> <reg orig="feble">feeble</reg> aged man,</l>
+<l>How can thy <reg orig="arme">arm</reg> <reg orig="geue">give</reg> such a blow, thy death I <reg orig="wishe">wish</reg> thee than:</l>
+<l>But sith <seg type="homograph" subtype="demonstrative">that</seg> shame with <reg orig="endles">endless</reg> <reg orig="trompe">trump</reg>, <reg orig="wil"><seg type="homograph" subtype="verb">will</seg></reg> <reg orig="sounde">sound</reg> if case thou <reg orig="ioy">joy</reg>,</l>
+<l><seg type="homograph" subtype="preposition">by</seg> <reg orig="meanes">means</reg> of false <reg orig="iudge">judge</reg> Apius he, <reg orig="myselfe">myself</reg> <seg type="homograph" subtype="verb">will</seg> thee destroy:</l>
+<l><reg orig="Forgeue">Forgive</reg> me babe this <reg orig="bloudy">bloody</reg> <reg orig="deede">deed</reg>, and <reg orig="meekely">meekly</reg> take thy <reg orig="ende">end</reg>,</l></sp>
+<stage>Here let him profer a blowe,</stage>
+<sp who="C"><speaker>Virginia </speaker>
+<l>The Gods <reg orig="forgeue">forgive</reg> thee father <reg orig="deare">dear</reg>, farewell, thy blow do bend:</l>
+<l>Yet stay a <reg orig="whyle">while</reg>, o father <reg orig="deare">dear</reg>, <seg type="homograph" subtype="preposition">for</seg> <reg orig="fleash">flesh</reg> <seg type="homograph" subtype="preposition">to</seg> death is <reg orig="fraile">frail</reg>,</l>
+<l>Let first my wimple bind my eyes, and then thy blow <reg orig="assaile">assail</reg>.</l>
+<l>Now father <reg orig="worke">work</reg> thy <seg type="homograph" subtype="noun">will</seg> <seg type="homograph" subtype="preposition">on</seg> me, <seg type="homograph" subtype="conjunction">that</seg> life I may <reg orig="inioy">enjoy</reg>.</l></sp>
+<stage>Here tye a handcarcher aboute hir eyes,and then strike of hir heade.</stage>
+<sp who="B"><speaker>Virginius </speaker>
+<l>Now stretch thy hand Virginius <seg type="homograph" subtype="relative">that</seg> <reg orig="loth">loath</reg> would flesh <reg orig="distroy">destroy</reg>.</l>
+<l>O <reg orig="cruell">cruel</reg> <reg orig="handes">hands</reg>, or <reg orig="blouddy">bloody</reg> knife, o man what hast thou done,</l>
+<l>Thy daughter <reg orig="deare">dear</reg>, and <reg orig="onely">only</reg> 
+<reg orig="heyre">heir</reg>, <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> <reg orig="vitall">vital</reg> <reg orig="ende">end</reg> hath <reg orig="wone">won</reg>:</l>
+<l>Come <reg orig="fatall">fatal</reg> blade make <reg orig="lyke"><seg type="homograph" subtype="adjective">like</seg></reg> <reg orig="dispatche">dispatch</reg>, come Atropos come <reg orig="ende">end</reg>,</l>
+<l>Strike home thou <reg orig="careles">careless</reg> <reg orig="arme">arm</reg> with <reg orig="speede">speed</reg>, of death be not <reg orig="afrayde">afraid</reg>.</l></sp>
+<stage>Here entreth Comfort.</stage>
+<sp who="M">
+<l><reg orig="oh">o</reg> noble knight Virginius do stay, be not <reg orig="dismayde">dismayed</reg>.</l>
+<l>I curing Comfort present am, your <reg orig="doller">dolour</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="ayde">aid</reg>:</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Sith <reg orig="ioy">joy</reg> is gone, sith life is <reg orig="deade">dead</reg>:</l>
+<l>What comfort can there be?</l>
+    <l><reg orig="Nomore"><seg type="homograph" subtype="adjective">No</seg> more</reg> there is but <reg orig="deepe">deep</reg> <reg orig="dispaire">despair</reg>,</l>
+<l>And deadly death <seg type="homograph" subtype="preposition">to</seg> me:</l></sp>
+<sp who="M"><speaker>Comfort:</speaker>
+<l><reg orig="Nomore"> <seg type="homograph" subtype="adjective">No</seg> more </reg> Sir knight, but take the head, and <reg orig="wende">wend</reg> a while with me,</l>
+<l>It <reg orig="shalbe">shall be</reg> sent <seg type="homograph" subtype="preposition">to</seg> court, <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="conjunction">that</seg> <reg orig="Iudge">Judge</reg> Apius may it se,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> <reg orig="recompence">recompense</reg> of <reg orig="leachors">lecher's</reg> lust, this present let him <reg orig="haue"> have </reg>,</l>
+<l>And stay your corps <seg type="homograph" subtype="preposition">for</seg> <reg orig="certaine">certain</reg> space, <seg type="homograph" subtype="preposition">in</seg> coping from the <reg orig="graue">grave</reg>:</l>
+<l><seg type="homograph" subtype="adverbManner">so</seg> shall you see the end of him, and all his whole consent.</l>
+<l>This <reg orig="wilbe"><seg type="homograph" subtype="verb">will</seg> be</reg> comfort <seg type="homograph" subtype="preposition">to</seg> your <reg orig="harte">heart</reg>, Virginius be content.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Of truth <reg orig="euen">even</reg> <seg type="homograph" subtype="adverbManner">so</seg>, <seg type="homograph" subtype="conjunction">for</seg> Comfort <reg orig="els">else</reg>, I know, right well is none,</l>
+<l>Wherefore I <reg orig="doe">do</reg> consent with you, come <seg type="homograph" subtype="adverb">on</seg> let <reg orig="vs"><seg type="homograph" subtype="truePlural">us</seg></reg> be gone:</l>
+<l>But messenger <reg orig="my selfe wyll"> myself <seg type="homograph" subtype="verb">will</seg> </reg> <reg orig="bee">be</reg>, 
+<reg orig="my self"> myself </reg> <seg type="homograph" subtype="verb">will</seg> <reg orig="geue">give</reg> the <reg orig="gifte">gift</reg>,</l>
+<l>Come <seg type="homograph" subtype="adverb">on</seg> good Comfort wend <seg type="homograph" subtype="truePlural">we</seg> then, there is <seg type="homograph" subtype="adjective">no</seg> other <reg orig="shifte">shift</reg></l></sp>
+<stage>Exit.</stage>
+<stage>Here entreth Iudge Apius.</stage>
+<sp who="A">
+<l>Well hap as can hap, or <seg type="homograph" subtype="adverb">no</seg>,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> hazard it is but let let <seg type="homograph" subtype="demonstrative">that</seg> <reg orig="goe">go</reg>,</l>
+<l>I <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> what <seg type="homograph" subtype="adverbDegree">so</seg> happen <reg orig="persue">pursue</reg> <seg type="homograph" subtype="preposition">on</seg> still,</l>
+<l>Why none there is <reg orig="liuing">living</reg>, can let me my <reg orig="wyll"> <seg type="homograph" subtype="noun">will</seg> </reg>:</l>
+<l>I <seg type="homograph" subtype="verb">will</seg> <reg orig="haue">have</reg> Virginia I <seg type="homograph" subtype="verb">will</seg> <reg orig="hir"> <seg type="homograph" subtype="personalPronoun">her</seg> </reg> <reg orig="defloure">deflower</reg>,</l>
+<l><reg orig="els">else</reg> rigorous sword, <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> <reg orig="hart">heart</reg> shall <reg orig="deuoure">devour</reg>.</l></sp>
+<stage>Heere entreth Haphazard.</stage>
+<sp who="H">
+<l>I came from Caleco <reg orig="euen">even</reg> the same <reg orig="houre"> hour </reg>,</l>
+<l>And Hap was <reg orig="hyred">hired</reg> <seg type="homograph" subtype="preposition">to</seg> hackney <seg type="homograph" subtype="preposition">in</seg> hempstrid,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> hazard he was of riding <seg type="homograph" subtype="preposition">on</seg> <reg orig="beamestrid">beamstrid</reg>,</l>
+<l>Then crow crop <seg type="homograph" subtype="preposition">on</seg> tree top hoist <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg> the <reg orig="sayle">sail</reg>,</l>
+<l>Then <reg orig="groned">groaned</reg> their <reg orig="neckes">necks</reg>, <seg type="homograph" subtype="preposition">by</seg> the weight of their <reg orig="tayle">tail</reg>,</l>
+<l>Then <reg orig="dyd"> did </reg> Carnifex put these three together,</l>
+<l><reg orig="Payd">Paid</reg> them their <reg orig="pasporte">passport</reg> <seg type="homograph" subtype="preposition">for</seg> <reg orig="clustring">clustering</reg> thither.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>Why how now Haphazard of what <reg orig="doest">dost</reg> thou <reg orig="speake">speak</reg>?</l>
+<l><reg orig="Me thinks"> Methinks </reg> <seg type="homograph" subtype="preposition">in</seg> mad sort, thy <reg orig="talke">talk</reg> thou <reg orig="doest">dost</reg> <reg orig="breake">break</reg>,</l>
+<l>Those three words <reg orig="chopt">chopped</reg> all <seg type="homograph" subtype="preposition">in</seg> one,</l>
+<l>Is Carnifex <seg type="homograph" subtype="relative">that</seg> signifieth a Hangman:</l>
+<l>Peace <seg type="homograph" subtype="adjective">no</seg> such words before me do <reg orig="vtter">utter</reg>,</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay I <reg orig="lye">lie</reg> as still as a Cat <seg type="homograph" subtype="preposition">in</seg> a gutter.</l>
+<l>Go <seg type="homograph" subtype="preposition">to</seg> <reg orig="Iudge">Judge</reg> Apius go forward good Prince,</l>
+<l>Perhaps ye may <reg orig="haue">have</reg> <seg type="homograph" subtype="demonstrative">that</seg>, the <seg type="homograph" subtype="relative">which</seg> <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> not blince.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>What is the man <seg type="homograph" subtype="relative">that</seg> <reg orig="liueth">liveth</reg> now <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="neare">near</reg> <seg type="homograph" subtype="preposition">to</seg> <reg orig="doore">door</reg> of death?</l>
+<l>As I <seg type="homograph" subtype="preposition">for</seg> lust of Lady <reg orig="faire">fair</reg>, whose <reg orig="lacke">lack</reg> <seg type="homograph" subtype="verb">will</seg> stop my <reg orig="breth">breath</reg>:</l>
+<l>But long I shall not want <seg type="homograph" subtype="adjective">her</seg> sight, I stay <seg type="homograph" subtype="adjective">her</seg> <reg orig="comming"> coming </reg> <reg orig="heere">here</reg>,</l>
+<l><reg orig="oh">o</reg> lucky light, lo present <reg orig="heere">here</reg> <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> father doth <reg orig="appeare">appear</reg>,</l>
+<l><reg orig="oh">o</reg> how I <reg orig="ioy">joy</reg>, yet <reg orig="bragge">brag</reg> thou not, Dame <reg orig="beuty">beauty</reg> bides <reg orig="behinde">behind</reg>,</l>
+<l>Virginius where is the <reg orig="maide">maid</reg>? how haps thou <reg orig="breakes">breaks</reg> my <reg orig="minde">mind</reg>?</l></sp>
+<stage>Here entreth Virginius.</stage>
+<sp who="B">
+<l>Ah wicked <reg orig="Iudge">Judge</reg> the <reg orig="Uirgin">Virgin</reg> chaste,</l>
+<l>Hath sent <seg type="homograph" subtype="adjective">her</seg> <reg orig="beutious">beauteous</reg> face,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> <reg orig="recompence">recompense</reg> of <reg orig="Lechour">Lecher</reg> <reg orig="gaine">gain</reg>,</l>
+<l><seg type="homograph" subtype="preposition">to</seg> thee <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="voide">void</reg> of grace:</l>
+<l>She bids thee imbrue thy <reg orig="bloudy">bloody</reg> <reg orig="handes">hands</reg>,</l>
+<l>And filthy Lecherous <reg orig="minde">mind</reg>:</l>
+<l>With Venus Damsels <reg orig="voyde">void</reg> of shame,</l>
+<l>Where such thou haps <seg type="homograph" subtype="infinitive">to</seg> <reg orig="finde">find</reg>:</l>
+<l>But thou as with Dianas <reg orig="ympes">imps</reg>,</l>
+<l><reg orig="Salt neuer">Shalt never</reg> be acquainted.</l>
+<l>They rather <reg orig="wishe">wish</reg> the naked knife,</l>
+<l>The <reg orig="Uirgins">Virgin's</reg> life attainted:</l>
+<l><seg type="homograph" subtype="preposition">in</seg> <reg orig="ende">end</reg> <reg orig="iust">just</reg> <reg orig="profe">proof</reg> whereof,</l>
+<l><reg orig="Beholde">Behold</reg> Virginias <reg orig="heade">head</reg>:</l>
+<l>She sought <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> fame, thou <reg orig="soughts">soughtest</reg> <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> shame,</l>
+<l>This <reg orig="arme">arm</reg> hath <reg orig="smit">smite</reg> <seg type="homograph" subtype="adjective">her</seg> dead.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l><reg orig="oh">o</reg> <reg orig="curst">cursed</reg> and <reg orig="cruell">cruel</reg> <reg orig="cankard">cankered</reg> <reg orig="churle">churl</reg>, <reg orig="oh"> o </reg> <reg orig="carll">carl</reg> <reg orig="vnnaturall">unnatural</reg>,</l>
+<l><seg type="homograph" subtype="relative">which</seg> hast the <reg orig="seede">seed</reg> of thine <reg orig="owne">own</reg> <reg orig="lym">limb</reg>, thrust forth <seg type="homograph" subtype="preposition">to</seg> <reg orig="funerall">funeral</reg>:</l>
+<l>Ye Gods bend <reg orig="downe">down</reg> your <reg orig="yre">ire</reg>, do plague him <seg type="homograph" subtype="preposition">for</seg> his <reg orig="deede">deed</reg>,</l>
+<l>You sprites below, you hellish <reg orig="houndes">hounds</reg>, do <reg orig="geue">give</reg> him <reg orig="gaule">gall</reg> <seg type="homograph" subtype="preposition">for</seg> meed:</l>
+<l><reg orig="My self"> Myself </reg> <seg type="homograph" subtype="verb">will</seg> se his latter end, I <reg orig="Iudge">Judge</reg> him <seg type="homograph" subtype="preposition">to</seg> the death,</l>
+<l><seg type="homograph" subtype="preposition">like</seg> death <seg type="homograph" subtype="relative">that</seg> <reg orig="faire">fair</reg> Virginia toke, the <reg orig="lyke"><seg type="homograph" subtype="noun">like</seg></reg> shall stop his breath:</l>
+<l>Then flasky <reg orig="feends">fiends</reg> of <reg orig="Lymbo">Limbo</reg> lake, his ghost do <seg type="homograph" subtype="adverbDegree">so</seg> <reg orig="tormoyle">turmoil</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> he <reg orig="haue">have</reg> <reg orig="neede">need</reg> of <reg orig="Carons">Charon's</reg> <reg orig="helpe">help</reg>, <seg type="homograph" subtype="preposition">for</seg> all his filthy <reg orig="toyle">toil</reg>:</l>
+<l>Come <reg orig="Iustice">Justice</reg> then, come <seg type="homograph" subtype="adverb">on</seg> <reg orig="Rewarde">Reward</reg>, come <reg orig="ayde">aid</reg> me <seg type="homograph" subtype="preposition">in</seg> my <reg orig="neede">need</reg>,</l>
+<l>Thou wicked knight <reg orig="shal">shall</reg> slaughter be, <reg orig="w t">with<seg type="homograph" subtype="demonstrative">that</seg> </reg> self same knife with speed.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Sith she a <reg orig="virgine">virgin</reg> pure and <reg orig="chast">chaste</reg>, <seg type="homograph" subtype="preposition">in</seg> <reg orig="heauen">heaven</reg> <reg orig="leades">leads</reg> <reg orig="hir"> <seg type="homograph" subtype="adjective">her</seg> </reg> life,</l>
+<l>Content I am <seg type="homograph" subtype="infinitive">to</seg> dye with <seg type="homograph" subtype="personalPronoun">her</seg>, and dye <reg orig="vpon"><seg type="homograph" subtype="preposition">upon</seg></reg> <seg type="homograph" subtype="adjective">her</seg> knife.</l></sp>
+<sp who="A"><speaker>Apius.</speaker>
+<l>Come <reg orig="Iustice">Justice</reg> then, come <seg type="homograph" subtype="adverb">on</seg> reward, when <reg orig="Iudgment">Judgment</reg> now doth <reg orig="cal">call</reg>.</l></sp>
+<stage>Heere entreth Iustice and Reward. And they both speake this.</stage>
+<sp who="X">
+<l><seg type="homograph" subtype="truePlural">we</seg> both are ready here at <reg orig="hande">hand</reg>, <seg type="homograph" subtype="infinitive">to</seg> <reg orig="worke">work</reg> thy <reg orig="fatall">fatal</reg> fall.</l></sp>
+<sp who="J"><speaker>Iustice.</speaker>
+<l><reg orig="oh">o</reg> <reg orig="gorgan">gorgon</reg> <reg orig="Iudge">Judge</reg>, what <reg orig="lawles">lawless</reg> life hast thou most wicked led?</l>
+<l>Thy <reg orig="soking">soaking</reg> <reg orig="sinne">sin</reg> hath <reg orig="sonke">sunk</reg> thy <reg orig="soule">soul</reg>, thy <reg orig="vertues">virtues</reg> all are fled:</l>
+<l>Thou <reg orig="chast">chaste</reg> and <reg orig="vndefiled">undefiled</reg> life <reg orig="didest">didst</reg> <reg orig="seeke">seek</reg> <seg type="homograph" subtype="preposition">for</seg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="haue"> have </reg> spotted,</l>
+<l>And thy Reward is ready here, <seg type="homograph" subtype="preposition">by</seg> <reg orig="Iustice">Justice</reg> now <reg orig="alotted">allotted</reg>.</l></sp>
+<sp who="N"><speaker>Rewarde.</speaker>
+<l>Thy <reg orig="iust">just</reg> Reward is deadly death, wherefore come wend away,</l>
+<l><seg type="homograph" subtype="preposition">to</seg> death I straight <seg type="homograph" subtype="verb">will</seg> do thy corps, then lust shall <reg orig="haue">have</reg> his pray:</l>
+<l>Viginius thou <reg orig="wofull">woeful</reg> knight, come <reg orig="neare">near</reg> and take thy foe,</l>
+<l><seg type="homograph" subtype="preposition">in</seg> prison thou make him fast, <seg type="homograph" subtype="adjective">no</seg> more let him do <seg type="homograph" subtype="adverbManner">so</seg>:</l>
+<l>Let Claudius <seg type="homograph" subtype="preposition">for</seg> <reg orig="tirrany">tyranny</reg> be hanged <seg type="homograph" subtype="preposition">on</seg> a tree.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Ah right Reward the Gods be <reg orig="blist">blessed</reg>,</l>
+<l>This day I <reg orig="chaunce">chance</reg> <seg type="homograph" subtype="infinitive">to</seg> see.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Why how now my lord Apius what <reg orig="cheare">cheer</reg>?</l>
+<l>Why where is my Reward <seg type="homograph" subtype="preposition">for</seg> this <reg orig="geare">gear</reg>?</l>
+<l>Why <reg orig="dyd"> did </reg> I ride run and <reg orig="reuell">revel</reg>,</l>
+<l>And <seg type="homograph" subtype="preposition">for</seg> all my <reg orig="iaunting">jaunting</reg> now am made a <reg orig="Iauell">javel</reg>?</l>
+<l>Why run sir <reg orig="knaue">knave</reg> call me Claudius</l>
+<l>Then run with a <reg orig="vengeaunce">vengeance</reg> watch Virgnius</l>
+<l>Then ride <reg orig="sirra">sirrah</reg>, is Virginia at Church,</l>
+<l>Then <reg orig="gallope">gallop</reg> <seg type="homograph" subtype="infinitive">to</seg> see where <seg type="homograph" subtype="adjective">her</seg> father doth <reg orig="lurche">lurch</reg>,</l>
+<l>Then <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg> <reg orig="sirra">sirrah</reg>, now what <reg orig="counsell">counsel</reg>?</l>
+<l>Of Dame <reg orig="bewty">beauty</reg> what <reg orig="newes">news</reg> canst thou tell?</l>
+<l>Thus <seg type="homograph" subtype="preposition">in</seg> hurly burly from <reg orig="piller">pillar</reg> <seg type="homograph" subtype="preposition">to</seg> <reg orig="poste">post</reg>,</l>
+<l><reg orig="Poore">Poor</reg> Haphazard daily was <reg orig="toste">tossed</reg>,</l>
+<l>And now with Virginius he goes sadly walking,</l>
+<l>And nothing at all <seg type="homograph" subtype="verb">will</seg> listen my talking,</l>
+<l>But shall I be <seg type="homograph" subtype="adverbManner">so</seg> <reg orig="vsed">used</reg> at his hands,</l>
+<l>As <reg orig="leue">lief</reg> I were <reg orig="neare">near</reg> <seg type="homograph" subtype="preposition">in</seg> Limbo bands,</l>
+<l><seg type="homograph" subtype="demonstrative">that</seg> Dronel, <seg type="homograph" subtype="demonstrative">that</seg> drowsy <reg orig="Drakenosed">Drake-nosed</reg> <reg orig="driuill">drivel</reg>,</l>
+<l>He <reg orig="neuer">never</reg> learned his manners <seg type="homograph" subtype="preposition">in</seg> Siuill:</l>
+<l>A <reg orig="Iudge">Judge</reg> may cause a gentleman, a gentleman nay a <reg orig="iack">jack</reg> <reg orig="hearinge">hearing</reg></l>
+<l>As honest as he <seg type="homograph" subtype="relative">that</seg> <reg orig="caries">carries</reg> his hose <seg type="homograph" subtype="preposition">on</seg> his neck <seg type="homograph" subtype="preposition">for</seg> <reg orig="feare">fear</reg> of <reg orig="wering">wearing</reg></l>
+<l>A <reg orig="Caitife">Caitiff</reg>, a <reg orig="Cutthrote">Cutthroat</reg>, a <reg orig="churle">churl</reg> worthy blame,</l>
+<l>I <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> <reg orig="serue">serve</reg> him <seg type="homograph" subtype="adjective">no</seg> longer the <reg orig="Deuill">Devil</reg> <reg orig="geue">give</reg> him shame:</l>
+<l>Yet <seg type="homograph" subtype="preposition">by</seg> the Mouse <reg orig="foote">foot</reg>, I am not content,</l>
+<l>I <seg type="homograph" subtype="verb">will</seg> <reg orig="haue">have</reg> a reward sure <reg orig="els"> else </reg> <seg type="homograph" subtype="verb">will</seg> I repent,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> master reward I straight <reg orig="waies">ways</reg> <seg type="homograph" subtype="verb">will</seg> go,</l>
+    <l>The worst <seg type="homograph" subtype="relative">that</seg> can hap is but a <reg orig="noo"><seg type="homograph" subtype="exclamation">no</seg></reg>:</l>
+<l>But sure I know his honesty is such,</l>
+<l><seg type="homograph" subtype="conjunction">that</seg> he <seg type="homograph" subtype="verb">will</seg> <reg orig="recompence">recompense</reg> me, with <reg orig="litle">little</reg> or much:</l>
+<l>And well this <reg orig="prouerb">proverb</reg> <reg orig="commeth">cometh</reg> <seg type="homograph" subtype="preposition">in</seg> my head,</l>
+<l><reg orig="Birlady">Byrlady</reg> <reg orig="halfe">half</reg> a <reg orig="loafe">loaf</reg> is better <reg orig="then nere"> than never </reg> a whit of bread,</l>
+<l>Therefore hap, and be <reg orig="happely">happily</reg>, hap <seg type="homograph" subtype="relative">that</seg> hap may,</l>
+<l>I <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> put it <seg type="homograph" subtype="preposition">in</seg> hazard, I <reg orig="geue">give</reg> it assay:</l>
+<l><reg orig="Alhayle">All-hail</reg>, <reg orig="maister">master</reg> Reward and <reg orig="rightuous">righteous</reg> <reg orig="Iustice">Justice</reg>,</l>
+<l>I beseech you let me be <reg orig="recompenced">recompensed</reg> <seg type="homograph" subtype="adverb">to</seg>, according <seg type="homograph" subtype="preposition">to</seg> my <reg orig="seruice">service</reg>,</l>
+<l><seg type="homograph" subtype="conjunction">for</seg> why all this long time I <reg orig="haue">have</reg> <reg orig="liued">lived</reg> <seg type="homograph" subtype="preposition">in</seg> hope,</l></sp>
+<sp who="N"><speaker>Rewarde.</speaker>
+<l>Then <seg type="homograph" subtype="preposition">for</seg> thy reward, then here is a rope.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay <reg orig="softe">soft</reg> my <reg orig="maisters">masters</reg> <seg type="homograph" subtype="preposition">by</seg> <reg orig="saincte">saint</reg> Thomas of trunions,</l>
+<l>I am not disposed <seg type="homograph" subtype="infinitive">to</seg> <reg orig="by"> buy </reg> of your onions:</l>
+<l>A rope (quoth you) away with <seg type="homograph" subtype="demonstrative">that</seg> showing,</l>
+<l>It would <reg orig="greue">grieve</reg> a man <reg orig="hauing">having</reg> two <reg orig="plowes">ploughs</reg> <reg orig="goyng">going</reg>,</l>
+<l>Nay stay I pray you, and let the Cat <reg orig="winke">wink</reg>,</l>
+<l>It is naught <seg type="homograph" subtype="preposition">in</seg> dry <reg orig="sommer">summer</reg>, <seg type="homograph" subtype="preposition">for</seg> letting my <reg orig="drinke">drink</reg>.</l></sp>
+<sp who="J"><speaker>Iustice.</speaker>
+<l>Let or let not there is <seg type="homograph" subtype="adjective">no</seg> remedy, hanging <reg orig="shalbe">shall be</reg> thy reward <reg orig="verely">verily</reg></l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Is there nothing but hanging <seg type="homograph" subtype="preposition">to</seg> my lot doth fall,</l>
+<l>Then take you my <reg orig="rewarde">reward</reg> much good <reg orig="doo">do</reg> it you <reg orig="withall">withal</reg>.</l>
+<l>I am not <seg type="homograph" subtype="adverbDegree">so</seg> hasty although I be <reg orig="clayming">claiming</reg>,</l>
+<l>But <seg type="homograph" subtype="conjunction">that</seg> I can <reg orig="aford">afford</reg> you, the most of my <reg orig="gayning">gaining</reg>:</l>
+<l>I <reg orig="wyll"> <seg type="homograph" subtype="verb">will</seg> </reg> set, let, <reg orig="graunt">grant</reg>, <reg orig="yelde">yield</reg>, permit and promise,</l>
+<l>All the <reg orig="reuenewes">revenues</reg> <seg type="homograph" subtype="preposition">to</seg> you of my <reg orig="seruice">service</reg>:</l>
+<l>I am friendly, I am kindly, I proffer you <reg orig="faire">fair</reg>,</l>
+<l>You shall be my <reg orig="ful">full</reg> executor and <reg orig="heyre">heir</reg>.</l></sp>
+<sp who="N"><speaker>Reward.</speaker>
+<l>Nay make you ready first <seg type="homograph" subtype="infinitive">to</seg> dye <seg type="homograph" subtype="preposition">by</seg> the <reg orig="roode">rood</reg>,</l>
+<l>Then <seg type="homograph" subtype="truePlural">we</seg> <seg type="homograph" subtype="verb">will</seg> dispose it as <seg type="homograph" subtype="truePlural">we</seg> think it good:</l>
+<l>Then those <seg type="homograph" subtype="relative">that</seg> with you <seg type="homograph" subtype="preposition">to</seg> this <reg orig="dyd">did</reg> consent,</l>
+<l><reg orig="e lyke"> the <seg type="homograph" subtype="adjective">like</seg></reg> reward shall cause them repent.</l></sp>
+<sp who="J"><speaker>Iustice </speaker>
+<l>Nay stay a while Virginius is <reg orig="comming">coming</reg>,</l>
+<l>Nay soft Haphazard you are not <seg type="homograph" subtype="adverbDegree">so</seg> cunning,</l>
+<l>prece <seg type="homograph" subtype="infinitive">to</seg> go <reg orig="foorth">forth</reg>.</l></sp>
+    <sp who="J">
+<l>Thus <seg type="homograph" subtype="infinitive">to</seg> escape without punishment,</l></sp>
+<sp who="N"><speaker>Rewarde.</speaker>
+<l><seg type="homograph" subtype="exclamation">no</seg> certis it is not <seg type="homograph" subtype="adverbDegree">so</seg> expedient,</l></sp>
+<stage>Here entreth Virginius.</stage>
+<sp who="B">
+<l><reg orig="oh">o</reg> noble <reg orig="Iustice">Justice</reg> duty done, behold I come <reg orig="againe">again</reg>,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> <reg orig="shew">show</reg> you <seg type="homograph" subtype="conjunction">that</seg> Apius he <reg orig="him selfe">himself</reg> hath lewdly <reg orig="slaine">slain</reg>,</l>
+<l>As <reg orig="soone">soon</reg> as he <seg type="homograph" subtype="preposition">in</seg> prison was enclosed out of sight.</l>
+<l>He desperate <seg type="homograph" subtype="preposition">for</seg> <reg orig="bluddy">bloody</reg> <reg orig="deede">deed</reg>, did <reg orig="slea">slay</reg> <reg orig="him selfe"> himself </reg> out right,</l>
+<l>And Claudius doth mercy <reg orig="craue">crave</reg> <seg type="homograph" subtype="relative">who</seg> did the <reg orig="deede">deed</reg> <seg type="homograph" subtype="preposition">for</seg> <reg orig="feare">fear</reg>,</l>
+<l><reg orig="Uoutchsafe">Vouchsafe</reg> <reg orig="oh">o</reg> <reg orig="Iudge">Judge</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="saue">save</reg> his life, though <reg orig="countrie">country</reg> he <reg orig="forbeare">forbear</reg>.</l></sp>
+<sp who="J"><speaker>Iustice.</speaker>
+<l><seg type="homograph" subtype="truePlural">we</seg> <reg orig="graunt">grant</reg> him grace at thy request, but <reg orig="bannish">banish</reg> him the <reg orig="lande">land</reg>,</l>
+<l>And see <seg type="homograph" subtype="conjunction">that</seg> death be done out right <seg type="homograph" subtype="preposition">on</seg> him <seg type="homograph" subtype="relative">that</seg> here doth stand.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Nay <reg orig="M">Master</reg>. Virginius take him <seg type="homograph" subtype="preposition">by</seg> the <reg orig="hande">hand</reg></l>
+<l>I <reg orig="craue">crave</reg> not <seg type="homograph" subtype="preposition">for</seg> <reg orig="seruice">service</reg> the thing worth <reg orig="ought"> aught </reg>,</l>
+<l>Hanging quoth you, it is the last end of my thought</l>
+<l><reg orig="Fye">Fie</reg> <seg type="homograph" subtype="preposition">for</seg> shame <reg orig="fye">fie</reg>, stay <seg type="homograph" subtype="preposition">by</seg> my fathers <reg orig="soule">soul</reg>,</l>
+<l>Why this is <seg type="homograph" subtype="adverb">like</seg> <seg type="homograph" subtype="preposition">to</seg> Tom turners <reg orig="doule">dole</reg>.</l>
+<l>Hang one man, and <reg orig="saue">save</reg> all the rest,</l>
+<l>Take part one with another, <reg orig="plaine">plain</reg> dealing is best.</l></sp>
+<sp who="N"><speaker>Rewarde.</speaker>
+<l>This is <seg type="homograph" subtype="truePlural">our</seg> dealing, thus <reg orig="deale">deal</reg> <seg type="homograph" subtype="truePlural">we</seg> with thee,</l>
+<l>Take him hence Virginius <reg orig="goe">go</reg> <reg orig="trusse">truss</reg> him <seg type="homograph" subtype="preposition">to</seg> a tree.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Ye shall <seg type="homograph" subtype="preposition">in</seg> a ropes name, whether away with me.</l></sp>
+<sp who="B"><speaker>Virginius.</speaker>
+<l>Come wend thou <seg type="homograph" subtype="preposition">in</seg> haste, thy death <seg type="homograph" subtype="conjunction">for</seg> <seg type="homograph" subtype="infinitive">to</seg> take,</l>
+<l><seg type="homograph" subtype="preposition">to</seg> the hangman I <seg type="homograph" subtype="verb">will</seg> <reg orig="leade">lead</reg> thee, a <reg orig="quicke">quick</reg> dispatch <seg type="homograph" subtype="infinitive">to</seg> make.</l></sp>
+<sp who="H"><speaker>Haphazard.</speaker>
+<l>Must I <reg orig="needes">needs</reg> <reg orig="hange">hang</reg>, <seg type="homograph" subtype="preposition">by</seg> the gods it doth <reg orig="spight">spite</reg> me,</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> <reg orig="thinke">think</reg> how crabbedly this <reg orig="silke">silk</reg> <reg orig="lase">lace</reg> <seg type="homograph" subtype="verb">will</seg> bite me:</l>
+<l>Then come <reg orig="cosin">cousin</reg> <reg orig="cutpurs">cutpurse</reg>, come <reg orig="runne">run</reg> haste and <reg orig="folow">follow</reg> me,</l>
+<l>Haphazard must <reg orig="hange">hang</reg>, come <reg orig="folow">follow</reg> the <reg orig="lyuerie">livery</reg>.</l></sp>
+<stage>Exit.</stage>
+<sp who="N"><speaker>Iustice.</speaker>
+<l>Well <reg orig="wende">wend</reg> <seg type="homograph" subtype="truePlural">we</seg> now the <reg orig="finall">final</reg> <reg orig="ende">end</reg> of fleshly lust <reg orig="wee"> <seg type="homograph" subtype="truePlural">we</seg> </reg> see.</l></sp>
+<sp who="N"><speaker>Reward.</speaker>
+<l>Content <reg orig="Rewarde">Reward</reg> is ready bent with <reg orig="Iustice">Justice</reg> <seg type="homograph" subtype="infinitive">to</seg> agree.</l></sp>
+<stage>Here entreth Fame.</stage>
+<sp who="O">
+<l><reg orig="oh">o</reg> stay, you noble <reg orig="Iustice">Justice</reg> stay, Reward do make <seg type="homograph" subtype="adjective">no</seg> haste,</l>
+<l><seg type="homograph" subtype="truePlural">we</seg> Ladies three <reg orig="haue">have</reg> brought <reg orig="y e"> the </reg> 
+Corse <seg type="homograph" subtype="preposition">in</seg> earth <seg type="homograph" subtype="relative">that</seg> must be <reg orig="plaste">placed</reg>.</l></sp>
+<stage>Doctrina and Memorie and Virginius bring a tome.</stage>
+<sp who="X">
+<l><seg type="homograph" subtype="truePlural">we</seg> <reg orig="haue">have</reg> <reg orig="braught">brought</reg> <reg orig="backe">back</reg> Virginius the <reg orig="funerall">funeral</reg> <seg type="homograph" subtype="infinitive">to</seg> see,</l>
+<l>I <reg orig="graunt">grant</reg> him <seg type="homograph" subtype="conjunction">that</seg> the learned pen shall <reg orig="haue">have</reg> the <reg orig="ayde">aid</reg> of <reg orig="mee">me</reg>:</l>
+<l><seg type="homograph" subtype="infinitive">to</seg> wright <seg type="homograph" subtype="preposition">in</seg> learned verse the <reg orig="honor">honour</reg> of <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> name.</l></sp>
+<sp who="O"><speaker>Fame.</speaker>
+<l>And eke it shall <reg orig="resownd">resound</reg> <seg type="homograph" subtype="preposition">by</seg> <reg orig="trompe">trump</reg> of me Dame Fame.</l></sp>
+<stage>Here let Memorie wright on the tome.</stage>
+<sp who="Q">
+<l>I <reg orig="Memorie">Memory</reg> <seg type="homograph" subtype="verb">will</seg> <reg orig="minde">mind</reg> <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> life, <reg orig="hir"><seg type="homograph" subtype="adjective">her</seg></reg> death shall <reg orig="euer">ever</reg> <reg orig="raine">rain</reg>.</l>
+<l>Within the mouth and <reg orig="minde">mind</reg> of man, from age <seg type="homograph" subtype="preposition">to</seg> age <reg orig="againe"> again </reg>.</l></sp>
+<sp who="J"><speaker>Iustice.</speaker>
+<l>And <reg orig="Iustice">Justice</reg> sure <seg type="homograph" subtype="verb">will</seg> <reg orig="ayde">aid</reg> all those <seg type="homograph" subtype="relative">that</seg> <reg orig="immitate">imitate</reg> <reg orig="hir"> <seg type="homograph" subtype="adjective">her</seg> </reg> <reg orig="lyfe">life</reg>.</l></sp>
+<sp who="N"><speaker>Rewarde.</speaker>
+<l><reg orig="warde">ward</reg> <seg type="homograph" subtype="verb">will</seg> <reg orig="punnish">punish</reg> those <seg type="homograph" subtype="relative">that</seg> <reg orig="moue">move</reg> such dames <seg type="homograph" subtype="preposition">to</seg> <reg orig="st">strife</reg></l></sp>
+<sp who="O"><speaker>Fame.</speaker>
+<l>Then sing <seg type="homograph" subtype="truePlural">we</seg> round about the Tome <seg type="homograph" subtype="preposition">in</seg> honour of <reg orig="hir"> <seg type="homograph" subtype="adjective">her</seg> </reg> name,</l></sp>
+<sp who="N"><speaker>Reward.</speaker>
+<l>Content <seg type="homograph" subtype="truePlural">we</seg> are with willing <reg orig="minde">mind</reg> <seg type="homograph" subtype="infinitive">to</seg> sing with sound of Fame.</l></sp>
+<stage>Back matter </stage>
+<stage>The Epilogue.</stage>
+<sp who="P">
+<l>As earthly life is <reg orig="graunted">granted</reg> none <seg type="homograph" subtype="preposition">for</seg> <reg orig="euermore">evermore</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="raigne">reign</reg>,</l>
+<l>But denting death <reg orig="wil"><seg type="homograph" subtype="verb">will</seg></reg> cause them <reg orig="al">all</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="graunt">grant</reg> this world as vain</l>
+<l>Right <reg orig="worshipfull">worshipful</reg> sith sure it is <seg type="homograph" subtype="conjunction">that</seg> <reg orig="mortall">mortal</reg> life must <reg orig="vade">fade</reg>,</l>
+<l>Do practise then <seg type="homograph" subtype="infinitive">to</seg> <reg orig="winne">win</reg> his <reg orig="loue">love</reg> <seg type="homograph" subtype="relative">that</seg> all <seg type="homograph" subtype="preposition">in</seg> all hath made:</l>
+<l>And <seg type="homograph" subtype="preposition">by</seg> this Poets faining here example do you take,</l>
+<l>Of Virginias life, of <reg orig="chastetie">chastity</reg>, of duty <seg type="homograph" subtype="preposition">to</seg> thy make.</l>
+<l>Of <reg orig="loue">love</reg> <seg type="homograph" subtype="preposition">to</seg> wife, of <reg orig="loue">love</reg> <seg type="homograph" subtype="preposition">to</seg> spouse, 
+of <reg orig="loue">love</reg> <seg type="homograph" subtype="preposition">to</seg> husband <reg orig="deare"> dear </reg>,</l>
+<l>Of bringing <reg orig="vp"><seg type="homograph" subtype="adverb">up</seg></reg> of tender youth, all these are noted <reg orig="heare">here</reg>:</l>
+<l>I doubt it not right worshipful, but well you do <reg orig="conceiue">conceive</reg>,</l>
+<l>The matter <seg type="homograph" subtype="relative">that</seg> is ended now, and thus I take my <reg orig="leaue">leave</reg>:</l>
+<l>Beseeching God as <reg orig="dutie">duty</reg> is, <seg type="homograph" subtype="truePlural">our</seg> gracious <reg orig="Queene">Queen</reg> <seg type="homograph" subtype="infinitive">to</seg> <reg orig="saue">save</reg>,</l>
+<l>The Nobles, and the commons eke, with prosperous life I <reg orig="craue">crave</reg>.</l></sp>
+<stage>FINIS </stage>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,2180 @@
+100:01;A2r['  ]| <div2>Enter Chorus.
+100:01;A2r[U  ]| Not marching in$4$ the fields of Thrasimen, 
+100:01;A2r[U  ]| Where Mars did mate the warlicke Carthagens, 
+100:01;A2r[U  ]| Nor sporting in$4$ the dalliance of love 
+100:01;A2r[U  ]| In$4$ Courts of Kings, where state is ouer-turn'd 
+100:01;A2r[U  ]| Nor in$4$ the pompe of proud audacious deeds, 
+100:01;A2r[U  ]| Intends our$6#2$ Muse to$9$ vaunt his heauenly verse 
+100:01;A2r[U  ]| Onely this, Gentles:  we$6#2$ must now performe 
+100:01;A2r[U  ]| The forme of Faustus fortunes, good or bad, 
+100:01;A2r[U  ]| And now to$4$ patient iudgments we$6#2$ appeale, 
+100:01;A2r[U  ]| And speak for$4$ Faustus in$4$ his infancie.  
+100:01;A2r[U  ]| Now is he borne, of parents base of stocke, 
+100:01;A2r[U  ]| In$4$ Germany, within a Towne call'd Rhodes:  
+100:01;A2r[U  ]| At riper yeares to$4$ Wittenberg he went, 
+100:01;A2r[U  ]| Whereas his kinsmen chiefly brought him up$5$; 
+100:01;A2r[U  ]| So$5#1$ much he profits in$4$ Diuinitie, 
+100:01;A2r[U  ]| That$3$ shortly he was grac'd with Doctors name, 
+100:01;A2r[U  ]| Excelling all, and sweetly can dispute 
+100:01;A2r[U  ]| In$4$ the heauenly matters of Theologie, 
+100:01;A2r[U  ]| Till swolne with cunning, of a selfe*conceit, 
+100:01;A2r[U  ]| His waxen wings did mount above his reach, 
+100:01;A2r[U  ]| And melting, heauens conspir'd his ouer-throw:  
+100:01;A2r[U  ]| For$3$ falling to$4$ a diuellisher <corr sic="ercise">exercise</corr>, 
+100:01;A2r[U  ]| And glutted now with learnings golden gifts, 
+100:01;A2r[U  ]| He surfets upon$4$ cursed Necromancie:  
+100:01;A2v[U  ]| Nothing so$5#1$ sweet as Magicke is to$4$ him; 
+100:01;A2v[U  ]| Which$6#1$ he preferres before his chiefest blisse, 
+100:01;A2v[U  ]| And this the man that$6#1$ in$4$ his study sits.  </div2>
+001:01;A2v['  ]| <div2> Faustus in$4$ his study. 
+001:01;A2v[A  ]| Settle thy studies Faustus, and begin 
+001:01;A2v[A  ]| To$9$ sound the depth of that$6#2$ thou wilt professe, 
+001:01;A2v[A  ]| Having commenc'd, be a Diuine in$4$ shew, 
+001:01;A2v[A  ]| Yet leuell at the end of <reg orig="euery">every</reg> Art&H0;, 
+001:01;A2v[A  ]| And live and die in$4$ Aristotles workes.  
+001:01;A2v[A  ]| Sweet Analitikes, it is thou hast rauisht me, 
+001:01;A2v[A  ]| <foreign>7Bene 7disserere 7est 7finis 7Logicis.</foreign>  
+001:01;A2v[A  ]| Is to$9$ dispute well Logickes chiefest end?  
+001:01;A2v[A  ]| Affoords this Art&H0; no$2$ greater miracle?  
+001:01;A2v[A  ]| Then read no$2$ more, thou hast attain'd that$6#2$ end; 
+001:01;A2v[A  ]| A greater subiect fitteth Faustus wit:  
+001:01;A2v[A  ]| Bid Oeconomy farewell; and Galen come:  
+001:01;A2v[A  ]| Be a Phisitian Faustus, heape up$5$ gold, 
+001:01;A2v[A  ]| And be eterniz'd for$4$ some wondrous cure:  
+001:01;A2v[A  ]| <foreign>7Summum 7bonum, 7medicina*e 7sanitas</foreign>, 
+001:01;A2v[A  ]| The end of Physicke is our$6#2$ bodies health:  
+001:01;A2v[A  ]| Why Faustus, hast thou not attain'd that$6#2$ end?  
+001:01;A2v[A  ]| Are not thy bills hung up$5$ as monuments, 
+001:01;A2v[A  ]| Wherby whole Cities have escap't the plague, 
+001:01;A2v[A  ]| And thousand desperate maladies been cur'd?  
+001:01;A2v[A  ]| Yet art thou still but Faustus, and a man.  
+001:01;A2v[A  ]| Couldst thou make men to$9$ live eternally, 
+001:01;A2v[A  ]| Or being dead, raise them to$4$ life again, 
+001:01;A2v[A  ]| Then this profession were to$9$ be esteem'd.  
+001:01;A2v[A  ]| Physicke farewell:  where is Iustinian?  
+001:01;A2v[A  ]| <foreign>7Si 7vna 7eademque 7res 7legatus 7duobus, </foreign>
+001:01;A2v[A  ]| <foreign> 7Alter 7rem, 7alter 7valorem 7rei, &c.</foreign>
+ 001:01;A2v[A  ]| A petty case of paltry Legacies, 
+001:01;A2v[A  ]| <foreign>7Exhereditari 7filium 7non 7potest 7pater, 7nisi</foreign> ~~ 
+001:01;A2v[A  ]| Such is the subiect of the institute, 
+001:01;A2v[A  ]| And vniuersall body of the law.  
+001:01;A2v[A  ]| This study fits a Mercenarie drudge, 
+001:01;A2v[A  ]| Who$6#1$ aims at nothing but externall trash, 
+001:01;A2v[A  ]| Too seruile and illiberall for$4$ me.  
+001:01;A3r[A  ]| When all is done, Diuinitie is best:  
+001:01;A3r[A  ]| Ieromes Bible Faustus, view it well:  
+001:01;A3r[A  ]| <foreign>7Stipendium 7peccati, 7mors 7est:  7ha, 7stipendium, &c. </foreign>
+001:01;A3r[A  ]| The reward of sin is death?  that$6#2$ is hard:  
+001:01;A3r[A  ]| <foreign>7Si 7peccasse, 7negamus, 7fallimur, 7& 7nulla 7est 7in 7nobis 7veritas: </foreign>
+001:01;A3r[A  ]| If we$6#2$ say that$3$ we$6#2$ have no$2$ sinne 
+001:01;A3r[A  ]| We$6#2$ deceiue ourselves, and there is no$2$ truth is us$6#2$.  
+001:01;A3r[A  ]| Why then belike we$6#2$ must sinne, 
+001:01;A3r[A  ]| And so$3$ consequently die, 
+001:01;A3r[A  ]| Aye, we$6#2$ must die, an euerlasting death.  
+001:01;A3r[A  ]| What doctrine call you this?  <foreign>8Che 8sera, 8sera</foreign>: 
+001:01;A3r[A  ]| What will$1$ be, shall be; Diuinitie adeiw.  
+001:01;A3r[A  ]| These Metaphisicks of Magitians, 
+001:01;A3r[A  ]| And Negromantick bookes are heauenly, 
+001:01;A3r[A  ]| Lines, Circles, Letters, Characters:  
+001:01;A3r[A  ]| Aye these are those that$6#1$ Faustus most desires.  
+001:01;A3r[A  ]| O what a world of profite and delight, 
+001:01;A3r[A  ]| Of power, of honour, and omnipotence, 
+001:01;A3r[A  ]| Is promised to$4$ the Studious Artizan?  
+001:01;A3r[A  ]| All things that$6#1$ moue <reg orig="betweene">between</reg> the quiet Poles 
+001:01;A3r[A  ]| Shall be at my command:  Emperors and Kings, 
+001:01;A3r[A  ]| Are but obey'd in$4$ their seuerall Prouinces:  
+001:01;A3r[A  ]| But his dominion that$6#1$ exceeds in$4$ this, 
+001:01;A3r[A  ]| Stretcheth as farre as doth the mind of man:  
+001:01;A3r[A  ]| A sound Magitian is a Demi-god, 
+001:01;A3r[A  ]| Here tire my braines to$9$ get a Deity.  
+001:01;A3r['  ]| Enter Wagner. 
+001:01;A3r[A  ]| Wagner, commend me to$4$ my deerest friends, 
+001:01;A3r[A  ]| The Germane Valdes and Cornelius, 
+001:01;A3r[A  ]| Request them earnestly to$9$ visit me.  
+001:01;A3r[B  ]| I will$1$ sir.  
+001:01;A3r['  ]| Exit. 
+001:01;A3r[A  ]| Their conference will$1$ be a greater helpe to$4$ me, 
+001:01;A3r[A  ]| Than all my labours, plod I <reg orig="ne're">never</reg> so$5#1$ fast.  
+001:01;A3r['  ]| Enter the Angell and Spirit. 
+001:01;A3r[C  ]| O Faustus, lay that$6#2$ damned booke aside, 
+001:01;A3r[C  ]| And gaze not on$4$ it least it tempt thy soule, 
+001:01;A3r[C  ]| And heape Gods heauy wrath upon$4$ thy head.  
+001:01;A3v[C  ]| Reade, reade the Scriptures:  that$6#2$ is blasphemy.  
+001:01;A3v[D  ]| Go forward Faustus in$4$ that$6#2$ famous Art&H0; 
+001:01;A3v[D  ]| Wherein all natures treasure is contain'd:  
+001:01;A3v[D  ]| Be thou on$4$ earth as Ioue is in$4$ the skye, 
+001:01;A3v[D  ]| Lord and Commander of these elements:  
+001:01;A3v['  ]| Exeunt An. 
+001:01;A3v[A  ]| How am I glutted with conceipt of this?  
+001:01;A3v[A  ]| Shall I make spirits fetch me what I please?  
+001:01;A3v[A  ]| Resolue me of all ambiguities?  
+001:01;A3v[A  ]| Performe what desperate enterprise I will$1$?  
+001:01;A3v[A  ]| I will$1$ have them flie to$4$ Indian for$4$ gold; 
+001:01;A3v[A  ]| Ransacke the Ocean for$4$ Orient Pearle, 
+001:01;A3v[A  ]| And search all corners of the new-found-world 
+001:01;A3v[A  ]| For$4$ pleasant fruites, and Princely delicates.  
+001:01;A3v[A  ]| I will$1$ have them read me strange Philosophy, 
+001:01;A3v[A  ]| And tell the secrets of all forraine Kings:  
+001:01;A3v[A  ]| I will$1$ have them wall all Germany with Brasse, 
+001:01;A3v[A  ]| And make swift Rhine, circle fair Wittenberge:  
+001:01;A3v[A  ]| I will$1$ have them fill the publique Schooles with skill, 
+001:01;A3v[A  ]| Wherewith the Students shall be brauely clad.  
+001:01;A3v[A  ]| I will$1$ leauy souldiers with the coyne they bring, 
+001:01;A3v[A  ]| And chase the Prince of Parma from our$6#2$ Land, 
+001:01;A3v[A  ]| And raigne sole King of all the Prouinces.  
+001:01;A3v[A  ]| Yea stranger engines for$4$ the brunt of warre, 
+001:01;A3v[A  ]| Than was the fiery keele at Anwerpe bridge, 
+001:01;A3v[A  ]| I will$1$ make my seruile spirits to$9$ inuent.  
+001:01;A3v[A  ]| Come Germane Valdes and Cornelius, 
+001:01;A3v[A  ]| And make me blest with your sage conference.  
+001:01;A3v['  ]| Enter Valdes and Cornelius. 
+001:01;A3v[A  ]| Valdes, sweete Valdes and Cornelius, 
+001:01;A3v[A  ]| Know that$3$ your words have won me at the last.  
+001:01;A3v[A  ]| To$9$ practise Magicke and concealed Arts.  
+001:01;A3v[A  ]| Philosophy is odious and obscure:  
+001:01;A3v[A  ]| Both Law and Physicke are for$4$ petty wits, 
+001:01;A3v[A  ]| It is magick, magick, that$6#1$ hath rauisht me.  
+001:01;A3v[A  ]| Then gentle friends aid me in$4$ this attempt, 
+001:01;A3v[A  ]| And I, that$6#1$ have with subtle Sillogismes 
+001:01;A3v[A  ]| Grauel'd the Pastors of the Germane Church, 
+001:01;A3v[A  ]| And made the flowring pride of Wittenberg 
+001:01;A3v[A  ]| Sworne to$4$ my Probelemes, as the infernall spirits 
+001:01;A4r[A  ]| On$4$ sweet Musa*eus when he came to$4$ hell, 
+001:01;A4r[A  ]| Will$1$ be as cunning as Agrippa was, 
+001:01;A4r[A  ]| Whose shadow made all Europe honour him.  
+001:01;A4r[E  ]| Faustus, these bookes, thy wit, and our$6#2$ experience, 
+001:01;A4r[E  ]| shall make all Nations to$9$ Canonize us$6#2$, 
+001:01;A4r[E  ]| As Indian Moores, obey their Spanish Lords:  
+001:01;A4r[E  ]| So$5#2$ shall the spirits of <reg orig="euery">every</reg> element, 
+001:01;A4r[E  ]| Be <reg orig="alwaies">always</reg> seruiceable to$4$ us$6#2$ three:  
+001:01;A4r[E  ]| Like$4$ Lyons shall they guard us$6#2$ when we$6#2$ please, 
+001:01;A4r[E  ]| Like$4$ Almaine Rutters with their horsemens staues, 
+001:01;A4r[E  ]| Or Lopland Giants trotting by$4$ our$6#2$ sides, 
+001:01;A4r[E  ]| Sometimes like$4$ women or vnwedded Maides:  
+001:01;A4r[E  ]| Shadowing more beauty in$4$ their Airie browes, 
+001:01;A4r[E  ]| Than has the white breasts of the Queene of love.  
+001:01;A4r[E  ]| From Venice shall they drag huge Argosies, 
+001:01;A4r[E  ]| And from America the Golden Fleece, 
+001:01;A4r[E  ]| That$6#1$ yearely stuff'd old Phillips treasury, 
+001:01;A4r[E  ]| If learned Faustus will$1$ be resolute.  
+001:01;A4r[A  ]| Valdes, as resolute am I in$4$ this, 
+001:01;A4r[A  ]| As thou to$9$ live, therefore obiect it not.  
+001:01;A4r[H  ]| The miracles that$6#1$ magick will$1$ performe, 
+001:01;A4r[H  ]| Will$1$ make thee vow to$9$ study nothing else.  
+001:01;A4r[H  ]| He that$6#1$ is grounded in$4$ Astrology, 
+001:01;A4r[H  ]| Inricht with tongues, well seene in$4$ Minerals, 
+001:01;A4r[H  ]| Hath all the Principles Magick doth require:  
+001:01;A4r[H  ]| Then doubt not Faustus but to$9$ be renowm'd, 
+001:01;A4r[H  ]| And more frequented for$4$ this mysterie, 
+001:01;A4r[H  ]| Than heeretofore the Delphian Oracle.  
+001:01;A4r[H  ]| The spirits tell me they can dry the sea, 
+001:01;A4r[H  ]| And fetch the treasure of all forraine wrackes:  
+001:01;A4r[H  ]| Yea all the wealth that$6#1$ our$6#2$ fore-fathers hid, 
+001:01;A4r[H  ]| Within the massy entrailes of the earth:  
+001:01;A4r[H  ]| Then tell me Faustus what shall we$6#2$ three want?  
+001:01;A4r[A  ]| Nothing Cornelius; O this cheeres my soule:  
+001:01;A4r[A  ]| Come, shew me some demonstrations Magicall, 
+001:01;A4r[A  ]| That$3$ I may coniure in$4$ some bushy Groue, 
+001:01;A4r[A  ]| And have these ioies in$4$ full possession.  
+001:01;A4r[E  ]| Then haste thee to$4$ some solitary Groue, 
+001:01;A4v[E  ]| And beare wise Bacons, and Albanus workes, 
+001:01;A4v[E  ]| The Hebrew Psalter, and new Testament; 
+001:01;A4v[E  ]| And <reg orig="whatsoeuer">whatsoever</reg> else is requisite, 
+001:01;A4v[E  ]| We$6#2$ will$1$ informe thee <reg orig="e're">ere</reg> our$6#2$ conference cease.  
+001:01;A4v[H  ]| Valdes, first let him know the words of Art&H0;, 
+001:01;A4v[H  ]| And then all other ceremonies learn'd, 
+001:01;A4v[H  ]| Faustus may try his cunning by$4$ himself.  
+001:01;A4v[E  ]| First I will$1$ instruct thee in$4$ the rudiments, 
+001:01;A4v[E  ]| And then wilt thou be perfecter than I.  
+001:01;A4v[A  ]| Then come and dine with me, and after meate 
+001:01;A4v[A  ]| We$6#2$ will$1$ canuase <reg orig="euery">every</reg> quidditie thereof:  
+001:01;A4v[A  ]| For$3$ <reg orig="e're">ere</reg> I sleep, I will$1$ try what I can do:  
+001:01;A4v[A  ]| This night I will$1$ coniure though I die therefore.  
+001:02;A4v['  ]| Exeunt om. </div2>
+001:02;A4v['  ]| <div2>Enter two Schollers. 
+001:02;A4v[I  ]| I wonder what is become of Faustus that$6#1$ was wont 
+001:02;A4v[I  ]| To$9$ make our$6#2$ schooles ring, with <foreign>7sic 7probo</foreign>.  
+001:02;A4v['  ]| Enter Wag. 
+001:02;A4v[J  ]| That$6#2$ shall we$6#2$ presently know, here comes his boy.  
+001:02;A4v[I  ]| How now sirra, where is thy Maister?  
+001:02;A4v[B  ]| God in$4$ heaven knowes.  
+001:02;A4v[J  ]| Why dost not thou know then!  
+001:02;A4v[B  ]| Yes, I know, but that$6#2$ followes not.  
+001:02;A4v[I  ]| Go to$5$ sirra, leaue your iesting, and tell us$6#2$ where he is.  
+001:02;A4v[B  ]| That$6#2$ followes not by$4$ force of argument, which$6#1$  
+001:02;A4v[B  ]| you, being Licentiats, should stand upon$5$, therefore 
+001:02;A4v[B  ]| acknowledge your errour, and be attentiue.  
+001:02;A4v[J  ]| Then you will$1$ not tell us$6#2$?  
+001:02;A4v[B  ]| You are deceiu'd, for$3$ I will$1$ tell you:  yet if you  
+001:02;A4v[B  ]| were not dunces, you would <reg orig="neuer">never</reg> aske me such a question:  
+001:02;A4v[B  ]| For$3$ is he not <foreign>7Corpus 7naturale</foreign>?  and is not that$6#2$ 7Mobile?  Then  
+001:02;A4v[B  ]| wherefore should you aske me such a question?  But that$3$ I  
+001:02;A4v[B  ]| am by$4$ nature flegmatique, slow to$4$ wrath, and prone to$4$ letcherie  
+001:02;A4v[B  ]| (to$4$ love I would say) it were not for$4$ you to$9$ come within fortie  
+001:02;A4v[B  ]| foot of the place of execution, although I do not doubt but  
+001:02;A4v[B  ]| to$9$ see you both hangd'd the next Sessions.  Thus having triumpht  
+001:02;A4v[B  ]| over you, I will$1$ set my countenance like$4$ a Precisian,  
+001:02;A4v[B  ]| and begin to$9$ speak thus:  Truely my deere brethren, my Mr%
+001:02;B1r[B  ]| is within at dinner, with Valdes and Cornelius, as this wine,  
+001:02;B1r[B  ]| if it could speak, would informe your Worships:  and so$3$  
+001:02;B1r[B  ]| the Lord blesse you, preserue you, and keepe you, my deere  
+001:02;B1r[B  ]| brethren.  
+001:02;B1r['  ]| Exit. 
+001:02;B1r[I  ]| O Faustus, then I feare that$6#2$ which$6#1$ I have long suspected:  
+001:02;B1r[I  ]| That$3$ thou art falne into that$6#2$ damned Art&H0; 
+001:02;B1r[I  ]| For$4$ which$6#1$ they two are infamous through the world.  
+001:02;B1r[J  ]| Where he a stranger, not allyed to$4$ me, 
+001:02;B1r[J  ]| The danger of his soule would make me mourne:  
+001:02;B1r[J  ]| But come, let us$6#2$ go, and informe the Rector; 
+001:02;B1r[J  ]| It may be his graue counsell may reclaime him.  
+001:02;B1r[I  ]| I feare me, nothing will$1$ reclaime him now.  
+001:02;B1r[J  ]| Yet let us$6#2$ see what we$6#2$ can do.  
+001:02;B1r['  ]| Exeunt. </div2>
+001:03;B1r['  ]| <div2>Thunder.  Enter Lucifer and 4 deuils, Faustus to$4$ them  
+001:03;B1r['  ]| with this speech. 
+001:03;B1r[A  ]| Now that$3$ the gloomy shadow of the night, 
+001:03;B1r[A  ]| Longing to$9$ view Orions drisling look, 
+001:03;B1r[A  ]| leapes from the Antarticke world unto the skie, 
+001:03;B1r[A  ]| And dyms the Welkin, with her$2$ pitchy breathe:  
+001:03;B1r[A  ]| Faustus, begin thine Incantations, 
+001:03;B1r[A  ]| And try if deuils will$1$ obey thy Hest, 
+001:03;B1r[A  ]| Seeing thou hast pray'd and sacrific'd to$4$ them.  
+001:03;B1r[A  ]| Within this circle is Iehoua's Name, 
+001:03;B1r[A  ]| Forward and backward, Anagramatis'd:  
+001:03;B1r[A  ]| The abreuiated names of holy Saints, 
+001:03;B1r[A  ]| Figures of <reg orig="euery">every</reg> adiunct to$4$ the heauens, 
+001:03;B1r[A  ]| And Characters of Signes, and euening Starres, 
+001:03;B1r[A  ]| By$4$ which$6#1$ the spirits are inforc'd to$9$ rise:  
+001:03;B1r[A  ]| Then feare not Faustus to$9$ be resolute 
+001:03;B1r[A  ]| And try the vtmost Magicke can performe.  
+001:03;B1r['  ]| Thunder.
+001:03;B1r[A  ]| <foreign> 7 Sint 7mihi 7Dij 7Acherontis 7propitij, 7valeat 7numen 7triplex </foreign>
+001:03;B1r[A  ]| <foreign>7Iehoua*e, 7ignei 7Aerij, 7Aquatani 7spiritus 7saluete:  7Orientis  </foreign>
+001:03;B1r[A  ]| <foreign>7Princeps 7Belzebub, 7inferni 7ardentis 7monarcha 7& 7demigorgon,</foreign>
+001:03;B1r[A  ]| <foreign>7propitiamus 7vos, 7vt 7appareat, 7& 7surgat Mephostophilis </foreign>
+001:03;B1r[A  ]| <foreign>7Dragon, 7quo 7tumeraris; 7per 7Iehouam, 7gehennan, 7& 7consecratam </foreign>
+001:03;B1v[A  ]| <foreign>7aquam, 7quam 7nunc 7spargo; 7signumq=; 7crucis 7quod  </foreign>
+001:03;B1v[A  ]| <foreign>7nunc 7facio; 7& 7per 7vota 7nostra 7ipse 7nunc 7surgat 7nobis 7dicatis </foreign>
+001:03;B1v[A  ]| Mephostophilis. 
+001:03;B1v['  ]| Enter a Deuill. 
+001:03;B1v[A  ]| I charge thee to$9$ returne, and change thy shape, 
+001:03;B1v[A  ]| Thou art too vgly to$9$ attend on$4$ me:  
+001:03;B1v[A  ]| Go and returne an old Franciscan Frier, 
+001:03;B1v[A  ]| That$6#2$ holy shape becomes a deuill best.  
+001:03;B1v['  ]| Exit deuill. 
+001:03;B1v[A  ]| I see there is vertue in$4$ my heauenly words.  
+001:03;B1v[A  ]| Who$6#2$ would not be proficient in$4$ this Art&H0;?  
+001:03;B1v[A  ]| How pliant is this Mephostophilis?  
+001:03;B1v[A  ]| Full of obedience and humility, 
+001:03;B1v[A  ]| Such is the force of Magicke, and my spels.  
+001:03;B1v['  ]| Enter Mephostophilis. 
+001:03;B1v[F  ]| Now Faustus what wouldst thou have me do?  
+001:03;B1v[A  ]| I charge thee waite upon$4$ me whilst I live 
+001:03;B1v[A  ]| To$9$ do <reg orig="what euer">whatever</reg> Faustus shall command:  
+001:03;B1v[A  ]| Be it to$9$ make the Moone drop from her$2$ Sphere, 
+001:03;B1v[A  ]| Or the Ocean to$9$ ouerwelme the world.  
+001:03;B1v[F  ]| I am a seruant to$4$ great Lucifer, 
+001:03;B1v[F  ]| And may not follow thee without his leaue; 
+001:03;B1v[F  ]| No$2$ more than he commands, must we$6#2$ performe.  
+001:03;B1v[A  ]| Did not he charge thee to$9$ appeare to$4$ me?  
+001:03;B1v[F  ]| No$7$, I came now hether of mine <reg orig="owne">own</reg> accord.  
+001:03;B1v[A  ]| Did not my coniuring raise thee?  speak.  
+001:03;B1v[F  ]| That$6#2$ was the cause, but yet <foreign>7per 7accident</foreign>:  
+001:03;B1v[F  ]| For$3$ when we$6#2$ hear one racke the name of God, 
+001:03;B1v[F  ]| Abiure the Scriptures, and his Sauiour Christ:  
+001:03;B1v[F  ]| We$6#2$ flye in$4$ hope to$9$ get his glorious Soule; 
+001:03;B1v[F  ]| Nor will$1$ we$6#2$ come vnlesse he vse such meanes, 
+001:03;B1v[F  ]| Whereby he is in$4$ danger to$9$ be damn'd:  
+001:03;B1v[F  ]| Therefore the shortest cut for$4$ coniuring 
+001:03;B1v[F  ]| It stoutly to$9$ abiure all godlinesse, 
+001:03;B1v[F  ]| And pray deuoutely to$4$ the Prince of hell.  
+001:03;B1v[A  ]| So$5#2$ Faustus hath already done, and holds this principle, 
+001:03;B1v[A  ]| There is no$2$ chiefe but onely Beelzebub:  
+001:03;B2r[A  ]| To$4$ whom Faustus doth dedicate himself.  
+001:03;B2r[A  ]| This word Damnation, terrifies not me, 
+001:03;B2r[A  ]| For$3$ I confound hell in$4$ Elizium:  
+001:03;B2r[A  ]| My Ghost be with the old Phylosophers.  
+001:03;B2r[A  ]| But leauing these vaine trifles of mens soules, 
+001:03;B2r[A  ]| Tell me, what is that$6#2$ Lucifer, thy Lord?  
+001:03;B2r[F  ]| Arch-regent and Commander of all Spirits.  
+001:03;B2r[A  ]| Was not that$6#2$ Lucifer an Angell once?  
+001:03;B2r[F  ]| Yes Faustus, and most deerely lou'd of God.  
+001:03;B2r[A  ]| How comes it then that$3$ he is Prince of Deuils?  
+001:03;B2r[F  ]| O:  by$4$ aspiring pride and insolence, 
+001:03;B2r[F  ]| For$4$ which$6#1$ God threw him from the face of heauen.  
+001:03;B2r[A  ]| And what are you that$6#1$ live with Lucifer?  
+001:03;B2r[F  ]| Vnhappy spirits that$6#1$ live with Lucifer, 
+001:03;B2r[F  ]| Conspir'd against our$6#2$ God with Lucifer, 
+001:03;B2r[F  ]| And are <reg orig="for euer">forever</reg> damn'd with Lucifer.  
+001:03;B2r[A  ]| Where are you damn'd?  
+001:03;B2r[F  ]| In$4$ hell.  
+001:03;B2r[A  ]| How comes it then that$3$ thou are out of hell?  
+001:03;B2r[F  ]| Why this is hell:  nor am I out of it.  
+001:03;B2r[F  ]| Think'st thou that$3$ I that$6#1$ saw the face of God, 
+001:03;B2r[F  ]| And tasted the eternall Ioyes of heauen, 
+001:03;B2r[F  ]| Am not tormented with ten thousand hels, 
+001:03;B2r[F  ]| In$4$ being depriu'd of euerlasting blisse?  
+001:03;B2r[F  ]| O Faustus leaue these friuolous demandes, 
+001:03;B2r[F  ]| Which$6#1$ strikes a terror to$4$ my fainting soule.  
+001:03;B2r[A  ]| What is great Mephostophilis so$5#1$ passionate 
+001:03;B2r[A  ]| For$4$ being depriued of the Ioyes of heauen?  
+001:03;B2r[A  ]| Learne thou of Faustus manly fortitude, 
+001:03;B2r[A  ]| And scorne those Ioyes thou <reg orig="neuer">never</reg> shalt possesse.  
+001:03;B2r[A  ]| Go beare these tydings to$4$ great Lucifer, 
+001:03;B2r[A  ]| Seeing Faustus hath incur'd eternall death, 
+001:03;B2r[A  ]| By$4$ desperate thoughts against Ioues Deity:  
+001:03;B2r[A  ]| Say he surrenders up$5$ to$4$ him his soule, 
+001:03;B2r[A  ]| So$3$ he will$1$ spare him foure*and*twenty yeares, 
+001:03;B2r[A  ]| Letting him live in$4$ all voluptuousnesse, 
+001:03;B2r[A  ]| Having thee <reg orig="euer">ever</reg> to$9$ attend on$4$ me, 
+001:03;B2r[A  ]| To$9$ give me <reg orig="whatsoeuer">whatsoever</reg> I shall aske; 
+001:03;B2r[A  ]| To$9$ tell me <reg orig="whatsoeuer">whatsoever</reg> I demand:  
+001:03;B2v[A  ]| To$9$ slay mine enemies, and to$9$ aid my friends, 
+001:03;B2v[A  ]| And <reg orig="alwaies">always</reg> be obedient to$4$ my will$0$.  
+001:03;B2v[A  ]| Go, and returne to$4$ mighty Lucifer, 
+001:03;B2v[A  ]| And meet me in$4$ my Study, at Midnight, 
+001:03;B2v[A  ]| And then resolue me of thy Maisters mind.  
+001:03;B2v[F  ]| I will$1$ Faustus.  
+001:03;B2v['  ]| Exit. 
+001:03;B2v[A  ]| Had I as many soules, as there be Starres, 
+001:03;B2v[A  ]| I would give them all for$4$ Mephostophilis.  
+001:03;B2v[A  ]| By$4$ him, I will$1$ be great emperour of the world, 
+001:03;B2v[A  ]| And make a bridge, through the mouing Aire, 
+001:03;B2v[A  ]| To$9$ passe the Ocean:  with a band of men 
+001:03;B2v[A  ]| I will$1$ ioyne the Hils that$6#1$ bind the Affrick shore, 
+001:03;B2v[A  ]| And make that$6#2$ Country, continent to$4$ Spaine, 
+001:03;B2v[A  ]| And both contributary to$4$ my Crowne.  
+001:03;B2v[A  ]| The Emperour shall not live, but by$4$ my leaue, 
+001:03;B2v[A  ]| Nor any Potentate of Germany.  
+001:03;B2v[A  ]| Now that$3$ I have obtain'd what I desir'd 
+001:03;B2v[A  ]| I will$1$ live in$4$ speculation of this Art&H0; 
+001:03;B2v[A  ]| Till Mephostophilis returne again.  
+001:03;B2v['  ]| Exit. 
+001:04;B2v['  ]| Enter Wagner and the Clowne. 
+001:04;B2v[B  ]| Come hither sirra boy.  
+001:04;B2v[G  ]| Boy?  O disgrace to$4$ my person:  Zounds boy in$4$ your 
+001:04;B2v[G  ]| face, you have seene many boyes with beards I am sure.  
+001:04;B2v[B  ]| Sirra, hast thou no$2$ commings In$5$?  
+001:04;B2v[G  ]| Yes, and goings out too, you may see sir.  
+001:04;B2v[B  ]| Alas poore slaue, see how pouerty iests in$4$ his nakednesse, 
+001:04;B2v[B  ]| I know the Villaine is out of seruice, and so$5#1$ hungry, 
+001:04;B2v[B  ]| that$3$ I know he would give his soule to$4$ the deuill, for$4$ a shoulder 
+001:04;B2v[B  ]| of Mutton, though it were bloud raw.  
+001:04;B2v[G  ]| Not so$3$ neither; I had need to$9$ have it well rosted, 
+001:04;B2v[G  ]| and good sauce to$4$ it, if I pay so$5#1$ deere, I can tell you.  
+001:04;B2v[B  ]| Sirra, wilt thou be my man and waite on$4$ me?  and 
+001:04;B2v[B  ]| I will$1$ make thee go, like$4$ <foreign>7Qui 7mihi 7discipulus.</foreign>
+001:04;B2v[G  ]| What, in$4$ Verse?  
+001:04;B2v[B  ]| No$7$ slaue, in$4$ beaten silke, and staues-aker.  
+001:04;B2v[G  ]| Staues-aker?  that$6#2$ is good to$9$ kill Vermine:  then belike 
+001:04;B3r[G  ]| if I serue you, I shall be lousy.  
+001:04;B3r[B  ]| Why so$5#2$ thou shalt be, whether thou dost it or no$5$:  
+001:04;B3r[B  ]| for$3$ sirra, if thou dost not presently bind thyself to$4$ me for$4$ 
+001:04;B3r[B  ]| seuen yeares, I will$1$ turne all the lice about thee into Familiars, 
+001:04;B3r[B  ]| and make them tare thee in$4$ peeces.  
+001:04;B3r[G  ]| Nay sir, you may saue yourself a labour, for$3$ they 
+001:04;B3r[G  ]| are as familiar with me, as if they payd for$4$ their meate and 
+001:04;B3r[G  ]| drinke, I can tell you.  
+001:04;B3r[B  ]| Well sirra, leaue your iesting, and take these Guilders.  
+001:04;B3r[G  ]| Yes marry sir, and I thanke you too.  
+001:04;B3r[B  ]| So$3$, now thou art to$9$ be at an howres warning, 
+001:04;B3r[B  ]| <reg orig="whensoeuer">whensoever</reg>, and <reg orig="wheresoeuer">wheresoever</reg> the deuill shall fetch thee.  
+001:04;B3r[G  ]| Here, take your Guilders I will$1$ none of them.  
+001:04;B3r[B  ]| Not I, thou art Prest, prepare thyself, for$3$ I will$1$ 
+001:04;B3r[B  ]| presently raise up$5$ two deuils to$9$ carry thee away:  Banio, 
+001:04;B3r[B  ]| Belcher.  
+001:04;B3r[G  ]| Belcher?  if Belcher come here, I will$1$ belch him:  I am 
+001:04;B3r[G  ]| not afraid of a deuill.  
+001:04;B3r['  ]| Enter 2 deuils. 
+001:04;B3r[B  ]| How now sir will$1$ you serue me now?  
+001:04;B3r[G  ]| Aye good Wagner take away the deuill then.  
+001:04;B3r[B  ]| Spirits away; now sirra follow me.  
+001:04;B3r[G  ]| I will$1$ sir; but hearke you Maiser, will$1$ you teach 
+001:04;B3r[G  ]| me this coniuring Occupation?  
+001:04;B3r[B  ]| Aye sirra, I will$1$ teach thee to$9$ turne thyself to$4$ a Dog, 
+001:04;B3r[B  ]| or a Cat, or a Mouse, or a Rat, or any*thing.  
+001:04;B3r[G  ]| A Dog, or a Cat, or a Mouse, or a Rat?  O braue 
+001:04;B3r[G  ]| Wagner.  
+001:04;B3r[B  ]| Villaine, call me Maister Wagner, and see that$3$ you 
+001:04;B3r[B  ]| walke attentiuely, and let your right eye be <reg orig="alwaies">always</reg> Diametrally 
+001:04;B3r[B  ]| fixt upon$4$ my left heele, that$3$ thou mayst, <foreign>7Quasi 7vestigias </foreign>
+001:04;B3r[B  ]| <foreign>7nostras 7insistere.</foreign>? 
+001:04;B3r[G  ]| Well sir, I warrant you.  
+001:04;B3r['  ]| Exeunt. 
+002:01;B3r['  ]| Enter Faustus in$4$ his Study. 
+002:01;B3r[A  ]| Now Faustus, must thou needs be damn'd?  
+002:01;B3r[A  ]| Canst thou not be sau'd?  
+002:01;B3r[A  ]| What bootes it then to$9$ think on$4$ God or Heauen?  
+002:01;B3v[A  ]| Away with such vaine fancies, and despaire, 
+002:01;B3v[A  ]| Despaire in$4$ GOD, and trust in$4$ Belzebub, 
+002:01;B3v[A  ]| Now go on$5$ backward Faustus, be resolute.  
+002:01;B3v[A  ]| Why wauerst thou?  O something soundeth in$4$ mine eare.  
+002:01;B3v[A  ]| Abiure this Magicke, turne to$4$ God again.  
+002:01;B3v[A  ]| Why he loues the not:  The God thou seru'st is thine <reg orig="owne">own</reg> appetite 
+002:01;B3v[A  ]| Wherein is fixt the love of Belzebub, 
+002:01;B3v[A  ]| To$4$ him, I will$1$ build an Altar and a Church, 
+002:01;B3v[A  ]| And offer luke-warme bloud, of new borne babes.  
+002:01;B3v['  ]| Enter the two Angels. 
+002:01;B3v[D  ]| Go forward Faustus in$4$ that$6#2$ famous Art&H0;.  
+002:01;B3v[C  ]| Sweete Faustus leaue that$6#2$ execrable Art&H0;.  
+002:01;B3v[A  ]| Contrition, Prayer, Repentance?  what of these?  
+002:01;B3v[C  ]| O they are meanes to$9$ bring thee unto heauen.  
+002:01;B3v[D  ]| Rather illusions, fruits of lunacy.  
+002:01;B3v[D  ]| That$6#1$ make them foolish that$6#1$ do vse them most.  
+002:01;B3v[C  ]| Sweet Faustus think of heauen, and heauenly things.  
+002:01;B3v[D  ]| No$7$ Faustus think of honour and of wealth.  
+002:01;B3v['  ]| Ex.  An. 
+002:01;B3v[A  ]| Wealth?  Why the Signory of Embden shall be mine:  
+002:01;B3v[A  ]| When Mephostophilis shall stand by$4$ me, 
+002:01;B3v[A  ]| What power can hurt me?  Faustus thou art safe.  
+002:01;B3v[A  ]| Cast no$2$ more doubts; Mepho: come 
+002:01;B3v[A  ]| And bring glad tydings from great Lucifer.  
+002:01;B3v[A  ]| Is it not midnight?  come Mephostophilis.  
+002:01;B3v[A  ]| <foreign>7Veni 7veni</foreign> Mephostophile. 
+002:01;B3v['  ]| Enter Mephosto. 
+002:01;B3v[A  ]| Now tell me what saith Lucifer thy Lord.  
+002:01;B3v[F  ]| That$3$ I shall waite on$4$ Faustus whilst he liues, 
+002:01;B3v[F  ]| So$3$ he will$1$ buy my seruice with his soule.  
+002:01;B3v[A  ]| Already Faustus hath hazarded that$6#2$ for$4$ thee.  
+002:01;B3v[F  ]| But now thou must bequeath it solemnly, 
+002:01;B3v[F  ]| And wright a Deed of Gift with thine <reg orig="owne">own</reg> bloud; 
+002:01;B3v[F  ]| For$4$ that$6#2$ security craues Lucifer.  
+002:01;B3v[F  ]| If thou deny it I must back to$4$ hell.  
+002:01;B3v[A  ]| Stay Mephosto. and tell me, 
+002:01;B3v[A  ]| What good will$1$ my soule do thy Lord?  
+002:01;B3v[F  ]| Enlarge his Kingdome.  
+002:01;B4r[A  ]| Is that$6#2$ the reason why he tempts us$6#2$ thus?  
+002:01;B4r[F  ]| <foreign>7Solamen 7miseris, 7socios 7habuisse 7doloris.</foreign> 
+002:01;B4r[A  ]| Why, have you any paine that$6#1$ torture other?  
+002:01;B4r[F  ]| As great as have the humane soules of men.  
+002:01;B4r[F  ]| But tell me Faustus, shall I have thy soule?  
+002:01;B4r[F  ]| And I will$1$ be thy slaue and waite on$4$ thee, 
+002:01;B4r[F  ]| And give thee more than thou hast wit to$9$ aske.  
+002:01;B4r[A  ]| Aye Mephostophilis, I will$1$ give it him.  
+002:01;B4r[F  ]| Then Faustus stab thy Arme couragiously, 
+002:01;B4r[F  ]| And bind thy soule, that$3$ at some certaine day 
+002:01;B4r[F  ]| Great Lucifer may claime it as his <reg orig="owne">own</reg>, 
+002:01;B4r[F  ]| And then be thou as great as Lucifer.  
+002:01;B4r[A  ]| Loe Mephosto: for$4$ love of thee Faustus hath cut his arme, 
+002:01;B4r[A  ]| And with his proper bloud assures his soule to$9$ be great Lucifers, 
+002:01;B4r[A  ]| Cheife Lord and Regent of perpetuall night.  
+002:01;B4r[A  ]| Veiw here this bloud that$6#1$ trickles from mine arme, 
+002:01;B4r[A  ]| And let it be propitious for$4$ my wish.  
+002:01;B4r[F  ]| But Faustus 
+002:01;B4r[F  ]| Write it in$4$ manner of a Deed of Gift.  
+002:01;B4r[A  ]| Aye so$5#2$ I do; but Mephostophilis 
+002:01;B4r[A  ]| My bloud congeales, and I can write no$2$ more.  
+002:01;B4r[F  ]| I will$1$ fetch thee fire to$9$ dissolue it streight.  
+002:01;B4r['  ]| Exit. 
+002:01;B4r[A  ]| What might the staying of my bloud portend?  
+002:01;B4r[A  ]| Is it vnwilling I should write this byll?  
+002:01;B4r[A  ]| Why streames it not, that$3$ I may write a*fresh?  
+002:01;B4r[A  ]| Faustus giues to$4$ thee his soule:  O there it staid.  
+002:01;B4r[A  ]| Why shouldst thou not?  is not thy soule thine <reg orig="owne">own</reg>?  
+002:01;B4r[A  ]| Then write again:  Faustus giues to$4$ thee his soule.  
+002:01;B4r['  ]| Enter Mephostoph: with the Chafer of Fire. 
+002:01;B4r[F  ]| See Faustus here is fire, set it on$5$.  
+002:01;B4r[A  ]| So$3$, now the bloud begins to$9$ cleere again:  
+002:01;B4r[A  ]| Now will$1$ I make an end immediately.  
+002:01;B4r[F  ]| What will$1$ not I do to$9$ obtaine his soule?  
+002:01;B4r[A  ]| <foreign>7Consummatum 7est</foreign>:  this byll is ended, 
+002:01;B4r[A  ]| And Faustus hath bequeath'd his soule to$4$ Lucifer.  
+002:01;B4r[A  ]| But what is this Inscription on$4$ mine Arme?  
+002:01;B4v[A  ]| <foreign>7Homo 7fuge</foreign>, whether should I flye?  
+002:01;B4v[A  ]| If unto heauen, he will$1$ throw me down to$4$ hell.  
+002:01;B4v[A  ]| My sences are deceiu'd, here is nothing writ:  
+002:01;B4v[A  ]| O yes, I see it plaine, <reg orig="euen">even</reg> here is writ 
+002:01;B4v[A  ]| <foreign>7Homo 7fuge</foreign>, yet shall not Faustus flye.  
+002:01;B4v[F  ]| I will$1$ fetch him somewhat to$9$ delight his minde.  
+002:01;B4v['  ]| Exit. 
+002:01;B4v['  ]| Enter Deuils, giuing Crownes and rich apparell to$4$ 
+002:01;B4v['  ]| Faustus;  they dance, and then depart. 
+002:01;B4v['  ]| Enter Mephostophilis. 
+002:01;B4v[A  ]| What meanes this shew?  speak Mephostophilis.  
+002:01;B4v[F  ]| Nothing Faustus but to$9$ delight thy mind, 
+002:01;B4v[F  ]| And let thee see what Magicke can performe.  
+002:01;B4v[A  ]| But may I raise such spirits when I please?  
+002:01;B4v[F  ]| Aye Faustus, and do greater things than these.  
+002:01;B4v[A  ]| Then Mephostophilis receiue this scrole, 
+002:01;B4v[A  ]| A Deed of Gift, of body and of soule:  
+002:01;B4v[A  ]| But yet conditionally, that$3$ thou performe 
+002:01;B4v[A  ]| All Couenants, and Articles, <reg orig="betweene">between</reg> us$6#2$ both.  
+002:01;B4v[F  ]| Faustus, I sweare by$4$ Hell and Lucifer, 
+002:01;B4v[F  ]| To$9$ effect all promises <reg orig="betweene">between</reg> us$6#2$ both.  
+002:01;B4v[A  ]| Then hear me read it Mephostophilis.  
+002:01;B4v[A  ]| On$4$ these conditions following.  
+002:01;B4v[A  ]| First, that$3$ Faustus may be a spirit in$4$ forme and substance. 
+002:01;B4v[A  ]| Secondly, that$3$ Mephostophilis shall be his servant, and be by$4$ 
+002:01;B4v[A  ]| him commanded. 
+002:01;B4v[A  ]| Thirdly, that$3$ Mephostophilis shall do for$4$ him, and bring him 
+002:01;B4v[A  ]| <reg orig="whatsoeuer">whatsoever</reg>. 
+002:01;B4v[A  ]| Fourthly, that$3$ he shall be in$4$ his chamber or house inuisible. 
+002:01;B4v[A  ]| Lastly, that$3$ he shall appeare to$4$ the said Iohn Faustus, at all 
+002:01;B4v[A  ]| times, in$4$ what shape and forme soeuer he please. 
+002:01;B4v[A  ]| I Iohn Faustus of Wittenberg, Doctor, by$4$ these presents, do 
+002:01;B4v[A  ]| give both body and soule to$4$ Lucifer, Prince of the East, and 
+002:01;B4v[A  ]| his Minister Mephastophilis, and furthermore grant unto them 
+002:01;B4v[A  ]| that$3$ foure*and*twentie yeares being expired, and these Articles 
+002:01;B4v[A  ]| above written inuiolate, full power to$9$ fetch or carry the 
+002:01;C1r[A  ]| said John Faustus, body and soule, flesh, bloud, into their habitation 
+002:01;C1r[A  ]| wheresouer. 
+002:01;C1r[A  ]| By$4$ me Iohn Faustus. 
+002:01;C1r[F  ]| Speak Faustus, do you deliuer this as your Deed?  
+002:01;C1r[A  ]| Aye take it, and the deuill give thee good of it.  
+002:01;C1r[F  ]| So$3$, now Faustus aske me what thou wilt.  
+002:01;C1r[A  ]| First, I will$1$ question thee about hell:  
+002:01;C1r[A  ]| Tell me, where is the place that$6#1$ men call Hell?  
+002:01;C1r[F  ]| Under the heauens.  
+002:01;C1r[A  ]| Aye, so$5#2$ are all things else; but whereabouts?  
+002:01;C1r[F  ]| Within the bowels of these Elements, 
+002:01;C1r[F  ]| Where we$6#2$ are tortur'd, and remaine <reg orig="for euer">forever</reg>.  
+002:01;C1r[F  ]| Hell hath no$2$ limits, nor is circumscrib'd, 
+002:01;C1r[F  ]| In$4$ one self place:  but where we$6#2$ are is hell, 
+002:01;C1r[F  ]| And where hell is there must we$6#2$ <reg orig="euer">ever</reg> be.  
+002:01;C1r[F  ]| And to$9$ be short, when all the world dissolues, 
+002:01;C1r[F  ]| And <reg orig="euery">every</reg> creature shall be purifi'd, 
+002:01;C1r[F  ]| All places shall be hell that$6#1$ is not heauen.  
+002:01;C1r[A  ]| I think Hel is a fable.  
+002:01;C1r[F  ]| Aye, think so$5#2$ still, till experience change thy mind.  
+002:01;C1r[A  ]| Why, dost thou think that$3$ Faustus shall be damn'd?  
+002:01;C1r[F  ]| Aye, of necessity, for$3$ here is the scrowle 
+002:01;C1r[F  ]| In$4$ which$6#1$ thou hast giuen thy soule to$4$ Lucifer.  
+002:01;C1r[A  ]| Aye, and body too, but what of that$6#2$:  
+002:01;C1r[A  ]| Think'st thou that$3$ Faustus, is so$5#1$ fond to$9$ imagine, 
+002:01;C1r[A  ]| That$3$ after this life there is any paine?  
+002:01;C1r[A  ]| No$7$, these are trifles, and meere old wiues Tales.  
+002:01;C1r[F  ]| But I am an instance to$9$ proue the contrary:  
+002:01;C1r[F  ]| For$3$ I tell thee I am damn'd, and now in$4$ hell.  
+002:01;C1r[A  ]| Nay, if this be hell, I will$1$ willingly be damn'd.  
+002:01;C1r[A  ]| What sleeping, eating, walking and disputing?  
+002:01;C1r[A  ]| But leauing this, let me have a wife, the fairest Maid in$4$ 
+002:01;C1r[A  ]| Germany, for$3$ I am wanton and lasciuious, and cannot live 
+002:01;C1r[A  ]| without a wife.  
+002:01;C1r[F  ]| Well Faustus, thou shalt have a wife.  
+002:01;C1r['  ]| He fetches in$4$ a woman deuill. 
+002:01;C1r[A  ]| What sight is this?  
+002:01;C1v[F  ]| Now Faustus wilt thou have a wife?  
+002:01;C1v[A  ]| Here is a hot whore indeed; no$7$, I will$1$ no$2$ wife.  
+002:01;C1v[F  ]| Marriage is but a ceremoniall toy, 
+002:01;C1v[F  ]| And if thou louest me think no$2$ more of it, 
+002:01;C1v[F  ]| I will$1$ cull thee out the fairest Curtezans, 
+002:01;C1v[F  ]| And bring them <reg orig="euery">every</reg> morning to$4$ thy bed:  
+002:01;C1v[F  ]| She whom thine eye shall like$1$, thy heart shall have, 
+002:01;C1v[F  ]| Were she as chaste as was Penelope; 
+002:01;C1v[F  ]| As wise as Saba, or as beautifull 
+002:01;C1v[F  ]| As was bright Lucifer before his fall.  
+002:01;C1v[F  ]| Here, take this booke, and peruse it well:  
+002:01;C1v[F  ]| The Iterating of these lines brings gold; 
+002:01;C1v[F  ]| The framing of this circle on$4$ the ground 
+002:01;C1v[F  ]| Brings Thunder, Whirle-winds, Storme and Lightning:  
+002:01;C1v[F  ]| Pronounce this thrice deuoutly to$4$ thyself, 
+002:01;C1v[F  ]| And men in$4$ harnesse shall appeare to$4$ thee, 
+002:01;C1v[F  ]| Ready to$9$ execute what thou commandst.  
+002:01;C1v[A  ]| Thankes Mephostophilis for$4$ this sweete booke.  
+002:01;C1v[A  ]| This will$1$ I keepe, as chary as my life.  
+002:01;C1v['  ]| Exeunt. 
+002:01;C1v['  ]| Enter Wagner solus. 
+002:01;C1v[B  ]| Learned Faustus 
+002:01;C1v[B  ]| To$9$ know the secrets of Astronomy 
+002:01;C1v[B  ]| Grauen in$4$ the booke of Ioues high firmament, 
+002:01;C1v[B  ]| Did mount himself to$9$ scale Olympus top, 
+002:01;C1v[B  ]| Being seated in$4$ a chariot burning bright, 
+002:01;C1v[B  ]| Drawne by$4$ the strength of yoaky Dragons necks, 
+002:01;C1v[B  ]| He now is gone to$9$ proue Cosmography, 
+002:01;C1v[B  ]| And as I gesse will$1$ first arriue at Rome, 
+002:01;C1v[B  ]| To$9$ see the Pope and manner of his Court; 
+002:01;C1v[B  ]| And take some part of holy Peters feast, 
+002:01;C1v[B  ]| That$6#1$ to$4$ this day is highly solemnized.  
+002:01;C1v['  ]| Exit Wagner. 
+002:02;C1v['  ]| Enter Faustus in$4$ his Study, and Mephostophilis. 
+002:02;C1v[A  ]| When I behold the heauens then I repent 
+002:02;C1v[A  ]| And curse thee wicked Mephostophilis, 
+002:02;C2r[A  ]| Because thou hast depriu'd me of those Ioyes.  
+002:02;C2r[F  ]| It was thine <reg orig="owne">own</reg> seeking Faustus, thanke thyself.  
+002:02;C2r[F  ]| But think'st thou heauen is such a glorious thing?  
+002:02;C2r[F  ]| I tell thee Faustus it is not halfe so$5#1$ fair 
+002:02;C2r[F  ]| As thou, or any man that$6#1$ breathe on$4$ earth.  
+002:02;C2r[A  ]| How prou'st thou that$6#2$?  
+002:02;C2r[F  ]| It was made for$4$ man; then he is more excellent.  
+002:02;C2r[A  ]| If Heauen was made for$4$ man, it was made for$4$ me:  
+002:02;C2r[A  ]| I will$1$ renounce this Magicke and repent.  
+002:02;C2r['  ]| Enter the two Angels. 
+002:02;C2r[C  ]| Faustus repent, yet God will$1$ pitty thee.  
+002:02;C2r[D  ]| Thou art a spirit, God cannot pity thee.  
+002:02;C2r[A  ]| Who$6#2$ buzzeth in$4$ mine eares I am a spirit?  
+002:02;C2r[A  ]| Be I a deuill yet God may pitty me, 
+002:02;C2r[A  ]| Yea, God will$1$ pitty me if I repent.  
+002:02;C2r[D  ]| Aye, but Faustus <reg orig="neuer">never</reg> shall repent.  
+002:02;C2r['  ]| Exit Angels. 
+002:02;C2r[A  ]| My heart is hardned, I cannot repent:  
+002:02;C2r[A  ]| Scarce can I name saluation, faith, or heauen.  
+002:02;C2r[A  ]| Swords, poyson, halters, and inuenomb'd steele, 
+002:02;C2r[A  ]| Are laid before me to$9$ dispatch myself:  
+002:02;C2r[A  ]| And long <reg orig="e're">ere</reg> this, I should have done the deed, 
+002:02;C2r[A  ]| Had not sweete pleasure conquer'd deepe despaire.  
+002:02;C2r[A  ]| Have not I made blind Homer sing to$4$ me 
+002:02;C2r[A  ]| Of Alexanders love, and Oenons death?  
+002:02;C2r[A  ]| And hath not he that$6#1$ built the walles of Thebes, 
+002:02;C2r[A  ]| With rauishing sound of his melodious Harpe, 
+002:02;C2r[A  ]| Made musicke with my Mephostophilis?  
+002:02;C2r[A  ]| Why should I die then, or basely despaire?  
+002:02;C2r[A  ]| I am resolu'd, Faustus shall not repent.  
+002:02;C2r[A  ]| Come Mephostophilis let us$6#2$ dispute again, 
+002:02;C2r[A  ]| And reason of diuine Astrology.  
+002:02;C2r[A  ]| Speak, are there many Spheares above the Moone?  
+002:02;C2r[A  ]| Are all Celestiall bodies but one Globe, 
+002:02;C2r[A  ]| As is the substance of this centricke earth?  
+002:02;C2v[F  ]| As are the elements, such are the heauens, 
+002:02;C2v[F  ]| <reg orig="Euen">Even</reg> from the Moone unto the Emperiall Orbe, 
+002:02;C2v[F  ]| Mutually folded in$4$ each others Spheares, 
+002:02;C2v[F  ]| And iontly moue upon$4$ one Axle-tree, 
+002:02;C2v[F  ]| Whose termine, is tearmed the worlds wide Pole.  
+002:02;C2v[F  ]| Nor are the names of Saturne, Mars, or Iupiter, 
+002:02;C2v[F  ]| Fain'd, but are euening Starres.  
+002:02;C2v[A  ]| But have they all one motion, both <foreign>7situ 7& 7tempore</foreign>?  
+002:02;C2v[F  ]| All moue from East to$4$ West, in$4$ foure*and*twenty 
+002:02;C2v[F  ]| houres, upon$4$ the poles of the world, but differ in$4$ 
+002:02;C2v[F  ]| their motions upon$4$ the poles of the Zodiacke.  
+002:02;C2v[A  ]| These slender questions Wagner can decide:  
+002:02;C2v[A  ]| Hath Mephostophilis no$2$ greater skill?  
+002:02;C2v[A  ]| Who$6#2$ knowes not the double motion of the Planets?  
+002:02;C2v[A  ]| That$3$ the first is finisht in$4$ a naturall day?  
+002:02;C2v[A  ]| The second thus, Saturne in$4$ 30 yeares; 
+002:02;C2v[A  ]| Iupiter in$4$ 12, Mars in$4$ 4, the Sun, Venus, and 
+002:02;C2v[A  ]| Mercury in$4$ a yeare; the Moone in$4$ twenty*eight daies.  
+002:02;C2v[A  ]| These are fresh*mens questions:  But tell me, hath <reg orig="euery">every</reg> 
+002:02;C2v[A  ]| Spheare a Dominion, or 7Intelligentia?  
+002:02;C2v[F  ]| Aye.  
+002:02;C2v[A  ]| How many Heauens, or Spheares, are there?  
+002:02;C2v[F  ]| Nine, the seuen Planets, the Firmament, and the 
+002:02;C2v[F  ]| Emperiall heauen.  
+002:02;C2v[A  ]| But is there not <foreign>7Co*elum 7igneum, 7& 7Christallinum</foreign>?  
+002:02;C2v[F  ]| No$7$ Faustus they be but Fables.  
+002:02;C2v[A  ]| Resolue me then in$4$ this one question:  
+002:02;C2v[A  ]| Why are not Coniunctions, Oppositions, Aspects, Eclipses,  
+002:02;C2v[A  ]| all at one time, but in$4$ some years we$6#2$ have 
+100:04;A2V[U  ]| more, in$4$ some lesse? 
+002:02;C2v[F  ]| <foreign>7Per 7ina*equalem 7motum, 7respectu 7totius</foreign>.  
+002:02;C2v[A  ]| Well, I am answer'd:  now tell me who$6#2$ made the world?  
+002:02;C2v[F  ]| I will$1$ not.  
+002:02;C2v[A  ]| Sweet Mephostophilis tell me.  
+002:02;C2v[F  ]| Moue me not Faustus.  
+002:02;C2v[A  ]| Villaine,  have not I bound thee to$9$ tell me any*thing?  
+002:02;C2v[F  ]| Aye, that$6#1$ is not against our$6#2$ kingdome.  
+002:02;C2v[F  ]| This is:  Thou art damn'd, think thou of hell.  
+002:02;C2v[A  ]| Think Faustus upon$4$ God, that$6#1$ made the world.  
+002:02;C2v[F  ]| Remember this. ~~
+002:02;C2v['  ]| Exit. 
+002:02;C3r[A  ]| Aye, go accursed spirit to$4$ vgly hell:  
+002:02;C3r[A  ]| It is thou hast damn'd distressed Faustus soule. Is it not too late?  
+002:02;C3r['  ]| Enter the two Angels. 
+002:02;C3r[D  ]| Too late.  
+002:02;C3r[C  ]| <reg orig="Neuer">Never</reg> too late, if Faustus will$1$ repent.  
+002:02;C3r[D  ]| If thou repent, deuils will$1$ teare thee in$4$ peeces.  
+002:02;C3r[C  ]| Repent and they shall <reg orig="neuer">never</reg> raise thy skin.  
+002:02;C3r['  ]| Ex.  A. 
+002:02;C3r[A  ]| O Christ my Sauiour, my Sauiour, 
+002:02;C3r[A  ]| Helpe to$9$ saue distressed Faustus soule.  
+002:02;C3r['  ]| Enter Lucifer, Belzebub, and Mephostophilis. 
+002:02;C3r[K  ]| Christ cannot saue thy soule, for$3$ he is iust, 
+002:02;C3r[K  ]| There is none but I have interest in$4$ the same.  
+002:02;C3r[A  ]| O what art thou that$6#1$ look'st so$5#1$ terribly.  
+002:02;C3r[K  ]| I am Lucifer, and this is my companion Prince in$4$ hell.  
+002:02;C3r[A  ]| O Faustus they are come to$9$ fetch thy soule.  
+002:02;C3r[L  ]| We$6#2$ are come to$9$ tell thee thou dost iniure us$6#2$.  
+002:02;C3r[K  ]| Thou calst on$4$ Christ contrary to$4$ thy promise.  
+002:02;C3r[L  ]| Thou <reg orig="'should'st">shouldst</reg> not think on$4$ God.  
+002:02;C3r[K  ]| Think on$4$ the deuill.  
+002:02;C3r[L  ]| And his dam too.  
+002:02;C3r[A  ]| Nor will$1$ Faustus henceforth:  pardon him for$4$ this, 
+002:02;C3r[A  ]| And Faustus vowes <reg orig="neuer">never</reg> to$9$ look to$4$ heauen.  
+002:02;C3r[K  ]| So$5#2$ shalt thou show thyself an obedient seruant, 
+002:02;C3r[K  ]| And we$6#2$ will$1$ highly gratify thee for$4$ it.  
+002:02;C3r[L  ]| Faustus we$6#2$ are come from hell in$4$ person to$9$ shew 
+002:02;C3r[L  ]| thee some pastime:  sit down and thou shalt behold the seuen 
+002:02;C3r[L  ]| deadly sinnes appeare to$4$ thee in$4$ their <reg orig="owne">own</reg> proper shapes  
+002:02;C3r[L  ]| and likenesse.  
+002:02;C3r[A  ]| That$6#2$ sight will$1$ be as pleasant to$4$ me, as Paradise 
+002:02;C3r[A  ]| was to$4$ Adam the first day of his creation.  
+002:02;C3r[K  ]| Talke not of Paradice or Creation, but marke 
+002:02;C3r[K  ]| the shew, go Mephostoph. fetch them in$5$.  
+002:02;C3r['  ]| Enter the 7 deadly sinnes. 
+002:02;C3r[L  ]| Now Faustus, question them of their names and 
+002:02;C3r[L  ]| dispositions.  
+002:02;C3v[A  ]| That$6#2$ shall I soon:  What art thou the first?  
+002:02;C3v[WA ]| I am Pride; I disdaine to$9$ have any parents:  I am  
+002:02;C3v[WA ]| like$4$ to$4$ Ouids Flea, I can creepe into <reg orig="euery">every</reg> corner of a 
+002:02;C3v[WA ]| Wench:  Sometimes, like$4$ a Perriwig, I sit upon$4$ her$2$ 
+002:02;C3v[WA ]| Brow:  next, like$4$ a Necke-lace I hang about her$2$ Necke:  
+002:02;C3v[WA ]| Then, like$4$ a Fan of Feathers, I kisse her$6$; And then turning 
+002:02;C3v[WA ]| myself to$4$ a wrought Smocke do what I list.  But fye, 
+002:02;C3v[WA ]| what a smell is here?  I will$1$ not speak a word more for$4$ a 
+002:02;C3v[WA ]| Kings ransome, vnlesse the ground be perfum'd, and couer'd 
+002:02;C3v[WA ]| with cloth of Arras.  
+002:02;C3v[A  ]| Thou art a proud knaue indeed:  What art thou 
+002:02;C3v[A  ]| the second?  
+002:02;C3v[WB ]| I am Couetousnesse:  begotten of an old Churle 
+002:02;C3v[WB ]| in$4$ a leather bag; and might I now obtaine my wish, this house 
+002:02;C3v[WB ]| you and all, should turne to$4$ Gold, that$6#1$ I might locke you safe 
+002:02;C3v[WB ]| into my Chest:  O my sweete Gold!  
+002:02;C3v[A  ]| And what art thou the third?  
+002:02;C3v[WC ]| I am Enuy, begotten of a Chimney-sweeper, and 
+002:02;C3v[WC ]| an Oyster-wife:  I cannot read, and therefore wish all books 
+002:02;C3v[WC ]| burn'd.  I am leane with seeing others eate:  O that$3$ there 
+002:02;C3v[WC ]| would come a famine over all the world, that$3$ all might die, and 
+002:02;C3v[WC ]| I live alone, then thou <reg orig="'shoul'st">shouldst</reg> see how fat I would be.  But must 
+002:02;C3v[WC ]| thou sit, and I stand?  come down with a vengeance.  
+002:02;C3v[A  ]| Out enuious wretch:  But what art thou the fourth?  
+002:02;C3v[WD ]| I am Wrath:  I had neither father nor mother, I 
+002:02;C3v[WD ]| leapt out of a Lyons mouth when I was scarce an houre old,  
+002:02;C3v[WD ]| and <reg orig="euer">ever</reg> since have runne up$5$ and down the world with these 
+002:02;C3v[WD ]| case of Rapiers, wounding myself when I could get none  
+002:02;C3v[WD ]| to$9$ fight withall: I was borne in$4$ hell, and look to$4$ it, for$3$ some 
+002:02;C3v[WD ]| of you shall be my father.  
+002:02;C3v[AQ ]| And what art thou the fift?  
+002:02;C3v[WE ]| I am Gluttony; my parents are all dead, and the deuill 
+002:02;C3v[WE ]| a peny they have left me, but a small pention, and that$6#2$ 
+002:02;C3v[WE ]| buyes me thirty meales a day, and ten Beauers: a small trifle 
+002:02;C3v[WE ]| to$9$ suffice nature. I come of a Royall Pedigree, my father 
+002:02;C3v[WE ]| was a Gammon of Bacon, and my mother was a Hogs-head 
+002:02;C3v[WE ]| of Claret Wine. My godfathers were these:  Peter-pickeld-herring, 
+002:02;C3v[WE ]| and Martin Martlemasse-beefe:  But my godmother, 
+002:02;C4r[WE ]| O she was an ancient Gentlewoman, her$2$ name was 
+002:02;C4r[WE ]| Margery March-beere:  Now Faustus thou hast heard all my 
+002:02;C4r[WE ]| progeny, wilt thou bid me to$4$ supper?  
+002:02;C4r[A  ]| Not I.  
+002:02;C4r[WE ]| Then the deuill chooke thee.  
+002:02;C4r[A  ]| Choke thyself Glutton:  What art thou the sixt?  
+002:02;C4r[WF ]| Hey ho; I am Sloth:  I was begotten on$4$ a sunny-bank:  
+002:02;C4r[WF ]| hey ho:  I will$1$ not speak a word more for$4$ a kings ransome.  
+002:02;C4r[A  ]| And what are you Mistris Minkes, the seuenth and last?  
+002:02;C4r[WG ]| Who$6#2$ I I sir?  I am one that$6#1$ loues an inch of raw 
+002:02;C4r[WG ]| Mutton, better than an ell of fryde Stockfish:  and the first 
+002:02;C4r[WG ]| letter of my name begins with Letchery.  
+002:02;C4r[K  ]| Away to$4$ hell, away on$5$ piper.  
+002:02;C4r['  ]| Ex% the 7 sinnes. 
+002:02;C4r[A  ]| O how this sight doth delight my soule.  
+002:02;C4r[K  ]| But Faustus, in$4$ hell is all manner of delight.  
+002:02;C4r[A  ]| O might I see hell, and returne again safe, how 
+002:02;C4r[A  ]| happy were I then.  
+002:02;C4r[K  ]| Faustus, thou shalt, at midnight I will$1$ send for$4$ thee; 
+002:02;C4r[K  ]| Meane*while peruse this booke, and view it throughly, 
+002:02;C4r[K  ]| And thou shalt turne thyself into what shape thou wilt.  
+002:02;C4r[A  ]| Thankes mighty Lucifer:  
+002:02;C4r[A  ]| This will$1$ I keepe as chary as my life.  
+002:02;C4r[K  ]| Now Faustus farewell.  
+002:02;C4r[A  ]| Farewell great Lucifer:  come Mephostophilis 
+002:02;C4r['  ]| Exeunt omnes, seuerall waies. 
+002:03;C4r['  ]| Enter the Clowne. 
+002:03;C4r[G  ]| What Dick, look to$4$ the horses there till I come again.  
+002:03;C4r[G  ]| I have gotten one of Doctor Faustus coniuring bookes, and  
+002:03;C4r[G  ]| now we$6#2$ will$1$ have such knauery, as it passes.  
+002:03;C4r['  ]| Enter Dick. 
+002:03;C4r[M  ]| What  Robin, you must come away and walk the horses.  
+002:03;C4r[G  ]| I walke the horses, I scorn it 'faith, I have other 
+002:03;C4r[G  ]| matters in$4$ hand, let the horses walk themselves if they will$1$.  
+002:03;C4r[G  ]| <foreign>7A 7perse 7a, 7t. 7h. 7e 7the:  7o 7per 7se 7o </foreign>
+100:04;A2V[U  ]| <foreign>7deny 7orgon, 7gorgon</foreign>: keepe 
+002:03;C4r[G  ]| further from me O thou illiterate, and vnlearned Hostler.  
+002:03;C4r[M  ]| 'Snayles, what hast thou got there a book?  why thou 
+002:03;C4r[M  ]| canst not tell <reg orig="ne're">never</reg> a word if it.  
+002:03;C4v[G  ]| That$6#2$ thou shalt see presently:  keep out of the circle, 
+002:03;C4v[G  ]| I say, least I send you into the Ostry with a vengeance.  
+002:03;C4v[M  ]| That$6#2$ is like$5$ 'faith:  you had best leaue your foolery, 
+002:03;C4v[M  ]| for$3$ if my Maister come, he will$1$ coniure you 'faith.  
+002:03;C4v[G  ]| My Maister coniure me?  I will$1$ tell thee what, if my 
+002:03;C4v[G  ]| Maister come here, I will$1$ clap as fair a paire of hornes on$4$ his 
+002:03;C4v[G  ]| head as <reg orig="e're">ever</reg> thou sawest in$4$ thy life.  
+002:03;C4v[M  ]| Thou needst not do that$6#2$, for$3$ my  Mistresse hath done it.  
+002:03;C4v[G  ]| Aye, there be of us$6#2$ here, that$6#1$ have waded as deepe into 
+002:03;C4v[G  ]| matters, as other men, if they were disposed to$9$ talke.  
+002:03;C4v[M  ]| A plague take you, I thought you did not sneake 
+002:03;C4v[M  ]| up$5$ and down after her$6$ for$4$ nothing.  But I prethee tell me, in$4$ 
+002:03;C4v[M  ]| good sadnesse Robin, is that$6#2$ a coniuring book?  
+002:03;C4v[G  ]| Do but speak what thou wilt have me to$9$ do, and I will$1$ 
+002:03;C4v[G  ]| do it:  If thou wilt dance naked, put off thy cloathes, and I will$1$ 
+002:03;C4v[G  ]| coniure thee about presently:  Or if thou wilt go but to$4$ the Tauerne 
+002:03;C4v[G  ]| with me, I will$1$ give thee white wine, red wine, claret 
+002:03;C4v[G  ]| wine, Sacke,  Muskadine, Malmesey and Whippincrust, 
+002:03;C4v[G  ]| hold belly hold, and we$6#2$ will$1$ not pay one peny for$4$ it.  
+002:03;C4v[M  ]| O braue, prethee let us$6#2$ to$4$ it presently, for$3$ I am as 
+002:03;C4v[M  ]| dry as a dog.  
+002:03;C4v[G  ]| Come then let us$6#2$ away.  
+002:03;C4v['  ]| Exeunt. 
+002:03;C4v['  ]| Enter the Chorus. 
+002:03;C4v[U  ]| Learned Faustus to$9$ find the secrets of Astronomy, 
+002:03;C4v[U  ]| Grauen in$4$ the booke of Ioues high firmament, 
+002:03;C4v[U  ]| Did mount him up$5$ to$9$ scale Olimpus top.  
+002:03;C4v[U  ]| Where sitting in$4$ a Chariot burning bright, 
+002:03;C4v[U  ]| Drawne by$4$ the strength of yoked Dragons neckes; 
+002:03;C4v[U  ]| He viewes the cloudes, the Planets, and the Starres, 
+002:03;C4v[U  ]| The Tropick, Zones, and quarters of the skye, 
+002:03;C4v[U  ]| From the bright circle of the horned Moone, 
+002:03;C4v[U  ]| <reg orig="Euen">Even</reg> to$4$ the height of <foreign>7Primum 7Mobile</foreign>:  
+002:03;C4v[U  ]| And whirling round with this circumference, 
+002:03;C4v[U  ]| Within$4$ the concaue compasse of the Pole, 
+002:03;C4v[U  ]| From East to$4$ West his Dragons swiftly glide, 
+002:03;C4v[U  ]| And in$4$ eight daies did bring him home again.  
+002:03;D1r[U  ]| Not long he stayed within$4$ his quiet house, 
+002:03;D1r[U  ]| To$9$ rest his bones after his weary toyle, 
+002:03;D1r[U  ]| But new exploits do hale him out <reg orig="agen">again</reg>, 
+002:03;D1r[U  ]| And mounted then upon$4$ a Dragons back, 
+002:03;D1r[U  ]| That$6#1$ with his wings did part the subtle aire:  
+002:03;D1r[U  ]| He now is gone to$9$ proue Cosmography, 
+002:03;D1r[U  ]| That$6#1$ measures costs, and kingdomes of the earth:  
+002:03;D1r[U  ]| And as I guesse will$1$ first arriue at Rome, 
+002:03;D1r[U  ]| To$9$ see the Pope and manner of his Court, 
+002:03;D1r[U  ]| And take some part of holy Peters feast, 
+002:03;D1r[U  ]| The which$6#1$ this day is highly solemnized.  
+002:03;D1r['  ]| Exit. 
+003:01;D1r['  ]| Enter Faustus and Mephostophilis. 
+003:01;D1r[A  ]| Having now my good Mephostophilis, 
+003:01;D1r[A  ]| Past with delight the stately Towne of Trier:  
+003:01;D1r[A  ]| Inuironed round with airy mountaine tops, 
+003:01;D1r[A  ]| With wals of Flint, and deepe intrenched Lakes, 
+003:01;D1r[A  ]| Not to$9$ be wonne by$4$ any conquering Prince.  
+003:01;D1r[A  ]| From Paris next, costing the Realme of France, 
+003:01;D1r[A  ]| We$6#2$ saw the Riuer Maine, fall into Rhines, 
+003:01;D1r[A  ]| Whose bankes are set with Groues of fruitfull Vines.  
+003:01;D1r[A  ]| Than up$5$ to$4$ Naples, rich Campania, 
+003:01;D1r[A  ]| Whose buildings fair, and gorgeous to$4$ the eye, 
+003:01;D1r[A  ]| The streetes straight forth, and paued with finest bricke.  
+003:01;D1r[A  ]| There saw we$6#2$ learned Maroes golden tombe:  
+003:01;D1r[A  ]| The way he cut an English mile in$4$ length, 
+003:01;D1r[A  ]| Through a rocke of stone in$4$ one nights space:  
+003:01;D1r[A  ]| From thence to$4$ Venice, Padua, and the East, 
+003:01;D1r[A  ]| In$4$ one of which$6#1$ a sumptuous Temple stands, 
+003:01;D1r[A  ]| That$6#1$ threates the starres with her$2$ aspiring top, 
+003:01;D1r[A  ]| Whose frame is paued with sundry coloured stones, 
+003:01;D1r[A  ]| And roof't aloft with curious worke in$4$ gold.  
+003:01;D1r[A  ]| Thus hitherto hath Faustus spent his time.  
+003:01;D1r[A  ]| But tell me now, what resting place is this?  
+003:01;D1r[A  ]| Hast thou, as earst I did command, 
+003:01;D1r[A  ]| Conducted me within$4$ the walles of Rome?  
+003:01;D1r[F  ]| I have my Faustus, and for$4$ proofe thereof, 
+003:01;D1v[F  ]| This is the goodly Palace of the Pope:  
+003:01;D1v[F  ]| And cause we$6#2$ are no$2$ common guests, 
+003:01;D1v[F  ]| I chuse his priuy chamber for$4$ our$6#2$ vse.  
+003:01;D1v[A  ]| I hope his Holinesse will$1$ bid us$6#2$ welcome.  
+003:01;D1v[F  ]| All is one, for$3$ we$6#2$ will$1$ be bold with his Venson.  
+003:01;D1v[F  ]| But now my Faustus, that$3$ thou mayst perceiue, 
+003:01;D1v[F  ]| What Rome containes for$3$ to$9$ delight thine eyes.  
+003:01;D1v[F  ]| Know that$3$ this City stands upon$4$ seuen hils, 
+003:01;D1v[F  ]| That$6#1$ vnderprop the ground-worke of the same:  
+003:01;D1v[F  ]| Iust through the midst runnes flowing Tybers streame, 
+003:01;D1v[F  ]| With winding bankes that$6#1$ cut it in$4$ two parts; 
+003:01;D1v[F  ]| Over the which$6#1$ two stately Bridges leane, 
+003:01;D1v[F  ]| That$6#1$ make safe passage, to$4$ each part of Rome.  
+003:01;D1v[F  ]| Upon$4$ the Bridge, call'd Ponto Angelo, 
+003:01;D1v[F  ]| Erected is a Castle passing strong, 
+003:01;D1v[F  ]| Where thou shalt see such store of Ordinance, 
+003:01;D1v[F  ]| As that$3$ the double Cannons forg'd of brasse, 
+003:01;D1v[F  ]| Do watch the number of the daies contain'd, 
+003:01;D1v[F  ]| Within the compasse of one compleat yeare:  
+003:01;D1v[F  ]| Beside the gates, and high Pyramydes, 
+003:01;D1v[F  ]| That$6#1$ Iulius Ca*esar brought from Affrica.  
+003:01;D1v[A  ]| Now by$4$ the Kingdomes of Infernall Rule, 
+003:01;D1v[A  ]| Of Stix, of Archeron, and the fiery Lake, 
+003:01;D1v[A  ]| Of euer-burning Phlegeton, I sweare, 
+003:01;D1v[A  ]| That$3$ I do long to$9$ see the Monuments 
+003:01;D1v[A  ]| And situation of bright splendent Rome, 
+003:01;D1v[A  ]| Come therefore, let us$6#2$ away.  
+003:01;D1v[F  ]| Nay stay my Faustus:  I know you would see the Pope 
+003:01;D1v[F  ]| And take some part of holy Peters feast, 
+003:01;D1v[F  ]| The which$6#1$ this day with high solemnity, 
+003:01;D1v[F  ]| This day is held through Rome and Italy, 
+003:01;D1v[F  ]| In$4$ honour of the Popes triumphant victory.  
+003:01;D1v[A  ]| Sweet Mephosto. thou pleasest me 
+003:01;D1v[A  ]| Whilst I am here on$4$ earth:  Let me be cloyd 
+003:01;D1v[A  ]| With all things that$6#1$ delight the heart of man.  
+003:01;D1v[A  ]| My foure*and*twenty yeares of liberty 
+003:01;D1v[A  ]| I will$1$ spend in$4$ pleasure and in$4$ daliance, 
+003:01;D1v[A  ]| That$3$ Faustus name, whilst this bright frame doth stand, 
+003:01;D2r[A  ]| May be admired through the furthest land.  
+003:01;D2r[F  ]| It is well said Faustus, come then stand by$4$ me 
+003:01;D2r[F  ]| And thou shalt see them come immediately.  
+003:01;D2r[A  ]| Nay stay my gentle Mephotosophilis, 
+003:01;D2r[A  ]| And grant me my request, and then I go.  
+003:01;D2r[A  ]| Thou know'st within$4$ the compasse of eight daies, 
+003:01;D2r[A  ]| We$6#2$ veiw'd the face of heauen, of earth and hell.  
+003:01;D2r[A  ]| So$5#1$ high our$6#2$ Dragons soar'd into the aire, 
+003:01;D2r[A  ]| That$3$ looking down the earth appear'd to$4$ me, 
+003:01;D2r[A  ]| No$2$ bigger than my hand in$4$ quantity.  
+003:01;D2r[A  ]| There did we$6#2$ view the Kingdomes of the world, 
+003:01;D2r[A  ]| And what might please mine eye, I there beheld.  
+003:01;D2r[A  ]| Then in$4$ this shew let me an Actor be, 
+003:01;D2r[A  ]| That$3$ this proud Pope may Faustus comming see.  
+003:01;D2r[F  ]| Let it be so$5#2$ my Faustus, but first stay, 
+003:01;D2r[F  ]| And view their triumphs, as they passe this way.  
+003:01;D2r[F  ]| And then deuise what best contents thy minde, 
+003:01;D2r[F  ]| By$4$ comming in$4$ thine Arts to$9$ crosse the Pope, 
+003:01;D2r[F  ]| Or dash the pride of this solemnity; 
+003:01;D2r[F  ]| To$9$ make his Monkes and Abbots stand like$4$ Apes, 
+003:01;D2r[F  ]| And point like$4$ Antiques at his triple Crowne:  
+003:01;D2r[F  ]| To$9$ beate the Beades about the Friers Pates, 
+003:01;D2r[F  ]| Or clap huge hornes, upon$4$ the Cardinals heads:  
+003:01;D2r[F  ]| Or any villany thou canst deuise, 
+003:01;D2r[F  ]| And I will$1$ performe it Faustus:  heark they come:  
+003:01;D2r[F  ]| This day shall make thee be admir'd in$4$ Rome.  
+003:01;D2r['  ]| Enter the Cardinals and Bishops, some bearing Crosiers, some 
+003:01;D2r['  ]| the Pillars, Monkes and Friers, singing their Procession: 
+003:01;D2r['  ]| Then the Pope, and Raymond King of Hungary, 
+003:01;D2r['  ]| with Bruno led in$4$ chaines. 
+003:01;D2r[N  ]| Cast down our$6#1$ Foot-stoole.  
+003:01;D2r[WH ]| Saxon Bruno stoope, 
+003:01;D2r[WH ]| Whilst on$4$ thy back his hollinesse ascends 
+003:01;D2r[WH ]| Saint Peters Chaire and State Pontificall.  
+003:01;D2r[O  ]| Proud Lucifer, that$6#2$ State belongs to$4$ me:  
+003:01;D2r[O  ]| But thus I fall to$4$ Peter, not to$4$ thee.  
+003:01;D2v[N  ]| To$4$ me and Peter, shalt thou groueling lie, 
+003:01;D2v[N  ]| And crouch before the Papall dignity:  
+003:01;D2v[N  ]| Sound Trumpets then, for$3$ thus Saint Peters Heire, 
+003:01;D2v[N  ]| From Bruno's back, ascends Saint Peters Chaire.  
+003:01;D2v['  ]| A Flourish while he ascends. 
+003:01;D2v[N  ]| Thus, as the Gods, creepe on$5$ with feete of wood, 
+003:01;D2v[N  ]| Long ere with Iron hands they punish men, 
+003:01;D2v[N  ]| So$5#2$ shall our$6#1$ sleeping vengeance now arise, 
+003:01;D2v[N  ]| And smite with death thy hated enterprise.  
+003:01;D2v[N  ]| Lord Cardinals of France and Padua, 
+003:01;D2v[N  ]| Go forth-with to$4$ our$6#1$ holy Consistory, 
+003:01;D2v[N  ]| And read amongst the Statutes Decretall, 
+003:01;D2v[N  ]| What by$4$ the holy Councell held at Trent, 
+003:01;D2v[N  ]| The sacred Sinod hath decreed for$4$ him, 
+003:01;D2v[N  ]| That$6#1$ doth assume the Papall gouernment, 
+003:01;D2v[N  ]| Without election, and a true consent:  
+003:01;D2v[N  ]| Away and bring us$6#1$ word with speed.  
+003:01;D2v[W  ]| We$6#2$ go my Lord.  
+003:01;D2v['  ]| Exeunt Cardinals. 
+003:01;D2v[N  ]| Lord Raymond.  
+003:01;D2v[A  ]| Go haste thee gentle Mephostophilis, 
+003:01;D2v[A  ]| Follow the Cardinals to$4$ the Consistory; 
+003:01;D2v[A  ]| And as they turne their superstitious Bookes, 
+003:01;D2v[A  ]| Strike them with sloth, and drowsy idlenesse; 
+003:01;D2v[A  ]| And make them sleepe so$5#1$ sound, that$3$ in$4$ their shapes, 
+003:01;D2v[A  ]| Thyself and I, may parly with this Pope:  
+003:01;D2v[A  ]| This proud confronter of the Emperour, 
+003:01;D2v[A  ]| And in$4$ despite of all his Holinesse 
+003:01;D2v[A  ]| Restore this Bruno to$4$ his liberty, 
+003:01;D2v[A  ]| And beare him to$4$ the States of Germany.  
+003:01;D2v[F  ]| Faustus, I go.  
+003:01;D2v[A  ]| Dispath it soon, 
+003:01;D2v[A  ]| The Pope shall curse that$3$ Faustus came to$4$ Rome.  
+003:01;D2v['  ]| Exit Faustus and Meph. 
+003:01;D2v[O  ]| Pope Adrian let me have some right of Law, 
+003:01;D2v[O  ]| I was elected by$4$ the Emperour.  
+003:01;D2v[N  ]| We$6#1$ will$1$ depose the Emperour for$4$ that$6#2$ deed, 
+003:01;D2v[N  ]| And curse the people that$6#1$ submit to$4$ him; 
+003:01;D2v[N  ]| Both he and thou shalt stand excommunicate, 
+003:01;D3r[N  ]| And interdict from Churches priuiledge, 
+003:01;D3r[N  ]| And all society of holy men:  
+003:01;D3r[N  ]| He growes too prowd in$4$ his authority, 
+003:01;D3r[N  ]| Lifting his loftie head above the clouds, 
+003:01;D3r[N  ]| And like$4$ a Steeple ouer-peeres the Church.  
+003:01;D3r[N  ]| But we$6#1$ will$1$ pul down his haughty insolence:  
+003:01;D3r[N  ]| And as Pope Alexander our$6#1$ Progenitour, 
+003:01;D3r[N  ]| Trode on$4$ the neck of Germane Fredericke, 
+003:01;D3r[N  ]| Adding this golden sentence to$4$ our$6#1$ praise; 
+003:01;D3r[N  ]| That$3$ Peters heires should tread on$4$ Emperours, 
+003:01;D3r[N  ]| And walke upon$4$ the dreadfull Adders back, 
+003:01;D3r[N  ]| Treading the Lyon, and the Dragon down.  
+003:01;D3r[N  ]| And fearelesse spurne the killing Basiliske:  
+003:01;D3r[N  ]| So$5#2$ will$1$ we$6#1$ quell that$6#2$ haughty Schismatique; 
+003:01;D3r[N  ]| And by$4$ authority Apostolicall 
+003:01;D3r[N  ]| Depose him from his Regal Gouernment.  
+003:01;D3r[O  ]| Pope Iulius swore to$4$ Princely Sigismond, 
+003:01;D3r[O  ]| For$4$ him, and the succeeding Popes of Rome, 
+003:01;D3r[O  ]| To$9$ hold the Emperours their lawfull Lords.  
+003:01;D3r[N  ]| Pope Iulius did abuse the Churches Rites, 
+003:01;D3r[N  ]| And therefore none of his Decrees can stand.  
+003:01;D3r[N  ]| Is not all power on$4$ earth bestowed on$4$ us$6#1$?  
+003:01;D3r[N  ]| And therefore though we$6#1$ would we$6#1$ cannot erre.  
+003:01;D3r[N  ]| Behold this Siluer Belt whereto is fixt 
+003:01;D3r[N  ]| Seuen golden seales fast sealed with seuen seales, 
+003:01;D3r[N  ]| In$4$ token of our$6#1$ seuen-fold power from heauen, 
+003:01;D3r[N  ]| To$9$ binde or loose, lock fast, condemne, or iudge, 
+003:01;D3r[N  ]| Resigne, or seale, or what so$5#2$ pleaseth us$6#1$.  
+003:01;D3r[N  ]| Then he and thou, and all the world shall stoope, 
+003:01;D3r[N  ]| Or be assured of our$6#1$ dreadfull curse, 
+003:01;D3r[N  ]| To$9$ light as heauy as the paines of hell.  
+003:01;D3r['  ]| Enter Faustus and Mephosto% like$4$ the Cardinals. 
+003:01;D3r[F  ]| Now tell me Faustus, are we$6#2$ not fitted well?  
+003:01;D3r[A  ]| Yes Mephosto% and two such Cardinals 
+003:01;D3r[A  ]| <reg orig="Ne're">Never</reg> seru'd a holy Pope, as we$6#2$ shall do.  
+003:01;D3r[A  ]| But whilst they sleepe within$4$ the Consistory, 
+003:01;D3v[A  ]| Let us$6#2$ salute his reuerend Father-hood.  
+003:01;D3v[WH ]| Behold my Lord, the Cardinals are return'd.  
+003:01;D3v[N  ]| Welcome graue Fathers, answere presently, 
+003:01;D3v[N  ]| What have our$6#1$ holy Councell there decreed, 
+003:01;D3v[N  ]| Concerning Bruno and the Emperour, 
+003:01;D3v[N  ]| In$4$ quittance of their late conspiracie 
+003:01;D3v[N  ]| Against our$6#1$ State, and Papall dignitie?  
+003:01;D3v[A  ]| Most sacred Patron of the Church of Rome, 
+003:01;D3v[A  ]| By$4$ full consent of all the Synod 
+003:01;D3v[A  ]| Of Priests and Prelates, it is thus decreed:  
+003:01;D3v[A  ]| That$3$ Bruno, and the Germane Emperour 
+003:01;D3v[A  ]| Be held as Lollords, and bold Schismatiques, 
+003:01;D3v[A  ]| And proud disturbers of the Churches peace.  
+003:01;D3v[A  ]| And if that$3$ Bruno by$4$ his own assent, 
+003:01;D3v[A  ]| Without inforcement of the German Peeres, 
+003:01;D3v[A  ]| Did seeke to$9$ weare the triple Dyadem, 
+003:01;D3v[A  ]| And by$4$ your death to$9$ clime S% Peters Chaire, 
+003:01;D3v[A  ]| The Statutes Decretall have thus decreed, 
+003:01;D3v[A  ]| He shall be streight condemn'd of heresie, 
+003:01;D3v[A  ]| And on$4$ a pile of Fagots burnt to$4$ death.  
+003:01;D3v[N  ]| It is enough:  here, take him to$4$ your charge, 
+003:01;D3v[N  ]| And beare him streight to$4$ Ponto Angelo, 
+003:01;D3v[N  ]| And in$4$ the strongest Tower inclose him fast, 
+003:01;D3v[N  ]| Tomorrow, sitting in$4$ our$6#1$ Consistory, 
+003:01;D3v[N  ]| With all our$6#1$ Colledge of graue Cardinals, 
+003:01;D3v[N  ]| We$6#1$ will$1$ determine of his life or death.  
+003:01;D3v[N  ]| Here, take his triple Crowne along with you, 
+003:01;D3v[N  ]| And leaue it in$4$ the Churches treasury.  
+003:01;D3v[N  ]| Make haste again, my good Lord Cardinalls, 
+003:01;D3v[N  ]| And take our$6#1$ blessing Apostolicall.  
+003:01;D3v[F  ]| So$3$, so$3$, was <reg orig="neuer">never</reg> Diuell thus blest before.  
+003:01;D3v[A  ]| Away sweet Mephosto, be gone, 
+003:01;D3v[A  ]| The Cardinals will$1$ be plagu'd for$4$ this anon.  
+003:01;D3v['  ]| Ex% Fa% and Mep% 
+003:01;D3v[N  ]| Go presently, and bring a banket forth, 
+003:01;D3v[N  ]| That$3$ we$6#1$ may solemnize S% Peters feast, 
+003:01;D3v[N  ]| And with Lord Raymond, King of Hungary, 
+003:01;D3v[N  ]| Drinke to$4$ our$6#1$ late and happy victory.  
+003:01;D3v['  ]| Exeunt. 
+003:02;D4r['  ]| A Senit while the Banquet is brought in$5$; and then Enter 
+003:02;D4r['  ]| Faustus and Mephastophilis in$4$ their own 
+003:02;D4r['  ]| shapes. 
+003:02;D4r[F  ]| Now Faustus, come prepare thyself for$4$ mirth, 
+003:02;D4r[F  ]| The sleepy Cardinals are hard at hand, 
+003:02;D4r[F  ]| To$9$ censure Bruno, that$6#1$ is posted hence, 
+003:02;D4r[F  ]| And on$4$ a proud*pac'd Steed, as swift as thought, 
+003:02;D4r[F  ]| Flies <reg orig="ore">over</reg> the Alpes to$4$ fruitfull Germany, 
+003:02;D4r[F  ]| There to$9$ salute the wofull Emperour.  
+003:02;D4r[A  ]| The Pope will$1$ curse them for$4$ their sloth today.  
+003:02;D4r[A  ]| That$6#1$ slept both Bruno and his crowne away, 
+003:02;D4r[A  ]| But now, that$3$ Faustus may delight his minde, 
+003:02;D4r[A  ]| And by$4$ their folly make some merriment, 
+003:02;D4r[A  ]| Sweet Mephasto: so$5#2$ charme me here, 
+003:02;D4r[A  ]| That$3$ I may walke inuisible to$4$ all, 
+003:02;D4r[A  ]| And do <reg orig="what ere">whatever</reg> I please, vnseene of any.  
+003:02;D4r[F  ]| Faustus thou shalt, then kneele down presently, 
+003:02;D4r[F  ]| Whilst on$4$ thy head I lay my hand, 
+003:02;D4r[F  ]| And charme thee with this Magicke wand, 
+003:02;D4r[F  ]| First weare this girdle, then appeare 
+003:02;D4r[F  ]| Inuisible to$4$ all are here: 
+003:02;D4r[F  ]| The Planets seuen, the gloomy aire, 
+003:02;D4r[F  ]| Hell and the Furies forked haire, 
+003:02;D4r[F  ]| Pluto's blew fire, and Hecat's tree, 
+003:02;D4r[F  ]| With Magicke spels to$9$ compasse thee, 
+003:02;D4r[F  ]| That$3$ no$2$ eye may thy body see. 
+003:02;D4r[F  ]| So$3$ Faustus, now for$4$ all their holinesse, 
+003:02;D4r[F  ]| Do what thou wilt, thou shalt not be discern'd.  
+003:02;D4r[A  ]| Thankes Mephosto: now Friers take heed, 
+003:02;D4r[A  ]| Lest Faustus make your shauen crownes to$9$ bleed.  
+003:02;D4r[F  ]| Faustus no$2$ more:  see where the Cardinals come.  
+003:02;D4r['  ]| Enter Pope and all the Lords.  Enter the Cardinals 
+003:02;D4r['  ]| with a Booke. 
+003:02;D4r[N  ]| Welcome Lord Cardinals:  come sit down.  
+003:02;D4v[N  ]| Lord Raymond, take your seate, Friers attend, 
+003:02;D4v[N  ]| And see that$3$ all things be in$4$ readinesse, 
+003:02;D4v[N  ]| As best beseemes this solemne festiuall.  
+003:02;D4v[WI ]| First, may it please your sacred Holinesse, 
+003:02;D4v[WI ]| To$9$ view the sentence of the reuerend Synod, 
+003:02;D4v[WI ]| Concerning Bruno and the Emperour.  
+003:02;D4v[N  ]| What needs this question?  Did I not tell you, 
+003:02;D4v[N  ]| Tomorrow we$6#1$ would sit in$4$ the Consistory, 
+003:02;D4v[N  ]| And there determine of his punishment?  
+003:02;D4v[N  ]| You brought us$6#1$ word <reg orig="euen">even</reg> now, it was decreed, 
+003:02;D4v[N  ]| That$3$ Bruno and the cursed Emperour 
+003:02;D4v[N  ]| Were by$4$ the holy Councell both condemn'd 
+003:02;D4v[N  ]| For$4$ lothed Lollords, and base Schismatiques:  
+003:02;D4v[N  ]| Then wherefore would you have me view that$6#2$ booke?  
+003:02;D4v[WI ]| Your Grace mistakes, you gaue us$6#2$ no$2$ such charge.  
+003:02;D4v[WH ]| Deny it not, we$6#2$ all are witnesses 
+003:02;D4v[WH ]| That$3$ Bruno here was late deliuered you, 
+003:02;D4v[WH ]| With his rich triple crowne to$9$ be reseru'd, 
+003:02;D4v[WH ]| And put into the Churches treasury.  
+003:02;D4v[X  ]| By$4$ holy Paul we$6#2$ saw them not.  
+003:02;D4v[N  ]| By$4$ Peter you shall dye, 
+003:02;D4v[N  ]| Vnlesse you bring them forth immediately:  
+003:02;D4v[N  ]| Hale them to$4$ prison, lade their limbes with gyues:  
+003:02;D4v[N  ]| False Prelates, for$4$ this hatefull treachery, 
+003:02;D4v[N  ]| Curst be your soules to$4$ hellish misery.  
+003:02;D4v[A  ]| So$3$, they are safe:  now Faustus to$4$ the feast, 
+003:02;D4v[A  ]| The Pope had <reg orig="neuer">never</reg> such a frolicke guest.  
+003:02;D4v[N  ]| Lord Archbishop of Reames, sit down with us$6#1$.  
+003:02;D4v[WK ]| I thanke your Holinesse.  
+003:02;D4v[A  ]| Fall to$5$, the Diuell choke you if you spare.  
+003:02;D4v[N  ]| Who$6#2$ is that$6#2$ spoke?  Friers look about, 
+003:02;D4v[N  ]| Lord Raymond pray fall to$5$, I am beholding 
+003:02;D4v[N  ]| To$4$ the Bishop of Millaine, for$4$ this so$5#1$ rare a present.  
+003:02;D4v[A  ]| I thanke you sir.  
+003:02;D4v[N  ]| How now?  who$6#2$ snatch't the meat from me!  
+003:02;D4v[N  ]| Villaines why speak you not?  
+003:02;D4v[N  ]| My good Lord Archbishop, here is a most daintie dish, 
+003:02;D4v[N  ]| Was sent me from a Cardinall in$4$ France.  
+003:02;E1r[A  ]| I will$1$ have that$6#2$ too.  
+003:02;E1r[N  ]| What Lollards do attend our$6#1$ Hollinesse, 
+003:02;E1r[N  ]| That$3$ we$6#1$ receiue such great indignity?  fetch me some wine.  
+003:02;E1r[A  ]| Aye, pray do, for$3$ Faustus is a*dry.  
+003:02;E1r[N  ]| Lord Kaymond, I drink unto your grace.  
+003:02;E1r[A  ]| I pledge your grace.  
+003:02;E1r[N  ]| My wine gone too?  ye Lubbers look about 
+003:02;E1r[N  ]| And find the man that$6#1$ doth this villany, 
+003:02;E1r[N  ]| Or by$4$ our$6#1$ sanctitude you all shall die.  
+003:02;E1r[N  ]| I pray my Lords have patience at this 
+003:02;E1r[N  ]| Troublesome banquet.  
+003:02;E1r[WK ]| Please it your holinesse, I think it be some Ghost 
+003:02;E1r[WK ]| crept out of Purgatory, and now is come unto your holinesse 
+003:02;E1r[WK ]| for$4$ his pardon.  
+003:02;E1r[N  ]| It may be so$5#2$:  
+003:02;E1r[N  ]| Go then command our$6#1$ Priests to$9$ sing a Dirge, 
+003:02;E1r[N  ]| To$9$ lay the fury of this same troublesome ghost.  
+003:02;E1r[A  ]| How now?  must <reg orig="euery">every</reg> bit be spiced with a Crosse?  
+003:02;E1r[A  ]| Nay then take that$6#2$.  
+003:02;E1r[N  ]| O I am slaine, help me my lords:  
+003:02;E1r[N  ]| O come and help to$9$ beare my body hence:  
+003:02;E1r[N  ]| Damb'd be this soule <reg orig="for euer">forever</reg>, for$4$ this deed.  
+003:02;E1r['  ]| Exeunt the Pope and his traine. 
+003:02;E1r[F  ]| Now Faustus, what will$1$ you do now?  for$3$ I can tell you 
+003:02;E1r[F  ]| You will$1$ be curst with Bell, Booke, and Candle.  
+003:02;E1r[A  ]| Bell, Booke, and Candle; Candle, Booke, and Bell, 
+003:02;E1r[A  ]| Forward and backward, to$9$ curse Faustus to$4$ hell.  
+003:02;E1r['  ]| Enter the Friers with Bell, Booke, and Candle, 
+003:02;E1r['  ]| for$4$ the Dirge. 
+003:02;E1r[WL ]| Come brethren, let us$6#2$ about our$6#2$ businesse with  
+003:02;E1r[WL ]| good deuotion.  
+003:02;E1r[WL ]| Cursed be he that$6#1$ stole his holinesse meate from the Table. 
+003:02;E1r[WL ]| <foreign>7Maledicat 7Dominus</foreign>. 
+003:02;E1r[WL ]| Cursed be he that$6#1$ stroke his holinesse a blow the face. 
+003:02;E1r[WL ]| <foreign>7Maledicat 7Dominus</foreign>. 
+003:02;E1v[WL ]| Cursed be he that$6#1$ strucke fryer Sandelo a blow on$4$ the pate. 
+003:02;E1v[WL ]| <foreign>7Maledicat 7Dom</foreign>. 
+003:02;E1v[WL ]| Cursed be he that$6#1$ disturbeth our$6#2$ holy Dirge. 
+003:02;E1v[WL ]| <foreign>7Maledicat 7Dom</foreign>. 
+003:02;E1v[WL ]| Cursed be he that$6#1$ tooke away his holinesse wine. 
+003:02;E1v[WL ]| <foreign>7Maledicat 7Dom</foreign>. 
+003:02;E1v['  ]| Beate the Friers, fling fire worke among them, 
+003:02;E1v['  ]| and Exeunt.
+003:03;E1v['  ]| Enter Clowne and Dicke, with a Cup. 
+003:03;E1v[M  ]| Sirra Robin, we$6#2$ were best look that$3$ your deuill 
+003:03;E1v[M  ]| can answere the stealing of this same cup, for$3$ the Vintners 
+003:03;E1v[M  ]| boy followes us$6#2$ at the hard heeles.  
+003:03;E1v[G  ]| It is no$2$ matter, let him come; if he follow us$6#2$, I will$1$ so$5#1$ 
+003:03;E1v[G  ]| coniure him, as he was <reg orig="neuer">never</reg> coniur'd in$4$ his life, I warrant 
+003:03;E1v[G  ]| him:  let me see the cup.  
+003:03;E1v['  ]| Enter Vintner. 
+003:03;E1v[M  ]| Here it is:  Yonder he comes:  Now Robin, now or 
+003:03;E1v[M  ]| <reg orig="neuer">never</reg> shew thy cunning.  
+003:03;E1v[WM ]| O, are you here?  I am glad I have found you, you 
+003:03;E1v[WM ]| are a couple of fine companions:  pray where is the cup you 
+003:03;E1v[WM ]| stole from the Tauerne?  
+003:03;E1v[G  ]| How, how?  we$6#2$ steale a cup?  take heed what you say, 
+003:03;E1v[G  ]| we$6#2$ look not like$4$ cup-stealers I can tell you.  
+003:03;E1v[WM ]| <reg orig="Neuer">Never</reg> deny it, for$3$ I know you have it, and I will$1$  
+003:03;E1v[WM ]| search you.  
+003:03;E1v[G  ]| Search me?  Aye and spare not:  hold the cup Dick,  
+003:03;E1v[G  ]| come, come, searche me, search me.  
+003:03;E1v[WM ]| Come on$5$ sirra, let me search you now.  
+003:03;E1v[M  ]| Aye, aye, do, do, hold the cup Robin, I feare not your 
+003:03;E1v[M  ]| searching; we$6#2$ scorne to$9$ steale your cups I can tell you.  
+003:03;E1v[WM ]| <reg orig="Neuer">Never</reg> out*face me for$4$ the matter, for$3$ sure the cup is 
+003:03;E1v[WM ]| <reg orig="betweene">between</reg> you two.  
+003:03;E1v[G  ]| Nay there you lie, it is beyond us$6#2$ both.  
+003:03;E2r[WM ]| A plague take you, I thought it was your knauery 
+003:03;E2r[WM ]| to$9$ take it away:  Come, give it me again.  
+003:03;E2r[G  ]| Aye much, when can you tell:  Dick, make me a circle, 
+003:03;E2r[G  ]| and stand close at my back, and stir not for$4$ thy life, Vintner 
+003:03;E2r[G  ]| you shall have your cup anon, say nothing Dick:  <foreign>7O 7per </foreign>
+003:03;E2r[G  ]| <foreign>7se 7o 7demorgorgon</foreign>, Belcher and Mephostophilis.  
+003:03;E2r['  ]| Enter Mephostophilis. 
+003:03;E2r[F  ]| You Princely Legions of infernall Rule, 
+003:03;E2r[F  ]| How am I vexed by$4$ these villaines Charmes?  
+003:03;E2r[F  ]| From Constantinople have they brought me now, 
+003:03;E2r[F  ]| Onely for$4$ pleasure of these damned slaues.  
+003:03;E2r[G  ]| By$4$ Lady sir, you have had a shroud iourney of it, 
+003:03;E2r[G  ]| will$1$ it please you to$9$ take a shoulder of Mutton to$4$ supper, and 
+003:03;E2r[G  ]| a Tester in$4$ your purse, and go back again.  
+003:03;E2r[M  ]| Aye, I pray you heartily sir; for$3$ we$6#2$ cal'd you but in$4$ 
+003:03;E2r[M  ]| ieast I promise you.  
+003:03;E2r[F  ]| To$9$ purge the rashnesse of this cursed deed, 
+003:03;E2r[F  ]| First, be thou turned to$4$ this vgly shape, 
+003:03;E2r[F  ]| For$4$ Apish deeds transformed to$4$ an Ape.  
+003:03;E2r[G  ]| O braue, an Ape?  I pray sir, let me have the carrying 
+003:03;E2r[G  ]| of him about to$9$ shew some trickes.  
+003:03;E2r[F  ]| And so$5#2$ thou shalt:  be thou transform'd to$4$ a dog, and 
+003:03;E2r[F  ]| carry him upon$4$ thy back; away be gone.  
+003:03;E2r[G  ]| A dog?  that$6#2$ is excellent:  let the Maids look well to$4$ 
+003:03;E2r[G  ]| their porridge-pots, for$3$ I will$1$ into the Kitchin presently:  come 
+003:03;E2r[G  ]| Dick, come.  
+003:03;E2r['  ]| Exeunt the two Clownes. 
+003:03;E2r[F  ]| Now with the flames of euer-burning fire, 
+003:03;E2r[F  ]| I will$1$ wing myself and forth-with flie amaine 
+003:03;E2r[F  ]| Unto my Faustus to$4$ the great Turkes Court.  
+003:03;E2r['  ]| Exit. 
+004:01;E2r['  ]| Enter Martino, and Frederick at seuerall dores. 
+004:01;E2r[P  ]| What ho, Officers, Gentlemen, 
+004:01;E2r[P  ]| Hye to$4$ the presence to$9$ attend the Emperour, 
+004:01;E2r[P  ]| Good Fredericke see the roomes be voyded straight, 
+004:01;E2v[P  ]| His Maiesty is comming to$4$ the Hall; 
+004:01;E2v[P  ]| Go back, and see the State in$4$ readinesse.  
+004:01;E2v[Q  ]| But where is Bruno our$6#2$ elected Pope, 
+004:01;E2v[Q  ]| That$6#1$ on$4$ a furies back came post from Rome, 
+004:01;E2v[Q  ]| Will$1$ not his grace consort the Emperour.  
+004:01;E2v[P  ]| O yes, and with him comes the Germane Coniurer.  
+004:01;E2v[P  ]| The learned Faustus, same of Wittenberge, 
+004:01;E2v[P  ]| The wonder of the world for$4$ Magick Art&H0;; 
+004:01;E2v[P  ]| And he intends to$9$ shew great Carolus, 
+004:01;E2v[P  ]| The race of all his stout progenitors; 
+004:01;E2v[P  ]| And bring in$4$ presence of his Maiesty, 
+004:01;E2v[P  ]| The royall shapes and warlike semblances 
+004:01;E2v[P  ]| Of Alexander and his beauteous Paramour.  
+004:01;E2v[Q  ]| Where is Benuolio?  
+004:01;E2v[P  ]| Fast a*sleepe I warrant you, 
+004:01;E2v[P  ]| He took his rouse with stopes of Rhennish wine, 
+004:01;E2v[P  ]| So$5#1$ kindly yesternight to$4$ Bruno's health, 
+004:01;E2v[P  ]| That$3$ all this day the sluggard keepes his bed.  
+004:01;E2v[Q  ]| See, see his window is ope, we$6#2$ will$1$ call to$4$ him.  
+004:01;E2v[P  ]| What hoe, Benuolio.  
+004:01;E2v['  ]| Enter Benuolio above at a window, in$4$ his 
+004:01;E2v['  ]| nightcap:  buttoning. 
+004:01;E2v[R  ]| What a deuill ayle you two?  
+004:01;E2v[P  ]| Speak softly sir, least the deuil hear you:  
+004:01;E2v[P  ]| For$3$ Faustus at the Court is late arriu'd, 
+004:01;E2v[P  ]| And at his heeles a thousand furies waite, 
+004:01;E2v[P  ]| To$9$ accomplish <reg orig="what soeuer">whatsoever</reg>- the Doctor please.  
+004:01;E2v[R  ]| What of this?  
+004:01;E2v[P  ]| Come leaue thy chamber first, and thou shalt see 
+004:01;E2v[P  ]| This Coniurer performe such rare exploits, 
+004:01;E2v[P  ]| Before the Pope and royall Emperour, 
+004:01;E2v[P  ]| As <reg orig="neuer">never</reg> yet was seene in$4$ Germany.  
+004:01;E2v[R  ]| Has not the Pope enough of coniuring yet?  
+004:01;E2v[R  ]| He was upon$4$ the deuils back late enough; 
+004:01;E2v[R  ]| And if he be so$5#1$ farre in$4$ love with him, 
+004:01;E3r[R  ]| I would he would post with him to$4$ Rome again.  
+004:01;E3r[Q  ]| Speak, wilt thou come and see this sport?  
+004:01;E3r[R  ]| Not I.  
+004:01;E3r[P  ]| Wilt thou stand in$4$ thy Window, and see it then?  
+004:01;E3r[R  ]| Aye, if I fall not asleepe in$4$ the meane time.  
+004:01;E3r[P  ]| The Emperour is at hand, who$6#1$ comes to$9$ see 
+004:01;E3r[P  ]| What wonders by$4$ blacke spels may compast be.  
+004:01;E3r[R  ]| Well, go you attend the Emperour:  I am content 
+004:01;E3r[R  ]| for$4$ this once to$9$ thrust my head out at a window:  for$3$ they say, 
+004:01;E3r[R  ]| if a man be drunke ouer*night, the Diuell cannot hurt him in$4$ 
+004:01;E3r[R  ]| the morning:  if that$6#2$ be true, I have a charme in$4$ my head,  
+004:01;E3r[R  ]| shall controule him as well as the Coniurer, I warrant you.  
+004:01;E3r['  ]| Exit. 
+004:02;E3r['  ]| A Senit.  Charles the Germane Emperour, Bruno, 
+004:02;E3r['  ]| Saxony, Faustus, Mephostophilis, Fredericke 
+004:02;E3r['  ]| Martino, and Attendants. 
+004:02;E3r[WO ]| Wonder of men, renown'd Magitian, 
+004:02;E3r[WO ]| Thrice*learned Faustus, welcome to$4$ our$6#1$ Court.  
+004:02;E3r[WO ]| This deed of thine, in$4$ setting Bruno free 
+004:02;E3r[WO ]| From his and our$6#1$ professed enemy, 
+004:02;E3r[WO ]| Shall adde more excellence unto thine Art&H0;, 
+004:02;E3r[WO ]| Than if by$4$ powerfull Necromantick spels, 
+004:02;E3r[WO ]| Thou couldst command the worlds obedience:  
+004:02;E3r[WO ]| <reg orig="For euer">Forever</reg> be belou'd of Carolus.  
+004:02;E3r[WO ]| And if this Bruno thou hast late redeem'd, 
+004:02;E3r[WO ]| In$4$ peace possesse the triple Diadem, 
+004:02;E3r[WO ]| And sit in$4$ Peters Chaire, despite of chance, 
+004:02;E3r[WO ]| Thou shalt be famous through all Italy, 
+004:02;E3r[WO ]| And honour'd of the Germane Emperour.  
+004:02;E3r[A  ]| These gracious words, most royall Carolus, 
+004:02;E3r[A  ]| Shall make poore Faustus to$4$ his vtmost power, 
+004:02;E3r[A  ]| Both love and serue the Germane Emperour, 
+004:02;E3r[A  ]| And lay his life at holy Bruno's feet.  
+004:02;E3r[A  ]| For$4$ proofe whereof, if so$5#2$ your Grace be pleas'd, 
+004:02;E3v[A  ]| The Doctor stands prepar'd, by$4$ power of Art&H0;, 
+004:02;E3v[A  ]| To$9$ cast his Magicke charmes, that$6#1$ shall pierce through 
+004:02;E3v[A  ]| The Ebon gates of euer-burning hell, 
+004:02;E3v[A  ]| And hale the stubborne Furies from their caues, 
+004:02;E3v[A  ]| To$9$ compasse <reg orig="whatsoere">whatsoever</reg> your grace commands.  
+004:02;E3v[R  ]| Bloud he speakes terribly:  but for$4$ all that$6#2$, I do not 
+004:02;E3v[R  ]| greatly beleeue him, he lookes as like$4$ Coniurer as the Pope to$4$ 
+004:02;E3v[R  ]| a Coster-monger.  
+004:02;E3v[WO ]| Then Faustus as thou late didst promise us$6#1$, 
+004:02;E3v[WO ]| We$6#1$ would behold that$6#2$ famous Conquerour, 
+004:02;E3v[WO ]| Great Alexander, and his Paramour, 
+004:02;E3v[WO ]| In$4$ their true shapes, and state Maiesticall, 
+004:02;E3v[WO ]| That$3$ we$6#1$ may wonder at their excellence.  
+004:02;E3v[A  ]| Your Maiesty shall see them presently, 
+004:02;E3v[A  ]| Mephosto away.  
+004:02;E3v[A  ]| And with a solemne noyse of trumpets sound, 
+004:02;E3v[A  ]| Present before this royall Emperour, 
+004:02;E3v[A  ]| Great Alexander and his beauteous Paramour.  
+004:02;E3v[F  ]| Faustus I will$1$.  
+004:02;E3v[R  ]| Well M% Doctor, if your Diuels come not away 
+004:02;E3v[R  ]| quickly, you shall have me asleepe presently:  zounds I could 
+004:02;E3v[R  ]| eate myself for$4$ anger, to$9$ think I have been such an Asse 
+004:02;E3v[R  ]| all this while, to$9$ stand gaping after the diuels Gouernor, and 
+004:02;E3v[R  ]| can see nothing.  
+004:02;E3v[A  ]| I will$1$ make you feele something anon, if my Art&H0; faile 
+004:02;E3v[A  ]| me not.  
+004:02;E3v[A  ]| My Lord, I must forewarne your Maiesty, 
+004:02;E3v[A  ]| That$3$ when my Spirits present the royall shapes 
+004:02;E3v[A  ]| Of Alexander and his Paramour, 
+004:02;E3v[A  ]| Your grace demand no$2$ questions of the King, 
+004:02;E3v[A  ]| But in$4$ dumbe silence let them come and go.  
+004:02;E3v[WO ]| Be it as Faustus please, we$6#1$ are content.  
+004:02;E3v[R  ]| Aye, aye, and I am content too:  and thou bring Alexander 
+004:02;E3v[R  ]| and his Paramour before the Emperour, I will$1$ be Acteon, 
+004:02;E3v[R  ]| and turne myself to$4$ a Stagge.  
+004:02;E3v[A  ]| And I will$1$ play Diana, and send you the hornes presently.  
+004:02;E3v[A  ]| 
+004:02;E4r['  ]| Senit.  Enter at one the Emperour Alexander, at the other 
+004:02;E4r['  ]| Darius; they meete, Darius is throwne down, Alexander 
+004:02;E4r['  ]| kills him; takes off his Crowne, and offering to$9$ go 
+004:02;E4r['  ]| out, his Paramour meetes him, he embraceth her$6$, and 
+004:02;E4r['  ]| sets Darius Crowne upon$4$ her$2$ head; and commig 
+004:02;E4r['  ]| back, both salute the Emperour, 
+004:02;E4r['  ]| who$6#1$ leauing his State, offers to$9$ embrace 
+004:02;E4r['  ]| them, which$6#1$ Faustus seeing, 
+004:02;E4r['  ]| suddenly staies him.  Then trumpets 
+004:02;E4r['  ]| cease, and Musicke 
+004:02;E4r['  ]| sounds. 
+004:02;E4r[A  ]| My gracious Lord, you do forget yourself, 
+004:02;E4r[A  ]| These are but shadowes, not substantiall.  
+004:02;E4r[WO ]| O pardon me, my thoughts are so$5#1$ rauished 
+004:02;E4r[WO ]| With sight of this renowned Emperour, 
+004:02;E4r[WO ]| That$3$ in$4$ mine armes I would have compast him.  
+004:02;E4r[WO ]| But Faustus, since I may not speak to$4$ them, 
+004:02;E4r[WO ]| To$9$ satisfie my longing thoughts at full, 
+004:02;E4r[WO ]| Let me this tell thee:  I have heard it said, 
+004:02;E4r[WO ]| That$3$ this fair Lady, whilest she liu'd on$4$ earth, 
+004:02;E4r[WO ]| Had on$4$ her$2$ necke a little wart, or mole; 
+004:02;E4r[WO ]| How may I proue that$6#2$ saying to$9$ be true?  
+004:02;E4r[A  ]| Your Maiesty may boldly go and see.  
+004:02;E4r[WO ]| Faustus I see it plaine, 
+004:02;E4r[WO ]| And in$4$ this sight thou better pleasest me, 
+004:02;E4r[WO ]| Than if I gain'd another Monarchie.  
+004:02;E4r[A  ]| Away, be gone.  
+004:02;E4r['  ]| Exit Show. 
+004:02;E4r[A  ]| See, see, my gracious Lord, what strange beast is yon, that$6#1$ 
+004:02;E4r[A  ]| thrusts his head out at window.  
+004:02;E4r[WO ]| O wondrous sight:  see Duke of Saxony, 
+004:02;E4r[WO ]| Two spreading hornes most strangely fastened 
+004:02;E4r[WO ]| Upon$4$ the head of yong Benvolio.  
+004:02;E4r[WO ]| What is he asleepe, or dead?  
+004:02;E4r[A  ]| He sleeps my Lord, but dreames not of his hornes.  
+004:02;E4r[WO ]| This sport is excellent:  we$6#1$ will$1$ call and wake him.  
+004:02;E4r[WO ]| What ho, Benvolio.  
+004:02;E4v[R  ]| A plague upon$4$ you, let me sleepe a while.  
+004:02;E4v[WO ]| I blame thee not to$9$ sleepe  much, having such a head 
+004:02;E4v[WO ]| of thine <reg orig="owne">own</reg>.  
+004:02;E4v[WO ]| Look up$5$ Benvolio, it is the Emperour calls.  
+004:02;E4v[R  ]| The Emperour?  where?  O zounds my head.  
+004:02;E4v[WO ]| Nay, if thy hornes hold, it is no$2$ matter for$4$ thy 
+004:02;E4v[WO ]| head, for$3$ that$6#2$ is arm'd sufficiently.  
+004:02;E4v[A  ]| Why how now sir Knight, what hang'd by$4$ the 
+004:02;E4v[A  ]| hornes?  this most horrible:  fie, fie, pull in$4$ your head for$4$ shame, 
+004:02;E4v[A  ]| let not all the world wonder at you.  
+004:02;E4v[R  ]| Zounds Doctor, is this your villany?  
+004:02;E4v[A  ]| O say not so$5#2$ sir:  the Doctor has no$2$ skill, 
+004:02;E4v[A  ]| No$2$ Art&H0;, no$2$ cunning, to$9$ present these Lords, 
+004:02;E4v[A  ]| Or bring before this royall Emperour 
+004:02;E4v[A  ]| The mightie Monarch, warlicke Alexander.  
+004:02;E4v[A  ]| If Faustus do it, you are streight resolu'd, 
+004:02;E4v[A  ]| In$4$ bold Acteons shape to$9$ turne a Stagge.  
+004:02;E4v[A  ]| And therefore my Lord, so$3$ please your Maiesty, 
+004:02;E4v[A  ]| I will$1$ raise a kennelll of Hounds shall hunt him so$5#1$, 
+004:02;E4v[A  ]| As all his footmanship shall scarce preuaile, 
+004:02;E4v[A  ]| To$9$ keepe his Carkasse from their bloudy phangs.  
+004:02;E4v[A  ]| Ho, Belimote, Argiron, Asterote.  
+004:02;E4v[R  ]| Hold, hold:  zounds he will$1$ raise up$5$ a kennell of Diuels 
+004:02;E4v[R  ]| I think anon:  good my Lord intreate for$4$ me:  'sbloud I am 
+004:02;E4v[R  ]| <reg orig="neuer">never</reg> able to$9$ endure these torments.  
+004:02;E4v[WO ]| Then good M% Doctor, 
+004:02;E4v[WO ]| Let me intreate you to$9$ remoue his hornes, 
+004:02;E4v[WO ]| He has done penance now sufficiently.  
+004:02;E4v[A  ]| My gracious Lord, not so$5#1$ much for$4$ iniury done to$4$ 
+004:02;E4v[A  ]| me, as to$9$ delight your Maiesty with some mirth:  hath Faustus  
+004:02;E4v[A  ]| iustly requited this iniurious knight, which$6#1$ being all I desire, 
+004:02;E4v[A  ]| I am content to$9$ remoue his hornes.  Mephastophilis,  
+004:02;E4v[A  ]| transforme him; and hereafter sir, look you speak well of 
+004:02;E4v[A  ]| Schollers.  
+004:02;E4v[R  ]| Speak well of ye?  'sbloud if Schollers be such 
+004:02;E4v[R  ]| Cuckold-makers to$9$ clap hornes of honest mens heades of this 
+004:02;E4v[R  ]| order, I will$1$ <reg orig="nere">never</reg> trust smooth faces, and small ruffes more.  But 
+004:02;F1r[R  ]| if I be not reueng'd for$4$ this, would I might be turn'd to$4$ a 
+004:02;F1r[R  ]| gaping Oyster, and drinke nothing but salt water.  
+004:02;F1r[WO ]| Come Faustus while the Emperour liues, 
+004:02;F1r[WO ]| In$4$ recompence of this thy high desert, 
+004:02;F1r[WO ]| Thou shalt command the state of Germany, 
+004:02;F1r[WO ]| And live belou'd of mightie Carolus.  
+004:02;F1r['  ]| Exeunt omnes. 
+004:03;F1r['  ]| Enter Benvolio, Martino, Fredericke, and 
+004:03;F1r['  ]| Souldiers. 
+004:03;F1r[P  ]| Nay sweet Benvolio, let us$6#2$ sway thy thoughts 
+004:03;F1r[P  ]| From this attempt against the Coniurer.  
+004:03;F1r[R  ]| Away, you love me not, to$9$ vrge me thus, 
+004:03;F1r[R  ]| Shall I let slip so$5#1$ great an iniury, 
+004:03;F1r[R  ]| When <reg orig="euery">every</reg> seruile groome ieasts at my wrongs, 
+004:03;F1r[R  ]| And in$4$ their rusticke gambals proudly say, 
+004:03;F1r[R  ]| Benvolio's head was grac't with hornes today?  
+004:03;F1r[R  ]| O may these eye-lids <reg orig="neuer">never</reg> close again, 
+004:03;F1r[R  ]| Till with my sword I have that$6#2$ Coniurer slaine.  
+004:03;F1r[R  ]| If you will$1$ aide me in$4$ this enterprise, 
+004:03;F1r[R  ]| Then draw your weapons, and be resolute:  
+004:03;F1r[R  ]| If not, depart:  here will$1$ Benvolio die, 
+004:03;F1r[R  ]| But Faustus death shall quit my infamie.  
+004:03;F1r[Q  ]| Nay, we$6#2$ will$1$ stay with thee, betide what may, 
+004:03;F1r[Q  ]| And kill that$6#2$ Doctor if he come this way.  
+004:03;F1r[R  ]| Then gentle Fredericke hie thee to$4$ the groue, 
+004:03;F1r[R  ]| And place our$6#1$ seruants, and our$6#1$ followers 
+004:03;F1r[R  ]| close in$4$ an ambush there behinde the trees, 
+004:03;F1r[R  ]| By$4$ this (I know) the Coniurer is neere, 
+004:03;F1r[R  ]| I saw him kneele, and kisse the Emperours hand, 
+004:03;F1r[R  ]| And take his leaue, laden with rich rewards.  
+004:03;F1r[R  ]| Then Souldiers boldly fight; if Faustus die, 
+004:03;F1r[R  ]| Take you the wealth, leaue us$6#2$ the victorie.  
+004:03;F1r[Q  ]| Come souldiers, follow me unto the groue, 
+004:03;F1r[Q  ]| Who$6#1$ kils him shall have gold, and endlesse love.  
+004:03;F1r['  ]| Exit Frederick with the Souldiers. 
+004:03;F1r[R  ]| My head is lighter than it was by$4$ the hornes, 
+004:03;F1v[R  ]| But yet my heart more ponderous than my head, 
+004:03;F1v[R  ]| And pants vntill I see that$6#2$ Coniurer dead.  
+004:03;F1v[P  ]| Where shall we$6#2$ place ourselves Benvolio?  
+004:03;F1v[R  ]| Here will$1$ we$6#2$ stay to$9$ bide the first assault, 
+004:03;F1v[R  ]| O were that$6#2$ damned Hell-hound but in$4$ place, 
+004:03;F1v[R  ]| Thou soon shouldst see me quit my foule disgrace.  
+004:03;F1v['  ]| Enter Fredericke. 
+004:03;F1v[Q  ]| Close, close, the Coniurer is at hand, 
+004:03;F1v[Q  ]| And all alone, comes walking in$4$ his gowne; 
+004:03;F1v[Q  ]| Be ready then, and strike the Peasant down.  
+004:03;F1v[R  ]| Mine be that$6#2$ honour then:  now sword strike home, 
+004:03;F1v[R  ]| For$4$ hornes he gaue, I will$1$ have his head anone.  
+004:03;F1v['  ]| Enter Faustus with the false head. 
+004:03;F1v[P  ]| See, see, he comes.  
+004:03;F1v[R  ]| No$2$ words:  this blow ends all, 
+004:03;F1v[R  ]| Hell take his soule, his body thus must fall.  
+004:03;F1v[A  ]| O.  
+004:03;F1v[Q  ]| Grone you Master Doctor?  
+004:03;F1v[R  ]| Breake may his heart with grones:  deere Frederick see 
+004:03;F1v[R  ]| Thus will$1$ I end his griefes immediately.  
+004:03;F1v[P  ]| Strike with a willing hand, his head is off.  
+004:03;F1v[R  ]| The Diuel is dead, the Furies now may laugh.  
+004:03;F1v[Q  ]| Was this that$6#2$ sterne aspect, that$6#2$ awfull frowne, 
+004:03;F1v[Q  ]| Made the grim monarch of infernall spirits, 
+004:03;F1v[Q  ]| Tremble and quake at his commanding charmes?  
+004:03;F1v[P  ]| Was this that$6#2$ damned head, whose heart conspir'd 
+004:03;F1v[P  ]| Benvolio's shame before the Emperour.  
+004:03;F1v[R  ]| Aye, that$6#2$ is the head, and here the body lies, 
+004:03;F1v[R  ]| Iustly rewarded for$4$ his villanies.  
+004:03;F1v[Q  ]| Come, let us$6#2$ deuise how we$6#2$ may adde more shame 
+004:03;F1v[Q  ]| To$4$ the blacke scandall of his hated name.  
+004:03;F1v[R  ]| First, on$4$ his head, in$4$ quittance of my wrongs, 
+004:03;F1v[R  ]| I will$1$ naile huge forked hornes, and let them hang 
+004:03;F1v[R  ]| Within$4$ the window where he yoak'd me first, 
+004:03;F1v[R  ]| That$3$ all the world may see my iust reuenge.  
+004:03;F1v[P  ]| What vse shall we$6#2$ put his beard to$5$?  
+004:03;F2r[R  ]| We$6#2$ will$1$ sell it to$4$ a Chimny-sweeper:  it will$1$ weare out 
+004:03;F2r[R  ]| ten birchin broomes I warrant you.  
+004:03;F2r[Q  ]| What shall eyes do?  
+004:03;F2r[R  ]| We$6#2$ will$1$ put out his eyes, and they shall serue for$4$ buttons 
+004:03;F2r[R  ]| to$4$ his lips, to$9$ keepe his tongue from catching cold.  
+004:03;F2r[P  ]| An excellent policie:  and now sirs, having diuided 
+004:03;F2r[P  ]| him, what shall the body do?  
+004:03;F2r[R  ]| Zounds the Diuel is aliue <reg orig="agen">again</reg>.  
+004:03;F2r[Q  ]| Give him his head for$4$ Gods sake.  
+004:03;F2r[A  ]| Nay keepe it:  Faustus will$1$ have heads and hands, 
+004:03;F2r[A  ]| I call your hearts to$9$ recompence this deed.  
+004:03;F2r[A  ]| Knew you not Traytors, I was limitted 
+004:03;F2r[A  ]| For$4$ foure*and*twenty yeares, to$9$ breathe on$4$ earth?  
+004:03;F2r[A  ]| And had you cut my body with your swords, 
+004:03;F2r[A  ]| Or hew'd this flesh and bones as small as sand, 
+004:03;F2r[A  ]| Yet in$4$ a minute had my spirit return'd, 
+004:03;F2r[A  ]| And I had breath'd a man made free from harme.  
+004:03;F2r[A  ]| But wherefore do I dally my reuenge?  
+004:03;F2r[A  ]| Asteroth, Belimoth, Mephostophilis, 
+004:03;F2r['  ]| Ent% Meph% and other Diuels. 
+004:03;F2r[A  ]| Go horse these traytors on$4$ your fiery backes, 
+004:03;F2r[A  ]| And mount aloft with them as high as heauen, 
+004:03;F2r[A  ]| Thence pitch them headlong to$4$ the lowest hell:  
+004:03;F2r[A  ]| Yet stay, the world shall see their miserie, 
+004:03;F2r[A  ]| And hell shall after plague their treacherie.  
+004:03;F2r[A  ]| Go Belimothe, and take this caitife hence, 
+004:03;F2r[A  ]| And hurle him in$4$ some lake of mud and durt:  
+004:03;F2r[A  ]| Take thou this other, dragge him through the woods, 
+004:03;F2r[A  ]| Amongst the pricking thornes, and sharpest briers, 
+004:03;F2r[A  ]| Whilst with my gentle Mephostophilis, 
+004:03;F2r[A  ]| This Traytor flies unto some steepie rocke, 
+004:03;F2r[A  ]| That$3$ rowling down, may breake the villaines bones, 
+004:03;F2r[A  ]| As he intended to$9$ dismember me.  
+004:03;F2r[A  ]| Fly hence, dispatch my charge immediatly.  
+004:03;F2r[Q  ]| Pitie us$6#2$ gentle Faustus, saue our$6#2$ liues, 
+004:03;F2r[A  ]| Away.  
+004:03;F2r[Q  ]| He must needs go that$6#1$ the Diuell driues.  
+004:03;F2r['  ]| Exeunt Spirits with the knights. 
+004:03;F2v['  ]| Enter the ambusht Souldiers. 
+004:03;F2v[WJ ]| Come sirs, prepare yourselves in$4$ readinesse, 
+004:03;F2v[WJ ]| Make hast to$9$ help these noble Gentlemen, 
+004:03;F2v[WJ ]| I heard them parly with the Coniurer.  
+004:03;F2v[WN ]| See where he comes, dispatch, and kill the slaue.  
+004:03;F2v[A  ]| What is here?  an ambush to$9$ betray my life:  
+004:03;F2v[A  ]| Then Faustus try thy skill:  base pesants stand, 
+004:03;F2v[A  ]| For$3$ loe these Trees remoue at my command, 
+004:03;F2v[A  ]| And stand as Bulwarkes twixt yourselves and me, 
+004:03;F2v[A  ]| To$9$ sheild me from your hated treachery:  
+004:03;F2v[A  ]| Yet to$9$ encounter this your weake attempt, 
+004:03;F2v[A  ]| Behold an Army comes incontinent.  
+004:03;F2v['  ]| Faustus strikes the dore, and enter a deuill playing on$4$ a Drum, 
+004:03;F2v['  ]| after him another bearing an Ensigne:  and diuers with 
+004:03;F2v['  ]| weapons, Mephostophilis with fire-works; they set upon$5$ 
+004:03;F2v['  ]| the Souldiers and driue them out. 
+004:04;F2v['  ]| Enter at seuerall dores, Benuolio, Fredericke, and Martino, 
+004:04;F2v['  ]| their heads and faces bloudy, and besmear'd with 
+004:04;F2v['  ]| mud and durt; all having hornes on$4$ 
+004:04;F2v['  ]| their heads. 
+004:04;F2v[P  ]| What ho, Benuolio.  
+004:04;F2v[R  ]| Here, what Frederick, ho.  
+004:04;F2v[Q  ]| O help me gentle friend; where is Martino?  
+004:04;F2v[P  ]| Deere Frederick here, 
+004:04;F2v[P  ]| Halfe smother'd in$4$ a Lake of mud and durt, 
+004:04;F2v[P  ]| Through which$6#1$ the Furies drag'd me by$4$ the heeles.  
+004:04;F2v[Q  ]| Martino see, 
+004:04;F2v[Q  ]| Benuolio's hornes again.  
+004:04;F2v[P  ]| O misery, how now Benuolio?  
+004:04;F2v[R  ]| Defend me heauen, shall I be haunted still?  
+004:04;F2v[P  ]| Nay feare not man we$6#2$ have no$2$ power to$9$ kill.  
+004:04;F2v[R  ]| My friends transformed thus:  O hellish spite, 
+004:04;F3r[R  ]| Your heads are all set with hornes.  
+004:04;F3r[Q  ]| You hit it right, 
+004:04;F3r[Q  ]| It is your <reg orig="owne">own</reg> you meane feele on$4$ your head.  
+004:04;F3r[R  ]| 'Zons, hornes again.  
+004:04;F3r[P  ]| Nay chase not man, we$6#2$ all are sped.  
+004:04;F3r[R  ]| What deuill attends this damn'd Magician, 
+004:04;F3r[R  ]| That$3$ spite of spite, our$6#2$ wrongs are doubled?  
+004:04;F3r[Q  ]| What may we$6#2$ do, that$3$ we$6#2$ may hide our$6#2$ shames?  
+004:04;F3r[R  ]| If we$6#2$ should follow him to$9$ worke reuenge, 
+004:04;F3r[R  ]| He would ioyne long Asses eares to$4$ these huge hornes, 
+004:04;F3r[R  ]| And make us$6#2$ laughing stockes to$4$ all the world.  
+004:04;F3r[P  ]| What shall we$6#2$ then do deere Benuolio?  
+004:04;F3r[R  ]| I have a Castle ioyning neere these woods, 
+004:04;F3r[R  ]| And thither we$6#2$ will$1$ repaire and live obscure, 
+004:04;F3r[R  ]| Till time shall alter this our$6#2$ brutish shapes:  
+004:04;F3r[R  ]| Sith blacke disgrace hath thus eclipst our$6#2$ fame.  
+004:04;F3r[R  ]| We$6#2$ will$1$ rather die with griefe, than live with shame.  
+004:04;F3r['  ]| Exeunt omnes. 
+004:05;F3r['  ]| Enter Faustus, and the Horse-courser, and 
+004:05;F3r['  ]| Mephostophilis. 
+004:05;F3r[T  ]| I beseech your Worship accept of these forty 
+004:05;F3r[T  ]| Dollors.  
+004:05;F3r[A  ]| Friend, thou canst not buy so$5#1$ good a horse, for$4$ so$5#1$ 
+004:05;F3r[A  ]| small a price:  I have no$2$ great need to$9$ sell him, but if thou 
+004:05;F3r[A  ]| likest him for$4$ ten Dollors more, take him, because I see thou 
+004:05;F3r[A  ]| hast a good minde to$4$ him.  
+004:05;F3r[T  ]| I beseech you sir accept of this; I am a very poore 
+004:05;F3r[T  ]| man, and have lost very much of late by$4$ horse flesh, and this 
+004:05;F3r[T  ]| bargaine will$1$ set me up$5$ again.  
+004:05;F3r[A  ]| Well, I will$1$ not stand with thee, give me the money:  
+004:05;F3r[A  ]| now sirra I must tell you, that$3$ you may ride him <reg orig="o're">over</reg> 
+004:05;F3r[A  ]| hedge and ditch, and spare him not; but do your hear?  in$4$ any 
+004:05;F3r[A  ]| case ride him not into the water.  
+004:05;F3r[T  ]| How sir, not into the water?  why will$1$ he not drink 
+004:05;F3r[T  ]| of all waters?  
+004:05;F3v[A  ]| Yes, he will$1$ drinke of all waters, but ride him not 
+004:05;F3v[A  ]| into the water; <reg orig="o're">over</reg> hedge and ditch, or where thou wilt, but 
+004:05;F3v[A  ]| not into the water:  Go bid the Hostler deliuer him unto you, 
+004:05;F3v[A  ]| and remember what I say.  
+004:05;F3v[T  ]| I warrant you sir; O ioyfull day:  Now am I a 
+004:05;F3v[T  ]| made man <reg orig="for euer">forever</reg>.  
+004:05;F3v['  ]| Exit. 
+004:05;F3v[A  ]| What art thou Faustus but a man condemn'd to$9$ die?  
+004:05;F3v[A  ]| Thy fatall time drawes to$4$ a finall end; 
+004:05;F3v[A  ]| Despaire doth driue distrust into my thoughts.  
+004:05;F3v[A  ]| Confound these passions with a quiet sleepe:  
+004:05;F3v[A  ]| Tush Christ did call the Theefe upon$4$ the Crosse, 
+004:05;F3v[A  ]| Then rest thee Faustus quiet in$4$ conceit.  
+004:05;F3v['  ]| He sits to$9$ sleepe. 
+004:05;F3v['  ]| Enter the Horse-courser wet. 
+004:05;F3v[T  ]| O what a cosening Doctor was this?  I riding my 
+004:05;F3v[T  ]| horse into the water, thinking some hidden mystery had been 
+004:05;F3v[T  ]| in$4$ the horse, I had nothing under me but a little straw, and 
+004:05;F3v[T  ]| had much ado to$9$ escape drowning:  Well I will$1$ go rouse him,  
+004:05;F3v[T  ]| and make him give me my forty Dollors again.  Ho sirra 
+004:05;F3v[T  ]| Doctor, you cosoning scab; Maister Doctor awake, and rise, 
+004:05;F3v[T  ]| and give me my mony again, for$4$ your horse is turned to$4$ a 
+004:05;F3v[T  ]| bottle of Hay, ~~ Maister Doctor.  
+004:05;F3v['  ]| He puls off his leg. 
+004:05;F3v[T  ]| Alas I am vndone, what shall I do?  I have puld off his leg.  
+004:05;F3v[A  ]| O help, help, the villaine hath murder'd me.  
+004:05;F3v[T  ]| Murder or not murder, now he has but one leg, 
+004:05;F3v[T  ]| I will$1$ out-run him, and cast this leg into some ditch or other. 
+004:05;F3v[A  ]| Stop him, stop him, stop him ~~ ha, ha, ha, Faustus 
+004:05;F3v[A  ]| hath his leg again, and the Horse-courser a bundle of hay 
+004:05;F3v[A  ]| for$4$ his forty Dollors.  
+004:05;F3v['  ]| Enter Wagner. 
+004:05;F3v[A  ]| How now Wagner what newes with thee?  
+004:05;F3v[B  ]| If it please you, the Duke of Vanholt doth earnestly 
+004:05;F3v[B  ]| entreate your company, and hath sent some of his men to$9$ 
+004:05;F3v[B  ]| attend you with prouision fit for$4$ your iourney.  
+004:05;F4r[A  ]| The Duke of Vanholt is an honourable Gentleman, 
+004:05;F4r[A  ]| and one to$4$ whom I must be no$2$ niggard of my cunning; 
+004:05;F4r[A  ]| Come away.  
+004:05;F4r['  ]| Exeunt. 
+004:06;F4r['  ]| Enter Clowne, Dick, Horse-courser, and a Carter. 
+004:06;F4r[WP ]| Come my Maisters, I will$1$ bring you to$4$ the best beere  
+004:06;F4r[WP ]| in$4$ Europe, what ho, Hostis; where be these Whores?  
+004:06;F4r['  ]| Enter Hostis. 
+004:06;F4r[VA ]| How now, what lacke you?  What my old Guesse 
+004:06;F4r[VA ]| welcome.  
+004:06;F4r[G  ]| Sirra Dick, dost thou know why I stand so$5#1$ mute?  
+004:06;F4r[M  ]| No$7$ Robin, why is it?  
+004:06;F4r[G  ]| I am eighteene pence on$4$ the score, but say nothing, 
+004:06;F4r[G  ]| see if she have forgotten me.  
+004:06;F4r[VA ]| Who$6#2$ is this, that$6#2$ stands so$5#1$ solemnly by$4$ himself:  
+004:06;F4r[VA ]| what my old Guest?  
+004:06;F4r[G  ]| O Hostisse how do you?  I hope my score stands still.  
+004:06;F4r[VA ]| Aye there is no$2$ doubt of that$6#2$, for$4$ methinks you make  
+004:06;F4r[VA ]| no$2$ hast to$9$ wipe it out.  
+004:06;F4r[M  ]| Why Hostesse, I say, fetch us$6#2$ some Beere.  
+004:06;F4r[VA ]| You shall presently:  look up$5$ into the hall there ho.  
+004:06;F4r['  ]| Exit. 
+004:06;F4r[M  ]| Come sirs, what shall we$6#2$ do now till mine Hostesse 
+004:06;F4r[M  ]| comes?  
+004:06;F4r[WO ]| Marry sir, I will$1$ tell you the brauest tale how a Coniurer 
+004:06;F4r[WO ]| seru'd me; you know Doctor Fauster.  
+004:06;F4r[T  ]| Aye, a plague take him, here is some of us$6#2$ have cause 
+004:06;F4r[T  ]| to$9$ know him; did he coniure thee too?  
+004:06;F4r[WP ]| I will$1$ tell you how he seru'd me:  As I was going to$4$ 
+004:06;F4r[WP ]| Wittenberge the other day, with a loade of Hay, he met me, 
+004:06;F4r[WP ]| and asked me what he should give me for$4$ as much Hay as he 
+004:06;F4r[WP ]| could eate; now sir, I thinking that$3$ a little would serue his 
+004:06;F4r[WP ]| turne, bad him take as much as he would for$4$ three-farthings; 
+004:06;F4r[WP ]| so$3$ he presently gaue me my money, and fell to$4$ eating; and as I 
+004:06;F4r[WP ]| am a cursen man, he <reg orig="neuer">never</reg> left eating, till he had eate up$5$ all 
+004:06;F4r[WP ]| my loade of hay.  
+004:06;F4r[X  ]| O monstrous, eate a whole load of Hay!  
+004:06;F4v[G  ]| Yes, yes, that$6#2$ may be; for$4$ I have heard of one, that$6#1$ 
+004:06;F4v[G  ]| has eate a load of logges.  
+004:06;F4v[T  ]| Now sirs, you shall hear how villanously he seru'd 
+004:06;F4v[T  ]| me:  I went to$4$ him yesterday to$9$ buy a horse of him, and he 
+004:06;F4v[T  ]| would by$4$ no$2$ meanes sell him under 40 Dollors; so$3$ sir, because 
+004:06;F4v[T  ]| I knew him to$9$ be such a horse, as would run over hedge and 
+004:06;F4v[T  ]| ditch, and <reg orig="neuer">never</reg> tyre, I gaue him his money; so$3$ when I had 
+004:06;F4v[T  ]| my horse, Doctor Fauster bad me ride him night and day, and 
+004:06;F4v[T  ]| spare him no$2$ time; but, quoth he, in$4$ any case ride him not into 
+004:06;F4v[T  ]| the water.  Now sir, I thinking the horse had had some  
+004:06;F4v[T  ]| quality that$6#1$ he would not have me know of, what did I but 
+004:06;F4v[T  ]| ride him into a great riuer, and when I came iust in$4$ the midst 
+004:06;F4v[T  ]| my horse vanisht away, and I sate stradding upon$4$ a bottle 
+004:06;F4v[T  ]| of Hay.  
+004:06;F4v[X  ]| O braue Doctor.  
+004:06;F4v[T  ]| But you shall hear how brauely I seru'd him for$4$ 
+004:06;F4v[T  ]| it; I went me home to$4$ his house, and there I found him 
+004:06;F4v[T  ]| asleepe; I kept a*hallowing and whooping in$4$ his eares, but 
+004:06;F4v[T  ]| all could not wake him: I seeing that$6#2$, tooke him by$4$ the leg, 
+004:06;F4v[T  ]| and <reg orig="neuer">never</reg> rested pulling, till I had pul'd me his leg quite off, 
+004:06;F4v[T  ]| and now it is at home in$4$ mine Hostry.  
+004:06;F4v[G  ]| And has the Doctor but one leg then?  that$6#2$ is excellent, 
+004:06;F4v[G  ]| for$3$ one of his deuils turn'd me, into the likenesse of an 
+004:06;F4v[G  ]| Apes face.  
+004:06;F4v[WP ]| Some more drinke Hostesse.  
+004:06;F4v[G  ]| Hearke you, we$6#2$ will$1$ into another roome and drinke 
+004:06;F4v[G  ]| a while, and then we$6#2$ will$1$ go seeke out the Doctor.  
+004:06;F4v['  ]| Exeunt omnes.  
+004:07;F4v['  ]| Enter the Duke of Vanholt; his Dutches, 
+004:07;F4v['  ]| Faustus, and Mephostophilis. 
+004:07;F4v[Y  ]| Thankes Maister Doctor, for$4$ these pleasant sights, 
+004:07;F4v[Y  ]| Nor know I how sufficiently to$9$ recompence your great deserts 
+004:07;F4v[Y  ]| in$4$ erecting that$6#2$ inchanted Castle in$4$ the Aire:  the 
+004:07;F4v[Y  ]| Sight whereof so$5#1$ delighted me, 
+004:07;F4v[Y  ]| As nothing in$4$ the world could please me more.  
+004:07;G1r[A  ]| I do think myself my good Lord, highly recompenced, 
+004:07;G1r[A  ]| in$4$ that$3$ it pleaseth your grace to$9$ think but well of 
+004:07;G1r[A  ]| that$6#2$ which$6#1$ Faustus hath performed.  But gratious Lady, it 
+004:07;G1r[A  ]| may be, that$3$ you have taken no$2$ pleasure in$4$ those sights; 
+004:07;G1r[A  ]| <reg orig="therefor">therefore</reg> I pray you tell me, what is the thing you most desire 
+004:07;G1r[A  ]| to$9$ have, be it in$4$ the world, it shall be yours:  I have heard 
+004:07;G1r[A  ]| that$3$ great*bellyed women, do long for$4$ things, are rare and 
+004:07;G1r[A  ]| dainty.  
+004:07;G1r[S  ]| True Maister Doctor, 
+004:07;G1r[S  ]| and since I finde you so$5#1$ kind I will$1$ 
+004:07;G1r[S  ]| make knowne unto you what my heart desires to$9$ 
+004:07;G1r[S  ]| have, and were it now Summer, as it is Ianuary, a dead 
+004:07;G1r[S  ]| time of the Winter, I would request no$2$ better meate, than 
+004:07;G1r[S  ]| a dish of ripe grapes.  
+004:07;G1r[A  ]| This is but a small matter:  Go Mephostophilis, away.  
+004:07;G1r['  ]| Exit Mephosto. 
+004:07;G1r[A  ]| Madam, I will$1$ do more than this for$4$ your content.  
+004:07;G1r['  ]| Enter Mepho% agen with the grapes. 
+004:07;G1r[A  ]| Here, now taste ye these, they should be good 
+004:07;G1r[A  ]| For$3$ they come from a farre Contry I can tell you.  
+004:07;G1r[Y  ]| This makes me wonder more than all the rest, that$3$
+004:07;G1r[Y  ]| at this time of the yeare, when <reg orig="euery">every</reg> Tree is barren of his 
+004:07;G1r[Y  ]| fruite, from whence you had these ripe grapes.  
+004:07;G1r[A  ]| Please it your grace, the yeare is diuided into two 
+004:07;G1r[A  ]| circles over the whole world, so$3$ that$3$ when it is Winter with 
+004:07;G1r[A  ]| us$6#2$, in$4$ the contrary circle it is likewise Summer with them,  
+004:07;G1r[A  ]| as in$4$ India, Saba, and such Countries that$6#1$ lye farre East, 
+004:07;G1r[A  ]| where they have fruit twice a yeare.  From whence, by$4$ meanes  
+004:07;G1r[A  ]| of a swift spirit that$6#1$ I have, I had these grapes brought as 
+004:07;G1r[A  ]| you see.  
+004:07;G1r[S  ]| And trust me, they are the sweetest grapes that$3$ 
+004:07;G1r[S  ]| <reg orig="e're">ever</reg> I tasted.  
+004:07;G1r['  ]| The Clowne bounce at the gate, within. 
+004:07;G1v[Y  ]| What rude disturbers have we$6#1$ at the gate?  
+004:07;G1v[Y  ]| Go pacifie their fury set it ope, 
+004:07;G1v[Y  ]| And then demand of them, what they would have.  
+004:07;G1v['  ]| They knocke again, and call out to$9$ talke with Faustus. 
+004:07;G1v[WR ]| Why how now Maisters, what a coyle is 
+004:07;G1v[WR ]| there?  What is the reason you disturbe the Duke?  
+004:07;G1v[M  ]| We$6#2$ have no$2$ reason for$4$ it, therefore a fig for$4$ him.  
+004:07;G1v[WR ]| Why saucy varlets, dare you be so$5#1$ bold.  
+004:07;G1v[T  ]| I hope sir, we$6#2$ have wit enough to$9$ be more bold 
+004:07;G1v[T  ]| than welcome.  
+004:07;G1v[WR ]| It appeares so$5#2$, pray be bold else-where, 
+004:07;G1v[WR ]| And trouble not the Duke.  
+004:07;G1v[Y  ]| What would they have?  
+004:07;G1v[WR ]| They all cry out to$9$ speak with Doctor Faustus.  
+004:07;G1v[WR ]| Aye, and we$6#2$ will$1$ speak with him.  
+004:07;G1v[Y  ]| Will$1$ you sir?  Commit the Rascals.  
+004:07;G1v[M  ]| Commit with us$6#2$, he were as good commit with his 
+004:07;G1v[M  ]| father, as commit with us$6#2$.  
+004:07;G1v[A  ]| I do beseech your grace let them come in$5$, 
+004:07;G1v[A  ]| They are good subiect for$4$ a merriment.  
+004:07;G1v[Y  ]| Do as thou wilt Faustus, I give thee leaue.  
+004:07;G1v[A  ]| I thanke your grace:  
+004:07;G1v['  ]| Enter the Clowne, Dick, Carter, and 
+004:07;G1v['  ]| Horse-courser. 
+004:07;G1v[A  ]| Why, how now my good friends?  
+004:07;G1v[A  ]| 'Faith you are too outragious, but come neere, 
+004:07;G1v[A  ]| I have procur'd your pardons:  welcome all.  
+004:07;G1v[G  ]| Nay sir, we$6#2$ will$1$ be wellcome for$4$ our$6#2$ mony, and 
+004:07;G1v[G  ]| we$6#2$ will$1$ pay for$4$ what we$6#2$ take:  
+100:04;A2V[U  ]| What ho, give us$6#2$ halfe a dosen 
+004:07;G1v[G  ]| of Beere here, and be hang'd.  
+004:07;G1v[A  ]| Nay, hearke you, can you tell me where you are?  
+004:07;G1v[WP ]| Aye marry can I, we$6#2$ are under heauen.  
+004:07;G1v[WR ]| Aye but sir sauce*box, know you in$4$ what place?  
+004:07;G2r[T  ]| Aye, aye, the house is good enough to$9$ drink in$5$:  Zons 
+004:07;G2r[T  ]| fill us$6#2$ some Beere, or we$6#2$ will$1$ breake 
+100:04;A2V[U  ]| all the barrels in$4$ the house, 
+004:07;G2r[T  ]| and dash out all your braines with your Bottles.  
+004:07;G2r[A  ]| Be not so$5#1$ furious:  come you shall have Beere.  
+004:07;G2r[A  ]| My Lord, beseech you give me leaue a while, 
+004:07;G2r[A  ]| I will$1$ gage my credit, it will$1$ content your grace.  
+004:07;G2r[Y  ]| With all my heart kind Doctor, please thyself, 
+004:07;G2r[Y  ]| Our$6#1$ seruants, and our$6#1$ Courts at thy command.  
+004:07;G2r[A  ]| I humbly thanke your grace:  then fetch some 
+004:07;G2r[A  ]| Beere.  
+004:07;G2r[T  ]| Aye mary, there spake a Doctor indeed, and 'faith I will$1$
+004:07;G2r[T  ]| drinke a health to$4$ thy woodden leg for$4$ that$6#2$ word.  
+004:07;G2r[A  ]| My woodden leg?  what dost thou meane by$4$ that$6#2$?  
+004:07;G2r[WP ]| Ha, ha, ha, dost hear him Dick, he has forgot his 
+004:07;G2r[WP ]| legge.  
+004:07;G2r[T  ]| Aye, aye.  he does not stand much upon$4$ that$6#2$.  
+004:07;G2r[A  ]| No$7$ faith, not much upon$4$ a woodden leg.  
+004:07;G2r[WP ]| Good Lord, that$3$ flesh and bloud should be so$5#1$ fraile 
+004:07;G2r[WP ]| with your Worship:  Do not you remember a Horse-courser 
+004:07;G2r[WP ]| you sold a horse to$5$?  
+004:07;G2r[A  ]| Yes, I remember I sold one a horse.  
+004:07;G2r[WP ]| And do you remember you bid he should not ride 
+004:07;G2r[WP ]| into the water?  
+004:07;G2r[A  ]| Yes, I do verie well remember that$6#2$.  
+004:07;G2r[WP ]| And do you remember nothing of your leg?  
+004:07;G2r[A  ]| No$7$ in$4$ good sooth.  
+004:07;G2r[WP ]| Then I pray remember your curtesie.  
+004:07;G2r[A  ]| I thank you sir.  
+004:07;G2r[WP ]| It is not so$5#1$ much worth; I pray you tell me one thing.  
+004:07;G2r[A  ]| What is that$6#2$?  
+004:07;G2r[WP ]| Be both your legs bedfellowes <reg orig="euery">every</reg> night together?  
+004:07;G2r[A  ]| Wouldst thou make a Colossus of me, that$3$ thou askest 
+004:07;G2r[A  ]| me such questions?  
+004:07;G2r[WP ]| No$7$ truelie sir, I would make nothing of you, but 
+004:07;G2r[WP ]| I would faine know that$6#2$.  
+004:07;G2r['  ]| Enter hostesse with drinke. 
+004:07;G2r[A  ]| Then I assure thee certainelie they are.  
+004:07;G2v[WP ]| I thanke you, I am fully satisfied.  
+004:07;G2v[A  ]| But wherefore dost thou aske?  
+004:07;G2v[WP ]| For$4$ nothing sir:  but methinks you should have a 
+004:07;G2v[WP ]| wooden bedfellow of one of them.  
+004:07;G2v[T  ]| Why do you hear sir, did not I pull off one of your 
+004:07;G2v[T  ]| legs when you were asleepe?  
+004:07;G2v[A  ]| But I have it again now I am awake:  look you 
+004:07;G2v[A  ]| here sir.  
+004:07;G2v[X  ]| O horrible, had the Doctor three legs?  
+004:07;G2v[WP ]| Do you remember sir, how you cosened me and eat 
+004:07;G2v[WP ]| up$5$ my load of ~~  
+004:07;G2v['  ]| Faustus charmes him dumb. 
+004:07;G2v[M  ]| Do you remember how you made me weare an 
+004:07;G2v[M  ]| Apes ~~  
+004:07;G2v[T  ]| You whorson coniuring scab, do you remember, how 
+004:07;G2v[T  ]| you cosened me with a ho ~~ 
+004:07;G2v[G  ]| Have you forgotten me?  you think to$9$ carry it away 
+004:07;G2v[G  ]| with your Hey-passe, and Re-passe:  do you remember the 
+004:07;G2v[G  ]| dogs fa ~~ 
+004:07;G2v['  ]| Exeunt Clownes. 
+004:07;G2v[VA ]| Who$6#2$ payes for$4$ the Ale?  hear you Maister Doctor, 
+004:07;G2v[VA ]| now you have sent away my guesse, I pray who$6#2$ shall pay 
+004:07;G2v[VA ]| me for$4$ my A ~~ ?  
+004:07;G2v['  ]| Exit Hostesse. 
+004:07;G2v[S  ]| My Lord, 
+004:07;G2v[S  ]| We$6#2$ are much beholding to$4$ this learned man.  
+004:07;G2v[Y  ]| So$5#2$ are we$6#2$ Madam, which$6#1$ we$6#2$ will$1$ recompence 
+004:07;G2v[Y  ]| With all the love and kindnesse that$6#1$ we$6#2$ may.  
+004:07;G2v[Y  ]| His Artfull sport, driues all sad thoughts away.  
+004:07;G2v['  ]| Exeunt. 
+005:01;G2v['  ]| Thunder and lightning:  Enter deuils with couer'd 
+005:01;G2v['  ]| dishes; Mephostophilis leades them into 
+005:01;G2v['  ]| Faustus Study:  Then enter 
+005:01;G2v['  ]| Wagner. 
+005:01;G2v[B  ]| I think my Maister means to$9$ die shortly, he hath made 
+005:01;G2v[B  ]| his will$0$, and giuen me his wealth, his house, his goods, and store of 
+005:01;G3r[B  ]| golden plate; besides two thousand duckets ready coin'd:  I 
+005:01;G3r[B  ]| wonder what he meanes, if death were nie, he would not frolick 
+005:01;G3r[B  ]| thus:  he is now at supper with the schollers, where there is 
+005:01;G3r[B  ]| such belly-cheere, as Wagner in$4$ life <reg orig="nere">never</reg> saw the like$2$:  and 
+005:01;G3r[B  ]| see where they come, belike the feast is done.  
+005:01;G3r['  ]| Exit. 
+005:01;G3r['  ]| Enter Faustus, Mephostophilis, and two or three 
+005:01;G3r['  ]| Schollers. 
+005:01;G3r[I  ]| M% Doctor Faustus, since our$6#2$ conference about 
+005:01;G3r[I  ]| fair Ladies, which$6#1$ was the beautifullest in$4$ all the world, we$6#2$ 
+005:01;G3r[I  ]| have determin'd with ourselves, that$3$ Helen of Greece was 
+005:01;G3r[I  ]| the admirablest Lady that$6#1$ <reg orig="euer">ever</reg> liu'd:  therefore M% Doctor, if 
+005:01;G3r[I  ]| you will$1$ do us$6#2$ so$5#1$ much fauour, 
+100:04;A2V[U  ]| as to$9$ let us$6#2$ see the peerelesse 
+005:01;G3r[I  ]| dame of Greece, whom all the world admires for$4$ Maiesty, we$6#2$ 
+005:01;G3r[I  ]| should think ourselves much beholding unto you.  
+005:01;G3r[A  ]| Gentlemen, for$3$ that$3$ I know your friendship is vnfain'd, 
+005:01;G3r[A  ]| It is not Faustus custome to$9$ deny 
+005:01;G3r[A  ]| The iust request of those that$6#1$ wish him well:  
+005:01;G3r[A  ]| You shall behold that$6#2$ peerelesse dame of Greece, 
+005:01;G3r[A  ]| No$2$ otherwise for$4$ pompe or Maiesty, 
+005:01;G3r[A  ]| Than when sir Paris crost the seas with her$6$, 
+005:01;G3r[A  ]| And brought the spoyles to$4$ rich Dardania:  
+005:01;G3r[A  ]| Be silent then, for$3$ danger is in$4$ words.  
+005:01;G3r['  ]| Musicke sound, Mephosto brings in$4$ Hellen, she passeth 
+005:01;G3r['  ]| over the stage. 
+005:01;G3r[J  ]| Was this fair Hellen, whose admired worth 
+005:01;G3r[J  ]| Made Greece with ten yeares warres afflict poore Troy?  
+005:01;G3r[WS ]| Too simple is my wit to$9$ tell her$2$ worth, 
+005:01;G3r[WS ]| Whom all the world admires for$4$ maiesty.  
+005:01;G3r[I  ]| Now we$6#2$ have seene the pride of Natures worke, 
+005:01;G3r[I  ]| We$6#2$ will$1$ take our$6#2$ leaues, and for$4$ this blessed sight 
+005:01;G3r[I  ]| Happy and blest be Faustus euermore.  
+005:01;G3r['  ]| Exeunt Schollers. 
+005:01;G3r[A  ]| Gentlemen farewell:  the same wish I to$4$ you.  
+005:01;G3v['  ]| Enter an old Man. 
+005:01;G3v[Z  ]| O gentle Faustus leaue this damned Art&H0;, 
+005:01;G3v[Z  ]| This Magicke, that$6#1$ will$1$ charme thy soule to$4$ hell, 
+005:01;G3v[Z  ]| And quite bereaue thee of saluation.  
+005:01;G3v[Z  ]| Though thou hast now offended like$4$ a man, 
+005:01;G3v[Z  ]| Do not perseuer in$4$ it like$4$ a Diuell; 
+005:01;G3v[Z  ]| Yet, yet, thou hast an amiable soule, 
+005:01;G3v[Z  ]| If sin by$4$ custome grow not into nature:  
+005:01;G3v[Z  ]| Then Faustus, will$1$ repentance come too late, 
+005:01;G3v[Z  ]| Then thou art banisht from the sight of heauen; 
+005:01;G3v[Z  ]| No$2$ mortall can expresse the paines of hell.  
+005:01;G3v[Z  ]| It may be this my exhortation 
+005:01;G3v[Z  ]| Seemes harsh, and all vnpleasant; let it not, 
+005:01;G3v[Z  ]| For$3$ gentle sonne, I speak it not in$4$ wrath, 
+005:01;G3v[Z  ]| Or enuy of thee, but in$4$ tender love, 
+005:01;G3v[Z  ]| And pitty of thy future miserie.  
+005:01;G3v[Z  ]| And so$5#2$ have hope, that$3$ this my kinde rebuke, 
+005:01;G3v[Z  ]| Checking thy body, may amend thy soule.  
+005:01;G3v[A  ]| Where art thou Faustus?  wretch, what hast thou done?  
+005:01;G3v[A  ]| Hell claimes his right, and with a roaring voice, 
+005:01;G3v['  ]| Meph% giues him a dagger. 
+005:01;G3v[A  ]| Saies Faustus come, thine houre is almost come, 
+005:01;G3v[A  ]| And Faustus now will$1$ come to$9$ do thee right.  
+005:01;G3v[Z  ]| O stay good Faustus, stay thy desperate steps.  
+005:01;G3v[Z  ]| I see an Angell houer <reg orig="ore">over</reg> thy head, 
+005:01;G3v[Z  ]| And with a vyoll full of pretious grace, 
+005:01;G3v[Z  ]| Offers to$9$ poure the same into thy soule, 
+005:01;G3v[Z  ]| Then call for$4$ mercy, and auoyd despaire.  
+005:01;G3v[A  ]| O friend, I feele thy words to$9$ comfort my distressed soule, 
+005:01;G3v[A  ]| Leaue me a while, to$9$ ponder on$4$ my sinnes.  
+005:01;G3v[Z  ]| Faustus I leaue thee, but with griefe of heart, 
+005:01;G3v[Z  ]| Fearing the enemy of thy haplesse soule.  
+005:01;G3v['  ]| Exit. 
+005:01;G3v[A  ]| Accursed Faustus, wretch what hast thou done?  
+005:01;G3v[A  ]| I do repent, and yet I do despaire, 
+005:01;G3v[A  ]| Hell striues with grace for$4$ conquest in$4$ my breast:  
+005:01;G3v[A  ]| What shall I do to$9$ shun the snares of death?  
+005:01;G3v[F  ]| Thou traytor Faustus, I arrest thy soule, 
+005:01;G3v[F  ]| For$4$ disobedience to$4$ my soueraigne lord, 
+005:01;G4r[F  ]| Reuolt, or I will$1$ in$4$ peece-meale teare thy flesh.  
+005:01;G4r[A  ]| I do repent I ere offended him, 
+005:01;G4r[A  ]| Sweet Mephasto: intreat thy Lord 
+005:01;G4r[A  ]| To$9$ pardon my vniust presumption, 
+005:01;G4r[A  ]| And with my bloud again I will$1$ confirme 
+005:01;G4r[A  ]| The former vow I made to$4$ Lucifer.  
+005:01;G4r[A  ]| Do it then Faustus, with vnfained heart, 
+005:01;G4r[A  ]| Lest greater dangers do attend thy drift.  
+005:01;G4r[A  ]| Torment sweet friend, that$6#2$ base and aged man, 
+005:01;G4r[A  ]| That$6#1$ durst disswade me from thy Lucifer.  
+005:01;G4r[A  ]| With greatest torment that$6#1$ our$6#2$ hell affoords.  
+005:01;G4r[F  ]| His faith is great, I cannot touch his soule; 
+005:01;G4r[F  ]| But what I may afflict his body with, 
+005:01;G4r[F  ]| I will$1$ attempt, which$6#1$ is but little worth.  
+005:01;G4r[A  ]| One thing good seruant let me craue of thee, 
+005:01;G4r[A  ]| To$9$ glut the longing of my hearts desire, 
+005:01;G4r[A  ]| That$3$ I may have unto my paramour, 
+005:01;G4r[A  ]| That$6#2$ heauenly Hellen, which$6#1$ I saw of late, 
+005:01;G4r[A  ]| Whose sweet embraces may extinguish cleare, 
+005:01;G4r[A  ]| Those thoughts that$6#1$ do disswade me from my vow, 
+005:01;G4r[A  ]| And keepe my vow I made to$4$ Lucifer.  
+005:01;G4r[F  ]| This, or what else my Faustus shall desire, 
+005:01;G4r[F  ]| Shall be perform'd in$4$ twinkling of an eye.  
+005:01;G4r['  ]| Enter Hellen again, passing over <reg orig="betweene">between</reg> 
+005:01;G4r['  ]| two Cupids. 
+005:01;G4r[A  ]| Was this the face that$6#1$ Launcht a thousand ships, 
+005:01;G4r[A  ]| And burnt the toplesse Towers of Ilium?  
+005:01;G4r[A  ]| Sweet Hellen make me immortall with a kisse:  
+005:01;G4r[A  ]| Her$2$ lips sucke forth my soule, see where it flies.  
+005:01;G4r[A  ]| Come Hellen, come, give me my soule again, 
+005:01;G4r[A  ]| Here will$1$ I dwell, for$3$ heauen is in$4$ these lippes, 
+005:01;G4r[A  ]| And all is drosse that$6#1$ is not Helena.  
+005:01;G4r[A  ]| I will$1$ be Paris, and for$4$ love of thee, 
+005:01;G4r[A  ]| In*stead of Troy shall Wittenberg be sack't, 
+005:01;G4r[A  ]| And I will$1$ combat with weake Menelaus, 
+005:01;G4r[A  ]| And weare thy colours on$4$ my plumed crest.  
+005:01;G4v[A  ]| Yea, I will$1$ wound Achilles in$4$ the heele, 
+005:01;G4v[A  ]| And then returne to$4$ Hellen for$4$ a kisse.  
+005:01;G4v[A  ]| O thou art fairer than the euenings aire, 
+005:01;G4v[A  ]| Clad in$4$ the beauty of a thousand starres:  
+005:01;G4v[A  ]| Brighter art thou than flaming Iupiter, 
+005:01;G4v[A  ]| When he appear'd to$4$ haplesse Semele:  
+005:01;G4v[A  ]| More louely than the Monarch of the sky, 
+005:01;G4v[A  ]| In$4$ wanton Arethusa's azure armes, 
+005:01;G4v[A  ]| And none but thou shalt be my Paramour.  
+005:01;G4v['  ]| Exeunt. 
+005:02;G4v['  ]| Thunder.  Enter Lucifer, Belzebub, and Mephostophilis. 
+005:02;G4v[K  ]| Thus from infernall Dis do we$6#1$ ascend 
+005:02;G4v[K  ]| To$9$ view the subiects of our$6#1$ Monarchy, 
+005:02;G4v[K  ]| Those soules which$6#1$ sinne, seales the blacke sonnes of hell, 
+005:02;G4v[K  ]| <reg orig="'Mong">Among</reg> which$6#1$ as chiefe, Faustus we$6#1$ come to$4$ thee, 
+005:02;G4v[K  ]| Bringing with us$6#1$ lasting damnation, 
+005:02;G4v[K  ]| To$9$ wait upon$4$ thy soule; the time is come 
+005:02;G4v[K  ]| Which$6#1$ makes it forfeit.  
+005:02;G4v[F  ]| And this gloomy night, 
+005:02;G4v[F  ]| Here in$4$ this roome will$1$ wretched Faustus be.  
+005:02;G4v[L  ]| And here we$6#2$ will$1$ stay, 
+005:02;G4v[L  ]| To$9$ marke him how he doth demeane himself.  
+005:02;G4v[F  ]| How should he, but in$4$ desperate lunacie.  
+005:02;G4v[F  ]| Fond worldling, now his heart bloud dries with griefe; 
+005:02;G4v[F  ]| His conscience kils it, and his labouring braine, 
+005:02;G4v[F  ]| Begets a world of idle fantasies, 
+005:02;G4v[F  ]| To$9$ ouer-reach the Diuell; but all in$4$ vaine, 
+005:02;G4v[F  ]| His store of pleasures must be sauc'd with paine.  
+005:02;G4v[F  ]| He and his seruant Wagner are at hand, 
+005:02;G4v[F  ]| Both come from drawing Faustus latest will$0$.  
+005:02;G4v[F  ]| See where they come.  
+005:02;G4v['  ]| Enter Faustus and Wagner. 
+005:02;G4v[A  ]| Say Wagner, thou hast perus'd my will$0$, 
+005:02;G4v[A  ]| How dost thou like$1$ it?  
+005:02;G4v[B  ]| Sir, so$5#1$ wondrous well, 
+005:02;283[B  ]| As in$4$ all humble dutie, I do yeeld 
+005:02;283[B  ]| My life and lasting seruice for$4$ your love.  
+005:02;283['  ]| Enter the scholers. 
+005:02;H1r[A  ]| Gramercies Wagner.  Welcome gentlemen.  
+005:02;H1r[I  ]| Now worthy Faustus:  methinks your looks are chang'd.  
+005:02;H1r[A  ]| O gentlemen.  
+005:02;H1r[J  ]| What ailes Faustus?  
+005:02;H1r[A  ]| Ah my sweet chamber-fellow, had I liu'd with thee, 
+005:02;H1r[A  ]| Then had I liued still, but now must dye eternally.  
+005:02;H1r[A  ]| Look sirs, comes he not, comes he not?  
+005:02;H1r[I  ]| O my deere Faustus what imports this feare?  
+005:02;H1r[J  ]| Is all our$6#2$ pleasure turn'd to$4$ melancholy?  
+005:02;H1r[WQ ]| He is not well with being ouer*solitarie.  
+005:02;H1r[J  ]| If it be so$5#2$, we$6#2$ will$1$ have Physitians, and Faustus shall be 
+005:02;H1r[J  ]| cur'd.  
+005:02;H1r[WQ ]| It is but a surfet sir, feare nothing.  
+005:02;H1r[A  ]| A surfet of deadly sin, that$6#1$ hath damn'd both body 
+005:02;H1r[A  ]| and soule.  
+005:02;H1r[J  ]| Yet Faustus look up$5$ to$4$ heauen, and remember mercy is 
+005:02;H1r[J  ]| infinite.  
+005:02;H1r[A  ]| But Faustus offence can <reg orig="nere">never</reg> be pardoned, 
+005:02;H1r[A  ]| The serpent that$6#1$ tempted Eue may be saued, 
+005:02;H1r[A  ]| But not Faustus.  O gentlemen, hear with patience and tremble 
+005:02;H1r[A  ]| not at my speeches, though my heart pant and quiuer to$9$ remember 
+005:02;H1r[A  ]| that$3$ I have been a student here these 30 yeares.  O 
+005:02;H1r[A  ]| would I had <reg orig="neuer">never</reg> seene Wittenberg, <reg orig="neuer">never</reg> read book, and what 
+005:02;H1r[A  ]| wonders I have done, all Germany can witnesse:  yea all the 
+005:02;H1r[A  ]| world, for$4$ which$6#1$ Faustus hath lost both Germany and the world,  
+005:02;H1r[A  ]| yea heauen itself:  heauen the seate of God, the Throne of 
+005:02;H1r[A  ]| the Blessed, the Kingdome of Ioy, and must remaine in$4$ hell 
+005:02;H1r[A  ]| <reg orig="for euer">forever</reg>.  Hell, O hell <reg orig="for euer">forever</reg>.  Sweet friends, what shall become  
+005:02;H1r[A  ]| of Faustus being in$4$ hell <reg orig="for euer">forever</reg>?  
+005:02;H1r[J  ]| Yet Faustus call on$4$ God.  
+005:02;H1r[A  ]| On$4$ God, whom Faustus hath abiur'd?  on$4$ God, whom 
+005:02;H1r[A  ]| Faustus hath blasphem'd?  O my God, I would weepe, but the 
+005:02;H1r[A  ]| Diuell drawes in$4$ my teares.  Gush forth bloud in*stead of 
+005:02;H1r[A  ]| teares, yea life and soule:  o he stayes my tongue:  I would 
+005:02;H1r[A  ]| lift up$5$ my hands, but see they hold them, they hold them.  
+005:02;H1r[X  ]| Who$6#2$ Faustus?  
+005:02;H1r[A  ]| Why Lucifer and Mephostophilis:  O gentlemen, 
+005:02;H1v[A  ]| I gaue them my soule for$4$ my cunning.  
+005:02;H1v[X  ]| O God forbid.  
+005:02;H1v[A  ]| God forbade it indeed, but Faustus hath done it:  for$4$ 
+005:02;H1v[A  ]| the vaine pleasure of foure*and*twenty yeares hath Faustus 
+005:02;H1v[A  ]| lost eternall ioy and felicitie.  I writ them a bill with mine 
+005:02;H1v[A  ]| <reg orig="owne">own</reg> bloud, the date is expired:  this is the time, and he will$1$ 
+005:02;H1v[A  ]| fetch me.  
+005:02;H1v[I  ]| Why did not Faustus tell us$6#2$ of this before, that$3$ Diuines 
+005:02;H1v[I  ]| might have prayd for$4$ thee?  
+005:02;H1v[A  ]| Oft have I thought to$9$ have done so$5#2$:  but the Diuel 
+005:02;H1v[A  ]| threatned to$9$ teare me in$4$ peeces if I nam'd God:  to$9$ fetch me 
+005:02;H1v[A  ]| body and soule, if I once gaue eare to$4$ Diuinitie:  and now 
+005:02;H1v[A  ]| it is too late.  Gentlemen away, least you perish with 
+005:02;H1v[A  ]| me.  
+005:02;H1v[J  ]| O what may we$6#2$ do to$9$ saue Faustus?  
+005:02;H1v[A  ]| Talke not of me, but saue yourselves and depart.  
+005:02;H1v[WQ ]| God will$1$ strengthen me, I will$1$ stay with Faustus.  
+005:02;H1v[I  ]| Tempt not God sweet friend, but let us$6#2$ into the next 
+005:02;H1v[I  ]| roome, and pray for$4$ him.  
+005:02;H1v[A  ]| Aye, pray for$4$ me, pray for$4$ me:  and what noyse soeuer  
+005:02;H1v[A  ]| you hear, come not unto me, for$3$ nothing can rescue me.  
+005:02;H1v[J  ]| Pray thou, and we$6#2$ will$1$ pray, that$3$ God may have mercie 
+005:02;H1v[J  ]| upon$4$ thee.  
+005:02;H1v[A  ]| Gentlemen farewell:  if I live till morning, I will$1$ visit 
+005:02;H1v[A  ]| you:  if not, Faustus is gone to$4$ hell.  
+005:02;H1v[X  ]| Faustus, farewell.  
+005:02;H1v['  ]| Exeunt Schollers. 
+005:02;H1v[F  ]| Aye Faustus, now thou hast no$2$ hope of heauen, 
+005:02;H1v[F  ]| Therefore despaire, think onely upon$4$ hell; 
+005:02;H1v[F  ]| For$3$ that$6#2$ must be thy mansion, there to$9$ dwell.  
+005:02;H1v[A  ]| O thou bewitching fiend, it was thy temptation, 
+005:02;H1v[A  ]| Hath rob'd me of eternall happinesse.  
+005:02;H1v[F  ]| I do confesse it Faustus, and reioyce; 
+005:02;H1v[F  ]| It was I, that$6#1$ when thou wert in$4$ the way to$4$ heauen, 
+005:02;H1v[F  ]| Damb'd up$5$ thy passage, when thou took'st the booke, 
+005:02;H1v[F  ]| To$9$ view the Scriptures, then I turn'd the leaues 
+005:02;H1v[F  ]| And led thine eye.  
+005:02;H1v[F  ]| What weep'st thou?  it is too late, despaire, farewell, 
+005:02;H2r[F  ]| Fooles that$6#1$ will$1$ laugh on$4$ earth, must weepe in$4$ hell.  
+005:02;H2r['  ]| Exit. 
+005:02;H2r['  ]| Enter the good Angell, and the bad Angell at 
+005:02;H2r['  ]| seuerall doores. 
+005:02;H2r[C  ]| O Faustus, if thou hadst giuen eare to$4$ me, 
+005:02;H2r[C  ]| Innumerable ioyes had followed thee.  
+005:02;H2r[C  ]| But thou didst love the world.  
+005:02;H2r[D  ]| Gaue eare to$4$ me, 
+005:02;H2r[D  ]| And now must taste hels paines perpetually.  
+005:02;H2r[C  ]| O what will$1$ all thy riches, pleasures, pompes, 
+005:02;H2r[C  ]| Auaile thee now?  
+005:02;H2r[D  ]| Nothing but vexe thee more, 
+005:02;H2r[D  ]| To$9$ want in$4$ hell, that$6#1$ had on$4$ earth such store.  
+005:02;H2r['  ]| Musicke while the Throne descends. 
+005:02;H2r[C  ]| O thou hast lost celestial happinesse, 
+005:02;H2r[C  ]| Pleasures vnspeakeable, blisse without end.  
+005:02;H2r[C  ]| Hadst thou affected sweet diuinitie, 
+005:02;H2r[C  ]| Hell, or the Diuell, had had no$2$ power on$4$ thee.  
+005:02;H2r[C  ]| Hadst thou kept on$5$ that$6#2$ way, Faustus behold, 
+005:02;H2r[C  ]| In$4$ what resplendant glory thou hadst set 
+005:02;H2r[C  ]| In$4$ yonder throne, like$4$ those bright shining Saints, 
+005:02;H2r[C  ]| And triumpht over hell, that$6#2$ hast thou lost, 
+005:02;H2r[C  ]| And now poore soule must thy good Angell leaue thee, 
+005:02;H2r[C  ]| The iawes of hell are open to$9$ receiue thee.  
+005:02;H2r['  ]| Exit. 
+005:02;H2r['  ]| Hell is discouered. 
+005:02;H2r[D  ]| Now Faustus let thine eyes with horror stare 
+005:02;H2r[D  ]| Into that$6#2$ vaste perpetuall torture-house, 
+005:02;H2r[D  ]| There are the Furies tossing damned soules, 
+005:02;H2r[D  ]| On$4$ burning forkes: their bodies broyle in$4$ lead.  
+005:02;H2r[D  ]| There are live quarters broyling on$4$ the coles, 
+005:02;H2r[D  ]| That$6#1$ <reg orig="ner'e">never</reg> can die:  this euer-burning chaire, 
+005:02;H2r[D  ]| Is for$4$ ore-tortur'd soules to$9$ rest them in$5$.  
+005:02;H2r[D  ]| These, that$6#1$ are fed with soppes of flaming fire, 
+005:02;H2r[D  ]| Were gluttons, and lou'd only delicates, 
+005:02;H2r[D  ]| And laught to$9$ see the poore starue at their gates:  
+005:02;H2r[D  ]| But yet all these are nothing, thou shalt see 
+005:02;H2v[D  ]| ten thousand tortures that$6#1$ more horrid be.  
+005:02;H2v[A  ]| O, I have seene enough to$9$ torture me.  
+005:02;H2v[D  ]| Nay, thou must feele them, taste the smart of all.  
+005:02;H2v[D  ]| He that$6#1$ loues pleasure, must for$4$ pleasure fall:  
+005:02;H2v[D  ]| And so$5#2$ I leaue thee Faustus till anon, 
+005:02;H2v[D  ]| Then wilt thou tumble in$4$ confusion.  
+005:02;H2v['  ]| Exit. 
+005:02;H2v['  ]| The Clock strikes eleuen. 
+005:02;H2v[A  ]| O Faustus, 
+005:02;H2v[A  ]| Now hast thou but one bare houre to$9$ live, 
+005:02;H2v[A  ]| And then thou must be damn'd perpetually.  
+005:02;H2v[A  ]| Stand still you euer*mouing Spheares of heauen, 
+005:02;H2v[A  ]| That$3$ time may cease, and midnight <reg orig="neuer">never</reg> come.  
+005:02;H2v[A  ]| Fair natures eye, rise, rise again and make 
+005:02;H2v[A  ]| Perpetuall day:  or let this houre be but a yeare, 
+005:02;H2v[A  ]| A month, a weeke, a naturall day, 
+005:02;H2v[A  ]| That$3$ Faustus may repent, and saue his soule.  
+005:02;H2v[A  ]| <foreign>7O 7lente 7lente 7currite 7noctis 7equi</foreign>: 
+005:02;H2v[A  ]| The Stars moue still, Time runs, the Clocke will$1$ strike.  
+005:02;H2v[A  ]| The deuill will$1$ come, and Faustus must be damn'd.  
+005:02;H2v[A  ]| O I will$1$ leape up$5$ to$4$ heauen:  who$6#2$ puls me down?  
+005:02;H2v[A  ]| One drop of bloud will$1$ saue me;  o my Christ, 
+005:02;H2v[A  ]| Rend not my heart, for$4$ naming of my Christ.  
+005:02;H2v[A  ]| Yet will$1$ I call on$4$ him:  O spare me Lucifer.  
+005:02;H2v[A  ]| Where is it now?  it is gone.  
+005:02;H2v[A  ]| And see a threatning Arme, an angry Brow.  
+005:02;H2v[A  ]| Mountaines and Hils, come, come, and fall on$4$ me, 
+005:02;H2v[A  ]| And hide me from the heauy wrath of heauen.  
+005:02;H2v[A  ]| No$7$?  Then will$1$ I headlong run into the earth:  
+005:02;H2v[A  ]| Gape earth; O no$7$, it will$1$ not harbour me.  
+005:02;H2v[A  ]| You Starres that$6#1$ raign'd at my natiuity, 
+005:02;H2v[A  ]| Whose influence hath allotted death and hell; 
+005:02;H2v[A  ]| Now draw up$5$ Faustus like$4$ a foggy mist, 
+005:02;H2v[A  ]| Into the entrals of yon labouring cloud, 
+005:02;H2v[A  ]| That$3$ when you vomite forth into the aire, 
+005:02;H2v[A  ]| My limbes may issue from your smoky mouthes, 
+005:02;H2v[A  ]| But let my soule mount, and ascend to$4$ heauen.  
+005:02;H2v['  ]| The Watch strikes. 
+005:02;H3r[A  ]| O halfe the houre is past: it will$1$ all be past anone:  
+005:02;H3r[A  ]| O, if my soule must suffer for$4$ my sinne, 
+005:02;H3r[A  ]| Let Faustus live in$4$ hell a thousand yeares, 
+005:02;H3r[A  ]| A hundred thousand, and at last be sau'd.  
+005:02;H3r[A  ]| No$2$ end is limited to$4$ damned soules.  
+005:02;H3r[A  ]| Why wert thou not a creature wanting soule?  
+005:02;H3r[A  ]| Or why is this immortall that$6#1$ thou hast?  
+005:02;H3r[A  ]| O Phythagoras Metemsycosis; were that$6#2$ true, 
+005:02;H3r[A  ]| This soule should flie from me, and I be chang'd 
+005:02;H3r[A  ]| Into some brutish beast.  
+005:02;H3r[A  ]| All beasts are happy, for$3$ when they die, 
+005:02;H3r[A  ]| Their soules are soon dissolu'd in$4$ elements, 
+005:02;H3r[A  ]| But mine must live still to$9$ be plagu'd in$4$ hell.  
+005:02;H3r[A  ]| Curst be the parents that$6#1$ ingendred me; 
+005:02;H3r[A  ]| No$7$ Faustus, curse thyself, curse Lucifer, 
+005:02;H3r[A  ]| That$6#1$ hath depriu'd thee of the ioies of heauen.  
+005:02;H3r['  ]| The clocke strikes twelue 
+005:02;H3r[A  ]| It strikes, it strikes; now body turne to$4$ aire, 
+005:02;H3r[A  ]| Or Lucifer will$1$ beare thee quicke to$4$ hell.  
+005:02;H3r[A  ]| O soule be chang'd into small water drops, 
+005:02;H3r[A  ]| and fall into the Ocean <reg orig="ne're">never</reg> be found.  
+005:02;H3r['  ]| Thunder, and enter the deuils. 
+005:02;H3r[A  ]| O mercy heauen, look not so$5#1$ fierce on$4$ me; 
+005:02;H3r[A  ]| Adders and serpents let me breathe a while:  
+005:02;H3r[A  ]| Vgly hell gape not; come not Lucifer, 
+005:02;H3r[A  ]| I will$1$ burne my bookes; o Mephostophilis.  
+005:02;H3r['  ]| Exeunt. 
+005:03;H3r['  ]| Enter the Schollers. 
+005:03;H3r[I  ]| Come Gentlemen, let us$6#2$ go visit Faustus, 
+005:03;H3r[I  ]| For$3$ such a dreadfull night, was <reg orig="neuer">never</reg> seene, 
+005:03;H3r[I  ]| Since first the worlds creation did begin.  
+005:03;H3r[I  ]| Such fearefull shrikes, and cries, were <reg orig="neuer">never</reg> heard, 
+005:03;H3r[I  ]| Pray heauen the Doctor have escapt the danger.  
+005:03;H3r[J  ]| O help us$6#2$ heauen, see, here are Faustus limbs, 
+005:03;H3r[J  ]| All torne asunder by$4$ the hand of death.  
+005:03;H3v[WQ ]| The deuils whom Faustus seru'd have torne him thus:  
+005:03;H3v[WQ ]| For$3$ twixt the houres of twelue and one, methought 
+005:03;H3v[WQ ]| I heard him shreeke and call aloud for$4$ helpe:  
+005:03;H3v[WQ ]| At which$6#1$ self time the house seem'd all on$4$ fire, 
+005:03;H3v[WQ ]| With dreadfull horror of these damned fiends.  
+005:03;H3v[J  ]| Well Gentlemen, though Faustus end be such 
+005:03;H3v[J  ]| As <reg orig="euery">every</reg> Christian heart laments to$9$ think on$5$:  
+005:03;H3v[J  ]| Yet for$3$ he was a Scholler, once admired 
+005:03;H3v[J  ]| For$4$ wondrous knowledge in$4$ our$6#2$ Germane schooles, 
+005:03;H3v[J  ]| We$6#2$ will$1$ give his mangled limbs due buryall:  
+005:03;H3v[J  ]| And all the Students clothed in$4$ mourning blacke, 
+005:03;H3v[J  ]| Shall waite upon$4$ his heauy funerall.  
+005:03;H3v['  ]| Exeunt. 
+005:03;H3v['  ]| Enter Chorus. 
+005:03;H3v[U  ]| Cut is the branch that$6#1$ might have growne full straight, 
+005:03;H3v[U  ]| And burned is Apollo's Lawrell bough, 
+005:03;H3v[U  ]| That$6#1$ some*time grew within$4$ this learned man, 
+005:03;H3v[U  ]| Faustus is gone, regard his hellish fall, 
+005:03;H3v[U  ]| Whose fiendfull fortune may exhort the wise 
+005:03;H3v[U  ]| Onely to$9$ wonder at vnlawfull things:  
+005:03;H3v[U  ]| Whose deepnesse doth intice such forward wits, 
+005:03;H3v[U  ]| To$9$ practise more than heauenly power permits.  
+005:03;H3v[U  ]| <foreign>7Terminat 7hora 7diem, 7Terminat 7Author 7opus</foreign>. 
+005:03;H3v['  ]| FINIS. </div2>
